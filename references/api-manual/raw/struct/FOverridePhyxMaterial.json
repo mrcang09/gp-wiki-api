@@ -1,0 +1,18 @@
+{
+  "Name": "FOverridePhyxMaterial",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "OriginalPhysxMaterial",
+      "Type": "TArray < UPhysicalMaterial * >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "OverridePhysxMaterial",
+      "Type": "TArray < UPhysicalMaterial * >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

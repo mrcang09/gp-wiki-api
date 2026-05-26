@@ -1,0 +1,21 @@
+{
+  "Name": "ELayoutStrategy",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Circle",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "FixedPoints",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Custom",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

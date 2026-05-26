@@ -1,0 +1,16 @@
+{
+  "Name": "EPEPassiveSkillMergeType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "EPEPassiveSkillMergeType_TheOne",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "EPEPassiveSkillMergeType_NoMerge",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

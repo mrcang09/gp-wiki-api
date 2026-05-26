@@ -1,0 +1,18 @@
+{
+  "Name": "FLandscapeEditorLayerSettings",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "LayerInfoObj",
+      "Type": "ULandscapeLayerInfoObject *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ReimportLayerFilePath",
+      "Type": "FString",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

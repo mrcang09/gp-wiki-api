@@ -1,0 +1,36 @@
+{
+  "Name": "FAnimNode_MultiWayBlend",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Poses",
+      "Type": "TArray < FPoseLink >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DesiredAlphas",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bAdditiveNode",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bNormalizeAlpha",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "AlphaScaleBias",
+      "Type": "FInputScaleBias",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

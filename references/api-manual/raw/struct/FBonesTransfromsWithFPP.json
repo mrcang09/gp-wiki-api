@@ -1,0 +1,18 @@
+{
+  "Name": "FBonesTransfromsWithFPP",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Names",
+      "Type": "TArray < FName >",
+      "Description": "Array of names",
+      "Redirect": ""
+    },
+    {
+      "Name": "Transforms",
+      "Type": "TArray < FTransform >",
+      "Description": "Array of transforms",
+      "Redirect": ""
+    }
+  ]
+}

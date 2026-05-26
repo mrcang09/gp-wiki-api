@@ -1,0 +1,21 @@
+{
+  "Name": "EWrapperInterpolationMethod",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "None",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Linear",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Random",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

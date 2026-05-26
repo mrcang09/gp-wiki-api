@@ -1,0 +1,12 @@
+{
+  "Name": "FActorSet",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Actors",
+      "Type": "TArray < AActor * >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

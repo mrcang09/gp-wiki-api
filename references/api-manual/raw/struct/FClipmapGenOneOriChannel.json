@@ -1,0 +1,30 @@
+{
+  "Name": "FClipmapGenOneOriChannel",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "OriTexture",
+      "Type": "UTexture2D *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseForLandLayer",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LandLayerInfo",
+      "Type": "ULandscapeLayerInfoObject *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Channel",
+      "Type": "TEnumAsByte < EClipmapGenChannel >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

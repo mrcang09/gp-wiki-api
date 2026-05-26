@@ -1,0 +1,24 @@
+{
+  "Name": "FBlueprintInputKeyDelegateBinding",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "InputChord",
+      "Type": "FInputChord",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "InputKeyEvent",
+      "Type": "TEnumAsByte < EInputEvent >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FunctionNameToBind",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Name": "ELayoutRotationStrategy",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "FaceOwner",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Uniform",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Random",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "PerPoint",
+      "Value": "3",
+      "Description": " "
+    },
+    {
+      "Name": "Custom",
+      "Value": "4",
+      "Description": " "
+    }
+  ]
+}

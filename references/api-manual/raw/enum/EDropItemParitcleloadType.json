@@ -1,0 +1,16 @@
+{
+  "Name": "EDropItemParitcleloadType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "StrongReference",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "SoftReference",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

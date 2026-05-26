@@ -1,0 +1,16 @@
+{
+  "Name": "EUGCPIELuaDebugMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "LUA_HELPER",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "EMMY_LUA",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

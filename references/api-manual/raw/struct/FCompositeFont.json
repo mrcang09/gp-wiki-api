@@ -1,0 +1,18 @@
+{
+  "Name": "FCompositeFont",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "DefaultTypeface",
+      "Type": "FTypeface",
+      "Description": "The default typeface that will be used when not overridden by a sub-typeface",
+      "Redirect": ""
+    },
+    {
+      "Name": "SubTypefaces",
+      "Type": "TArray < FCompositeSubFont >",
+      "Description": "Sub-typefaces to use for a specific set of characters",
+      "Redirect": ""
+    }
+  ]
+}

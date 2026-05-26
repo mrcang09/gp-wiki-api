@@ -1,0 +1,78 @@
+{
+  "Name": "FAnimNode_LayeredBoneBlend",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "BasePose",
+      "Type": "FPoseLink",
+      "Description": "The source pose",
+      "Redirect": ""
+    },
+    {
+      "Name": "BlendPoses",
+      "Type": "TArray < FPoseLink >",
+      "Description": "Each layer's blended pose",
+      "Redirect": ""
+    },
+    {
+      "Name": "LayerSetup",
+      "Type": "TArray < FInputBlendPose >",
+      "Description": "Configuration for the parts of the skeleton to blend for each layer. Allows\n\t  certain parts of the tree to be blended out or omitted from the pose.",
+      "Redirect": ""
+    },
+    {
+      "Name": "BlendWeights",
+      "Type": "TArray < float >",
+      "Description": "The weights of each layer",
+      "Redirect": ""
+    },
+    {
+      "Name": "bMeshSpaceRotationBlend",
+      "Type": "bool",
+      "Description": "Whether to blend bone rotations in mesh space or in local space",
+      "Redirect": ""
+    },
+    {
+      "Name": "CurveBlendOption",
+      "Type": "TEnumAsByte < enum ECurveBlendOption :: Type >",
+      "Description": "How to blend the layers together",
+      "Redirect": ""
+    },
+    {
+      "Name": "bBlendRootMotionBasedOnRootBone",
+      "Type": "bool",
+      "Description": "Whether to incorporate the per-bone blend weight of the root bone when lending root motion",
+      "Redirect": ""
+    },
+    {
+      "Name": "bHasRelevantPoses",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "PerBoneBlendWeights",
+      "Type": "TArray < FPerBoneBlendWeight >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "SkeletonGuid",
+      "Type": "FGuid",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "VirtualBoneGuid",
+      "Type": "FGuid",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DesiredBoneBlendWeightsInitMesh",
+      "Type": "TWeakObjectPtr < USkeletalMesh >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

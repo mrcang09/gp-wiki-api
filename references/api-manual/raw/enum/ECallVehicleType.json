@@ -1,0 +1,21 @@
+{
+  "Name": "ECallVehicleType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "None",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "AvatarHorse",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Elk",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

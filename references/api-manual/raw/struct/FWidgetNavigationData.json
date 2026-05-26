@@ -1,0 +1,24 @@
+{
+  "Name": "FWidgetNavigationData",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Rule",
+      "Type": "EUINavigationRule",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "WidgetToFocus",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Widget",
+      "Type": "TWeakObjectPtr < UWidget >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

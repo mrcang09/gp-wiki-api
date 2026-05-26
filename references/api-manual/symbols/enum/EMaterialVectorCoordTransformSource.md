@@ -1,0 +1,22 @@
+# EMaterialVectorCoordTransformSource
+
+- Symbol Type: enum
+- Symbol Path: EMaterialVectorCoordTransformSource
+- Source JSON Path: cppenum/detail/EMaterialVectorCoordTransformSource.json
+- Source JSON URL: https://developer.gp.qq.com/api/cppenum/detail/EMaterialVectorCoordTransformSource.json
+- Mirrored At (UTC): 2026-05-19 08:24:04Z
+
+---
+
+## Variables
+
+| Name | Value | Description |
+| --- | --- | --- |
+| TRANSFORMSOURCE_Tangent | 0 |   |
+| TRANSFORMSOURCE_Local | 1 |   |
+| TRANSFORMSOURCE_World | 2 |   |
+| TRANSFORMSOURCE_View | 3 |   |
+| TRANSFORMSOURCE_Camera | 4 |   |
+| TRANSFORMSOURCE_ParticleWorld | 5 |   |
+| TRANSFORMSOURCE_Instance | 6 |   |
+| TRANSFORMSOURCE_MAX | 7 |   |

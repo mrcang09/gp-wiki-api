@@ -1,0 +1,18 @@
+{
+  "Name": "FCrowdAvoidanceSamplingPattern",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Angles",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Radii",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

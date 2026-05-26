@@ -1,0 +1,21 @@
+{
+  "Name": "EShowPCSkillPromptType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "HUDSkill",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "BackpackPrompt",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "VehicleRepairPrompt",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

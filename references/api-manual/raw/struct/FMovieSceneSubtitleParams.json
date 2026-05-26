@@ -1,0 +1,18 @@
+{
+  "Name": "FMovieSceneSubtitleParams",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "SubTitleText",
+      "Type": "FText",
+      "Description": "BlendOutTimeWhenStop",
+      "Redirect": ""
+    },
+    {
+      "Name": "Tags",
+      "Type": "TArray < FMovieSceneSubtitleTagsKeyValue >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

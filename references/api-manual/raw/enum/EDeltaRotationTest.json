@@ -1,0 +1,16 @@
+{
+  "Name": "EDeltaRotationTest",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Prone",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "KnockedDown",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

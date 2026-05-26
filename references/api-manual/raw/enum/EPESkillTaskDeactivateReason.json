@@ -1,0 +1,16 @@
+{
+  "Name": "EPESkillTaskDeactivateReason",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "TaskEnd",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "SkillDeactivated",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# ESkillActionParticleParamType
+
+- Symbol Type: enum
+- Symbol Path: ESkillActionParticleParamType
+- Source JSON Path: cppenum/detail/ESkillActionParticleParamType.json
+- Source JSON URL: https://developer.gp.qq.com/api/cppenum/detail/ESkillActionParticleParamType.json
+- Mirrored At (UTC): 2026-05-19 08:24:19Z
+
+---
+
+## Variables
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Float | 0 |   |
+| Vector | 1 |   |

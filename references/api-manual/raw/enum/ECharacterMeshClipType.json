@@ -1,0 +1,16 @@
+{
+  "Name": "ECharacterMeshClipType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "PlaneClip",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "SphereClip",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

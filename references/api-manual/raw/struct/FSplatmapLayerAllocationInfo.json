@@ -1,0 +1,24 @@
+{
+  "Name": "FSplatmapLayerAllocationInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "BiomesInfo",
+      "Type": "ULandscapeBiomesInfoObject *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LayerInfo",
+      "Type": "ULandscapeLayerInfoObject *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MaterialId",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

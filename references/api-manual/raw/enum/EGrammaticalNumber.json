@@ -1,0 +1,16 @@
+{
+  "Name": "EGrammaticalNumber",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Singular",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Plural",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

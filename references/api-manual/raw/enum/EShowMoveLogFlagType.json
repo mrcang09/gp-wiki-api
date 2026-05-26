@@ -1,0 +1,21 @@
+{
+  "Name": "EShowMoveLogFlagType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "MVLogType_None",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "MVLogType_MoveLogExtend",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "MVLogType_Trace",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

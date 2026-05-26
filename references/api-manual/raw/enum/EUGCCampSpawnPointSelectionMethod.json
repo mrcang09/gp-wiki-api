@@ -1,0 +1,16 @@
+{
+  "Name": "EUGCCampSpawnPointSelectionMethod",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "DesignatedCampSpawnLocation",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "DesignatedCampPlayerStartID",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

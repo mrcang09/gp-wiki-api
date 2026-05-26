@@ -1,0 +1,16 @@
+{
+  "Name": "EKawaiiAnimNodeReferenceConversionResult",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Succeeded",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Failed",
+      "Value": "0",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "ELockOperation",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Acquire",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Release",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

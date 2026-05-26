@@ -1,0 +1,24 @@
+{
+  "Name": "FVisibilityTrackKey",
+  "Description": "Information for one toggle in the track.",
+  "Variables": [
+    {
+      "Name": "Time",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Action",
+      "Type": "TEnumAsByte < enum EVisibilityTrackAction >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ActiveCondition",
+      "Type": "TEnumAsByte < enum EVisibilityTrackCondition >",
+      "Description": "Condition that must be satisfied for this key event to fire",
+      "Redirect": ""
+    }
+  ]
+}

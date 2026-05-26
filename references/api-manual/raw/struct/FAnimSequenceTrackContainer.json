@@ -1,0 +1,18 @@
+{
+  "Name": "FAnimSequenceTrackContainer",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "AnimationTracks",
+      "Type": "TArray < struct FRawAnimSequenceTrack >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TrackNames",
+      "Type": "TArray < FName >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

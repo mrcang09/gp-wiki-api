@@ -1,0 +1,21 @@
+{
+  "Name": "EZipUtilityCompletionState",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "SUCCESS",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "FAILURE_NOT_FOUND",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "FAILURE_UNKNOWN",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "FTextureLODGroupFilterOverride",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Group",
+      "Type": "TEnumAsByte < TextureGroup >",
+      "Description": "Minimum LOD mip count below which the code won't bias.",
+      "Redirect": ""
+    },
+    {
+      "Name": "MinMagFilter",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MipFilter",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

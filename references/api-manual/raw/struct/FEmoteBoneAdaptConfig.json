@@ -1,0 +1,18 @@
+{
+  "Name": "FEmoteBoneAdaptConfig",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "EmoteBoneToAdapt",
+      "Type": "FBoneReference",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EmoteBoneToAdaptOffset",
+      "Type": "FTransform",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

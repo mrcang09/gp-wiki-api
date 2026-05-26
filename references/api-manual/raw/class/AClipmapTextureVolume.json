@@ -1,0 +1,25 @@
+{
+  "Name": "AClipmapTextureVolume",
+  "Description": "Actor used to place a URuntimeVirtualTexture in the world.",
+  "Variables": [
+    {
+      "Name": "ClipmapTextureComponent",
+      "Type": "UClipmapTextureComponent *",
+      "Description": "Component that owns the runtime virtual texture.",
+      "Redirect": ""
+    },
+    {
+      "Name": "Box",
+      "Type": "UBoxComponent *",
+      "Description": "Box for visualizing virtual texture extents.",
+      "Redirect": ""
+    }
+  ],
+  "Functions": null,
+  "Parents": [
+    "AActor"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

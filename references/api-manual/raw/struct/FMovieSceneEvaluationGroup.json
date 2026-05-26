@@ -1,0 +1,18 @@
+{
+  "Name": "FMovieSceneEvaluationGroup",
+  "Description": "Holds segment pointers for all segments that are active for a given range of the sequence",
+  "Variables": [
+    {
+      "Name": "LUTIndices",
+      "Type": "TArray < FMovieSceneEvaluationGroupLUTIndex >",
+      "Description": "Array of indices that define all the flush groups in the range.",
+      "Redirect": ""
+    },
+    {
+      "Name": "SegmentPtrLUT",
+      "Type": "TArray < FMovieSceneEvaluationFieldSegmentPtr >",
+      "Description": "A grouping of evaluation pointers that occur in this range of the sequence",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Name": "FSkinDynamicElemKey",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "UniqueElemID",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ParentName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "WidgetClass",
+      "Type": "TSubclassOf < UWidget >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "RuntimeWidget",
+      "Type": "TWeakObjectPtr < UWidget >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DisplayName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

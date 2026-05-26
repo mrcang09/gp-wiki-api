@@ -1,0 +1,12 @@
+{
+  "Name": "FRawDistribution",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Table",
+      "Type": "FDistributionLookupTable",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

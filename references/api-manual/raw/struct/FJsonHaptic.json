@@ -1,0 +1,12 @@
+{
+  "Name": "FJsonHaptic",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "JsonValue",
+      "Type": "FString",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

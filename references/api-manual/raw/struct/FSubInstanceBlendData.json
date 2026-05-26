@@ -1,0 +1,30 @@
+{
+  "Name": "FSubInstanceBlendData",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "CacheInstance",
+      "Type": "TWeakObjectPtr < UAnimInstance >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BlendOutTime",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BlendOutTimeCounter",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BlendOutWeight",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

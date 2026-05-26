@@ -1,0 +1,18 @@
+# EUGCLandscapeToolNoiseMode
+
+- Symbol Type: enum
+- Symbol Path: EUGCLandscapeToolNoiseMode
+- Source JSON Path: cppenum/detail/EUGCLandscapeToolNoiseMode.json
+- Source JSON URL: https://developer.gp.qq.com/api/cppenum/detail/EUGCLandscapeToolNoiseMode.json
+- Mirrored At (UTC): 2026-05-19 08:24:25Z
+
+---
+
+## Variables
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Invalid | -1 |   |
+| Both | 0 | -- the value appears as -1 more due to UHT parse error rather than it actually be -1. |
+| Add | 1 |   |
+| Sub | 2 |   |

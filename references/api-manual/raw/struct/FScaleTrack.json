@@ -1,0 +1,18 @@
+{
+  "Name": "FScaleTrack",
+  "Description": "Keyframe scale data for one track.  Scale(i) occurs at Time(i).  Rot.Num() always equals Time.Num().",
+  "Variables": [
+    {
+      "Name": "ScaleKeys",
+      "Type": "TArray < FVector >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Times",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Name": "UMaterialExpressionLandscapeMaterialIdWeight",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "TestMaterialId",
+      "Type": "FExpressionInput",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LayerName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ExpressionGUID",
+      "Type": "FGuid",
+      "Description": "",
+      "Redirect": ""
+    }
+  ],
+  "Functions": null,
+  "Parents": [
+    "UMaterialExpression"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

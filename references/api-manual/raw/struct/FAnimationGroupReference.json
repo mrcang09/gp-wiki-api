@@ -1,0 +1,30 @@
+{
+  "Name": "FAnimationGroupReference",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "GroupName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GroupRole",
+      "Type": "TEnumAsByte < EAnimGroupRole :: Type >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bNeedAnimNotifyWhenNotLeader",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bShouldSortWithTimeAccumulator",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "FScriptNetworkRemoteContent",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Content",
+      "Type": "TArray < uint8 >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ContentNumBits",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

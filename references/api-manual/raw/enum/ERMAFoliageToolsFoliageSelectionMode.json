@@ -1,0 +1,16 @@
+{
+  "Name": "ERMAFoliageToolsFoliageSelectionMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "FTFSM_All",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "FTFSM_Selection",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

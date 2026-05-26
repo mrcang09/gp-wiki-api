@@ -1,0 +1,16 @@
+{
+  "Name": "EUGCMobileDataOperationReason",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "None",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Preview",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

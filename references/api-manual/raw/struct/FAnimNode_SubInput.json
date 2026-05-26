@@ -1,0 +1,18 @@
+{
+  "Name": "FAnimNode_SubInput",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Index",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bEnableForwardUpdateStreamTriggerNotify",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

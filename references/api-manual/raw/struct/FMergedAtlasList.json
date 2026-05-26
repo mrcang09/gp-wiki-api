@@ -1,0 +1,18 @@
+{
+  "Name": "FMergedAtlasList",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "AtlasList",
+      "Type": "TMap < ETextureType , FAtlasTexList >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ReferenceAtlasType",
+      "Type": "ETextureType",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "FFloatDistribution",
+  "Description": "Type-safe floating point distribution.",
+  "Variables": [
+    {
+      "Name": "Table",
+      "Type": "FDistributionLookupTable",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

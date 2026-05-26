@@ -1,0 +1,16 @@
+{
+  "Name": "EUGCFeatureLevelPreview",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "PCD3D_SM5",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "PCD3D_ES31",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

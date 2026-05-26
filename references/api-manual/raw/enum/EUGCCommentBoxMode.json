@@ -1,0 +1,16 @@
+{
+  "Name": "EUGCCommentBoxMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UGC_GroupMovement",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_NoGroupMovement",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

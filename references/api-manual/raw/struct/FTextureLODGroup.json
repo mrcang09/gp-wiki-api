@@ -1,0 +1,54 @@
+{
+  "Name": "FTextureLODGroup",
+  "Description": "LOD settings for a single texture group.",
+  "Variables": [
+    {
+      "Name": "Group",
+      "Type": "TEnumAsByte < TextureGroup >",
+      "Description": "Minimum LOD mip count below which the code won't bias.",
+      "Redirect": ""
+    },
+    {
+      "Name": "LODBias",
+      "Type": "int32",
+      "Description": "Group LOD bias.",
+      "Redirect": ""
+    },
+    {
+      "Name": "NumStreamedMips",
+      "Type": "int32",
+      "Description": "Number of mip-levels that can be streamed. -1 means all mips can stream.",
+      "Redirect": ""
+    },
+    {
+      "Name": "MipGenSettings",
+      "Type": "TEnumAsByte < TextureMipGenSettings >",
+      "Description": "Defines how the the mip-map generation works, e.g. sharpening",
+      "Redirect": ""
+    },
+    {
+      "Name": "MinLODSize",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MaxLODSize",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MinMagFilter",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MipFilter",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

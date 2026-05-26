@@ -1,0 +1,16 @@
+{
+  "Name": "ELuaTriggerType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "EventSystemBind",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "DelegateBind",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "EPCGHeightMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "SnapToGround",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "KeepAbsoluteHeight",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "KeepRelativeHeight",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "EChangeWeatherReason",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "BlendOut",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "BlendIn",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

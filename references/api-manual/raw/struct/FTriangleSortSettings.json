@@ -1,0 +1,24 @@
+{
+  "Name": "FTriangleSortSettings",
+  "Description": "Struct containing triangle sort settings for a particular section",
+  "Variables": [
+    {
+      "Name": "TriangleSorting",
+      "Type": "TEnumAsByte < enum ETriangleSortOption >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CustomLeftRightAxis",
+      "Type": "TEnumAsByte < enum ETriangleSortAxis >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CustomLeftRightBoneName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

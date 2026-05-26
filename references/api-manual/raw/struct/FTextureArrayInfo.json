@@ -1,0 +1,30 @@
+{
+  "Name": "FTextureArrayInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "TextureArray",
+      "Type": "UTexture2DArray *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TextureArrayResolution",
+      "Type": "FIntPoint",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TextureToTextureIndexMap",
+      "Type": "TMap < UTexture2D * , int32 >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CachedTextureArrayHash",
+      "Type": "uint32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

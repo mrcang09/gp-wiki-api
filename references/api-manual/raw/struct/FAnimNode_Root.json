@@ -1,0 +1,12 @@
+{
+  "Name": "FAnimNode_Root",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Result",
+      "Type": "FPoseLink",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

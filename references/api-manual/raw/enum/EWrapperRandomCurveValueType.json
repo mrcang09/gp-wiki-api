@@ -1,0 +1,21 @@
+{
+  "Name": "EWrapperRandomCurveValueType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Constant",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Random",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Curve",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

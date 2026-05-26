@@ -1,0 +1,16 @@
+{
+  "Name": "ESurroundState",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "SurroundState",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Normal",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

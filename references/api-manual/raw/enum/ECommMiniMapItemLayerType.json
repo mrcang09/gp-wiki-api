@@ -1,0 +1,16 @@
+{
+  "Name": "ECommMiniMapItemLayerType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "ItemLayer",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "MapLayer",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

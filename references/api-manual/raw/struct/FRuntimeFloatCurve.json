@@ -1,0 +1,18 @@
+{
+  "Name": "FRuntimeFloatCurve",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "EditorCurveData",
+      "Type": "FRichCurve",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ExternalCurve",
+      "Type": "UCurveFloat *",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

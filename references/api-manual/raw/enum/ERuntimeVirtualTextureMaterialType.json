@@ -1,0 +1,51 @@
+{
+  "Name": "ERuntimeVirtualTextureMaterialType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "BaseColor",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Mask4",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "BaseColor_Normal_Roughness",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "BaseColor_Normal_Specular",
+      "Value": "3",
+      "Description": " "
+    },
+    {
+      "Name": "BaseColor_Normal_Specular_YCoCg",
+      "Value": "4",
+      "Description": " "
+    },
+    {
+      "Name": "BaseColor_Normal_Specular_Mask_YCoCg",
+      "Value": "5",
+      "Description": " "
+    },
+    {
+      "Name": "WorldHeight",
+      "Value": "6",
+      "Description": " "
+    },
+    {
+      "Name": "Displacement",
+      "Value": "7",
+      "Description": " "
+    },
+    {
+      "Name": "Count",
+      "Value": "8",
+      "Description": " "
+    }
+  ]
+}

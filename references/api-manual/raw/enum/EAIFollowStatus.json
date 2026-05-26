@@ -1,0 +1,16 @@
+{
+  "Name": "EAIFollowStatus",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Idle",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Follow",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

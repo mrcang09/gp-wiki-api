@@ -1,0 +1,24 @@
+{
+  "Name": "FInterpCurveTwoVectors",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Points",
+      "Type": "TArray < FInterpCurvePointTwoVectors >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bIsLooped",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LoopKeyOffset",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

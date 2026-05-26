@@ -1,0 +1,21 @@
+{
+  "Name": "EHomeStoreGlobalEventType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Default",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "PlayerEnter",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "PlayerBuyGoods",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

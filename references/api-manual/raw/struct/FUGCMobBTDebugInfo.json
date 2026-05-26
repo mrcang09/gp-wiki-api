@@ -1,0 +1,18 @@
+{
+  "Name": "FUGCMobBTDebugInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Trees",
+      "Type": "TArray < FUGCMobBTDebugTreeInfo >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Elems",
+      "Type": "TArray < FUGCMobBTDebugTreeElemInfo >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

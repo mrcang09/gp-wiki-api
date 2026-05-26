@@ -1,0 +1,16 @@
+{
+  "Name": "ESlateCheckBoxType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "CheckBox",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "ToggleButton",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

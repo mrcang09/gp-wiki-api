@@ -1,0 +1,11 @@
+{
+  "Name": "EDeliverTargetLimitAreaType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "EDeliverTargetLimitAreaType_ForbiddenArea",
+      "Value": "0",
+      "Description": " "
+    }
+  ]
+}

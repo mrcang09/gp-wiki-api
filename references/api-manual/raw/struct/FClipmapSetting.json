@@ -1,0 +1,48 @@
+{
+  "Name": "FClipmapSetting",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "NumMip",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TotalMip",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "PixelBytes",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DecompressPixelBytes",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BlockSizeX",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BlockSizeY",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "PixelFormat",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

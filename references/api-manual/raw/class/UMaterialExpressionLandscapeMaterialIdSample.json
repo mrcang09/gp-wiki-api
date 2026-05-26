@@ -1,0 +1,127 @@
+{
+  "Name": "UMaterialExpressionLandscapeMaterialIdSample",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "DiffuseSamplerType",
+      "Type": "TEnumAsByte < enum EMaterialSamplerType >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "NormalSamplerType",
+      "Type": "TEnumAsByte < enum EMaterialSamplerType >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseTextureTransform",
+      "Type": "bool",
+      "Description": "If apply rotationscaling separately when sample diffusenormal texture array.",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseDeltaForceHeightBlend",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseLargeWeight",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LargeWeight",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bSkipNormalLowQuality",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DeltaForceHeightBlendFactorInput",
+      "Type": "FExpressionInput",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseApplyNoiseLow",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseApplyNoiseHigh",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseApplyNoiseMedium",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseApplyNoiseUltimateHigh",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseOneTextureInsteadFar",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bHasHole",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseLayerDensity",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bDebugES2",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bDebugBlend4Pixels",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ExpressionGUID",
+      "Type": "FGuid",
+      "Description": "GUID that should be unique within the material, this is used for parameter renaming.",
+      "Redirect": ""
+    },
+    {
+      "Name": "NumParentInputs",
+      "Type": "int32",
+      "Description": "Number of inputs from parent class",
+      "Redirect": ""
+    }
+  ],
+  "Functions": null,
+  "Parents": [
+    "UMaterialExpressionTextureSample"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

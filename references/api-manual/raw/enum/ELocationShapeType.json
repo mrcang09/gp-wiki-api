@@ -1,0 +1,21 @@
+{
+  "Name": "ELocationShapeType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Random",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Sphere",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Cylinder",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

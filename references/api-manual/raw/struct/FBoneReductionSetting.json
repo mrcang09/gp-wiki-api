@@ -1,0 +1,12 @@
+{
+  "Name": "FBoneReductionSetting",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "BonesToRemove",
+      "Type": "TArray < FName >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

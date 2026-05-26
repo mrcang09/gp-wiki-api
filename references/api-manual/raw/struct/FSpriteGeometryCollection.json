@@ -1,0 +1,54 @@
+{
+  "Name": "FSpriteGeometryCollection",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Shapes",
+      "Type": "TArray < FSpriteGeometryShape >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GeometryType",
+      "Type": "TEnumAsByte < ESpritePolygonMode :: Type >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "PixelsPerSubdivisionX",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "PixelsPerSubdivisionY",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bAvoidVertexMerging",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "AlphaThreshold",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DetailAmount",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "SimplifyEpsilon",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

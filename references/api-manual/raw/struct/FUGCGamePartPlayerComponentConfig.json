@@ -1,0 +1,18 @@
+{
+  "Name": "FUGCGamePartPlayerComponentConfig",
+  "Description": "PlayerComponent配置",
+  "Variables": [
+    {
+      "Name": "PlayerComponentName",
+      "Type": "FName",
+      "Description": "PlayerComponent名称",
+      "Redirect": ""
+    },
+    {
+      "Name": "PlayerComponentClass",
+      "Type": "TSubclassOf < UActorComponent >",
+      "Description": "PlayerComponent类配置",
+      "Redirect": ""
+    }
+  ]
+}

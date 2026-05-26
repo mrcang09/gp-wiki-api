@@ -1,0 +1,16 @@
+# EAIWeaponShootType
+
+- Symbol Type: enum
+- Symbol Path: EAIWeaponShootType
+- Source JSON Path: cppenum/detail/EAIWeaponShootType.json
+- Source JSON URL: https://developer.gp.qq.com/api/cppenum/detail/EAIWeaponShootType.json
+- Mirrored At (UTC): 2026-05-19 08:23:44Z
+
+---
+
+## Variables
+
+| Name | Value | Description |
+| --- | --- | --- |
+| SingleShot | 0 |   |
+| Auto | 1 |   |

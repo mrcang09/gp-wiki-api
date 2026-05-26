@@ -1,0 +1,16 @@
+{
+  "Name": "EUGCTeamScoreCalculationType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "AverageScore",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "HighestScore",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

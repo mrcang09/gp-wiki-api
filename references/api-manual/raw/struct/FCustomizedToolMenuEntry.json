@@ -1,0 +1,12 @@
+{
+  "Name": "FCustomizedToolMenuEntry",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Visibility",
+      "Type": "ECustomizedToolMenuVisibility",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

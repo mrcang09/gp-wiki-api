@@ -1,0 +1,90 @@
+{
+  "Name": "FTimeline",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "LengthMode",
+      "Type": "TEnumAsByte < ETimelineLengthMode >",
+      "Description": "Specified how the timeline determines its own length (e.g. specified length, last keyframe)",
+      "Redirect": ""
+    },
+    {
+      "Name": "Length",
+      "Type": "float",
+      "Description": "How long the timeline is, will stop or loop at the end",
+      "Redirect": ""
+    },
+    {
+      "Name": "bLooping",
+      "Type": "uint32",
+      "Description": "Whether timeline should loop when it reaches the end, or stop",
+      "Redirect": ""
+    },
+    {
+      "Name": "bReversePlayback",
+      "Type": "uint32",
+      "Description": "If playback should move the current position backwards instead of forwards",
+      "Redirect": ""
+    },
+    {
+      "Name": "bPlaying",
+      "Type": "uint32",
+      "Description": "Are we currently playing (moving Position)",
+      "Redirect": ""
+    },
+    {
+      "Name": "PlayRate",
+      "Type": "float",
+      "Description": "How fast we should play through the timeline",
+      "Redirect": ""
+    },
+    {
+      "Name": "Position",
+      "Type": "float",
+      "Description": "Current position in the timeline",
+      "Redirect": ""
+    },
+    {
+      "Name": "Events",
+      "Type": "TArray < struct FTimelineEventEntry >",
+      "Description": "Array of events that are fired at various times during the timeline",
+      "Redirect": ""
+    },
+    {
+      "Name": "InterpVectors",
+      "Type": "TArray < struct FTimelineVectorTrack >",
+      "Description": "Array of vector interpolations performed during the timeline",
+      "Redirect": ""
+    },
+    {
+      "Name": "InterpFloats",
+      "Type": "TArray < struct FTimelineFloatTrack >",
+      "Description": "Array of float interpolations performed during the timeline",
+      "Redirect": ""
+    },
+    {
+      "Name": "InterpLinearColors",
+      "Type": "TArray < struct FTimelineLinearColorTrack >",
+      "Description": "Array of linear color interpolations performed during the timeline",
+      "Redirect": ""
+    },
+    {
+      "Name": "PropertySetObject",
+      "Type": "TWeakObjectPtr < UObject >",
+      "Description": "Optional. If set, Timeline will also set floatvector properties on this object using the PropertyName set in the tracks.",
+      "Redirect": ""
+    },
+    {
+      "Name": "DirectionPropertyName",
+      "Type": "FName",
+      "Description": "Optional. If set, Timeline will also set ETimelineDirection property on PropertySetObject using the name.",
+      "Redirect": ""
+    },
+    {
+      "Name": "DirectionProperty",
+      "Type": "UProperty *",
+      "Description": "Cached property pointer for setting timeline direction",
+      "Redirect": ""
+    }
+  ]
+}

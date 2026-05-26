@@ -1,0 +1,24 @@
+{
+  "Name": "FMaterialTextureInfo",
+  "Description": "This struct holds data about how a texture is sampled within a material.",
+  "Variables": [
+    {
+      "Name": "SamplingScale",
+      "Type": "float",
+      "Description": "The scale used when sampling the texture",
+      "Redirect": ""
+    },
+    {
+      "Name": "UVChannelIndex",
+      "Type": "int32",
+      "Description": "The coordinate index used when sampling the texture",
+      "Redirect": ""
+    },
+    {
+      "Name": "TextureName",
+      "Type": "FName",
+      "Description": "The texture name. Used for debugging and also to for quick matching of the entries.",
+      "Redirect": ""
+    }
+  ]
+}

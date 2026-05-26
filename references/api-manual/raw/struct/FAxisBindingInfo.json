@@ -1,0 +1,12 @@
+{
+  "Name": "FAxisBindingInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "AxisName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

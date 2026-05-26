@@ -1,0 +1,26 @@
+{
+  "Name": "EUGCFBXImportContentType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "FBXICT_All",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "FBXICT_Geometry",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "FBXICT_SkinningWeights",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "FBXICT_MAX",
+      "Value": "3",
+      "Description": " "
+    }
+  ]
+}

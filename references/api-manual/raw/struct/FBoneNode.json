@@ -1,0 +1,30 @@
+{
+  "Name": "FBoneNode",
+  "Description": "Each Bone node in BoneTree",
+  "Variables": [
+    {
+      "Name": "Name_DEPRECATED",
+      "Type": "FName",
+      "Description": "Name of bone, this is the search criteria to match with mesh bone. This will be NAME_None if deleted.",
+      "Redirect": ""
+    },
+    {
+      "Name": "ParentIndex_DEPRECATED",
+      "Type": "int32",
+      "Description": "Parent Index. -1 if not used. The root has 0 as its parent. Do not delete the element but set this to -1. If it is revived by other reason, fix up this link.",
+      "Redirect": ""
+    },
+    {
+      "Name": "TranslationRetargetingMode",
+      "Type": "TEnumAsByte < EBoneTranslationRetargetingMode :: Type >",
+      "Description": "Retargeting Mode for Translation Component.",
+      "Redirect": ""
+    },
+    {
+      "Name": "PerBoneOverrideRetargetingModeConfig",
+      "Type": "TMap < FName , TEnumAsByte < EBoneTranslationRetargetingMode :: Type > >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

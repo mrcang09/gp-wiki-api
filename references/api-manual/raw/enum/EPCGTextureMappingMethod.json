@@ -1,0 +1,16 @@
+{
+  "Name": "EPCGTextureMappingMethod",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Planar",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UVCoordinates",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

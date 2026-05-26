@@ -1,0 +1,21 @@
+{
+  "Name": "EAudioType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "AudioType_2D",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "AudioType_3D",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "AudioType_BGM",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

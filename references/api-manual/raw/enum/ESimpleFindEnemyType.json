@@ -1,0 +1,21 @@
+{
+  "Name": "ESimpleFindEnemyType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "EnemyType_Player",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "EnemyType_FakePlayer",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "EnemyType_Monster",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "Name": "UMaterialExpressionLandscapeCustomChannelSample",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ParameterName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bColorChannel",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bNonLandscapeSample",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TextureIndex",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ChannelIndex",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "WorldPosition",
+      "Type": "FExpressionInput",
+      "Description": "Optional world position input to override the default world position.",
+      "Redirect": ""
+    },
+    {
+      "Name": "PreviewWeight",
+      "Type": "FLinearColor",
+      "Description": "",
+      "Redirect": ""
+    }
+  ],
+  "Functions": null,
+  "Parents": [
+    "UMaterialExpression"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

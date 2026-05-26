@@ -1,0 +1,18 @@
+{
+  "Name": "FExposedValueHandler",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "BoundFunction",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CopyRecords",
+      "Type": "TArray < FExposedValueCopyRecord >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

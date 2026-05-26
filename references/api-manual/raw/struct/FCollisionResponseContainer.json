@@ -1,0 +1,390 @@
+{
+  "Name": "FCollisionResponseContainer",
+  "Description": "Container for indicating a set of collision channels that this object will collide with.",
+  "Variables": [
+    {
+      "Name": "WorldStatic",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "WorldDynamic",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Visibility",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Pawn",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Camera",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "PhysicsBody",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Destructible",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Vehicle",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EngineTraceChannel1",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EngineTraceChannel3",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EngineTraceChannel4",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EngineTraceChannel2",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EngineTraceChannel5",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EngineTraceChannel6",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel1",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel2",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel4",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel3",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel5",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel6",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel7",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel8",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel9",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel10",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel11",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel13",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel12",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel14",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel15",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel16",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel17",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel18",
+      "Type": "TEnumAsByte < enum ECollisionResponse >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "WorldDynamic",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Pawn",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "WorldStatic",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Visibility",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Camera",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Vehicle",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "PhysicsBody",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Destructible",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EngineTraceChannel2",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EngineTraceChannel1",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EngineTraceChannel3",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EngineTraceChannel4",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EngineTraceChannel5",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EngineTraceChannel6",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel1",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel2",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel3",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel4",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel5",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel6",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel8",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel7",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel9",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel11",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel10",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel12",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel13",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel15",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel14",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel16",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel18",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameTraceChannel17",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

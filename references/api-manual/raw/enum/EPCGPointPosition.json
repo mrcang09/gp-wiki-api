@@ -1,0 +1,16 @@
+{
+  "Name": "EPCGPointPosition",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "CellCenter",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "CellCorners",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

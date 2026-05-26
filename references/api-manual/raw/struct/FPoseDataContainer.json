@@ -1,0 +1,36 @@
+{
+  "Name": "FPoseDataContainer",
+  "Description": "Pose data container\n \n Contains animation and curve for all poses",
+  "Variables": [
+    {
+      "Name": "PoseNames",
+      "Type": "TArray < FSmartName >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Poses",
+      "Type": "TArray < FPoseData >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Tracks",
+      "Type": "TArray < FName >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TrackMap",
+      "Type": "TMap < FName , int32 >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Curves",
+      "Type": "TArray < FAnimCurveBase >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

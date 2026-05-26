@@ -1,0 +1,24 @@
+{
+  "Name": "FDynamicBatchSectionInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "TransientMatInfo",
+      "Type": "TArray < FMaterialBatchInfo >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BatchMatList",
+      "Type": "TArray < UMaterialInterface * >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CacheAtlasMaterials",
+      "Type": "TMap < int32 , UMaterialInstanceDynamic * >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

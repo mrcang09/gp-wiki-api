@@ -1,0 +1,21 @@
+{
+  "Name": "EUGCPasteTo",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UGC_PT_OriginalLocation",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_PT_Here",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_PT_WorldOrigin",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "FCacheCameraShakeData",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "InsList",
+      "Type": "TArray < UCameraShake * >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

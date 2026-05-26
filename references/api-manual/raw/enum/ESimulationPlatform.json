@@ -1,0 +1,16 @@
+{
+  "Name": "ESimulationPlatform",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Mobile",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "PCHD",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "FA2Pose",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Bones",
+      "Type": "TArray < FTransform >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

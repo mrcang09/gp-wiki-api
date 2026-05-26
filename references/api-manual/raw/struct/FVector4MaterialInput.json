@@ -1,0 +1,18 @@
+{
+  "Name": "FVector4MaterialInput",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "UseConstant",
+      "Type": "uint32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Constant",
+      "Type": "FVector4",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

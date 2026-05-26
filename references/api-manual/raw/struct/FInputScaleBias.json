@@ -1,0 +1,18 @@
+{
+  "Name": "FInputScaleBias",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Scale",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Bias",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

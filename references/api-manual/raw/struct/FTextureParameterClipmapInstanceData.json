@@ -1,0 +1,24 @@
+{
+  "Name": "FTextureParameterClipmapInstanceData",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "bIsUsedAsClipmapTexture",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ClipmapTexture",
+      "Type": "TSoftObjectPtr < UClipmapTexture >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ClipmapHash",
+      "Type": "uint32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

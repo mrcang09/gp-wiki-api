@@ -1,0 +1,16 @@
+{
+  "Name": "ERCRCheckTipsType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Single",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Total",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

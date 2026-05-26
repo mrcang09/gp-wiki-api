@@ -1,0 +1,31 @@
+{
+  "Name": "EClipmapGenChannel",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "R",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "G",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "B",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "A",
+      "Value": "3",
+      "Description": " "
+    },
+    {
+      "Name": "RGB",
+      "Value": "4",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "FMeshPerLODBiasArray",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "LODBiasArray",
+      "Type": "TArray < EMeshPerLODBiasType >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

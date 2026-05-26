@@ -1,0 +1,18 @@
+{
+  "Name": "FRigConfiguration",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Rig",
+      "Type": "URig *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BoneMappingTable",
+      "Type": "TArray < FNameMapping >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

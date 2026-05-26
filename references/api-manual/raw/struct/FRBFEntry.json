@@ -1,0 +1,12 @@
+{
+  "Name": "FRBFEntry",
+  "Description": "Struct storing a particular entry within the RBF",
+  "Variables": [
+    {
+      "Name": "Values",
+      "Type": "TArray < float >",
+      "Description": "Set of values for this target, size must be TargetDimensions",
+      "Redirect": ""
+    }
+  ]
+}

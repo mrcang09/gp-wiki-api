@@ -1,0 +1,136 @@
+# UGCPlayerControllerSystem
+
+- Symbol Type: class
+- Symbol Path: 和平全局接口 / 角色系统 / UGCPlayerControllerSystem
+- Source JSON Path: class/detail/和平全局接口/角色系统/UGCPlayerControllerSystem.json
+- Source JSON URL: https://developer.gp.qq.com/api/class/detail/%E5%92%8C%E5%B9%B3%E5%85%A8%E5%B1%80%E6%8E%A5%E5%8F%A3/%E8%A7%92%E8%89%B2%E7%B3%BB%E7%BB%9F/UGCPlayerControllerSystem.json
+- Mirrored At (UTC): 2026-05-19 08:23:28Z
+
+---
+
+## Description
+
+玩家控制器系统
+
+## Functions
+
+### DisableJoyStickSprint
+
+禁用摇杆触发疾跑
+生效范围：服务器&客户端
+
+Parameters:
+
+| Name | Type | Description | Redirect |
+| --- | --- | --- | --- |
+| PlayerController | PlayerController | 玩家控制器 |  |
+
+### EnableJoyStickSprint
+
+启用摇杆触发疾跑
+生效范围：服务器&客户端
+
+Parameters:
+
+| Name | Type | Description | Redirect |
+| --- | --- | --- | --- |
+| PlayerController | PlayerController | 玩家控制器 |  |
+
+### GetTeamID
+
+通过 PlayerController 获取 TeamID
+生效范围：服务器&客户端
+
+Parameters:
+
+| Name | Type | Description | Redirect |
+| --- | --- | --- | --- |
+| PlayerController | PlayerController | 玩家控制器 |  |
+
+Returns:
+
+| Name | Type | Description | Redirect |
+| --- | --- | --- | --- |
+|  | number | 玩家队伍 ID |  |
+
+### GetPlayerCharacter
+
+获取玩家角色
+生效范围：服务器&客户端
+
+Parameters:
+
+| Name | Type | Description | Redirect |
+| --- | --- | --- | --- |
+| PlayerController | PlayerController | 玩家控制器 |  |
+
+Returns:
+
+| Name | Type | Description | Redirect |
+| --- | --- | --- | --- |
+|  | ASTExtraBaseCharacter | 玩家角色 |  |
+
+### TeleportTo
+
+瞬移至坐标
+生效范围：服务器
+
+Parameters:
+
+| Name | Type | Description | Redirect |
+| --- | --- | --- | --- |
+| PlayerController | PlayerController | 玩家控制器 |  |
+| X | number | X坐标 |  |
+| Y | number | Y坐标 |  |
+| Z | number | Z坐标 |  |
+
+### SetControlRotation
+
+设置控制旋转
+生效范围：服务器&客户端
+
+Parameters:
+
+| Name | Type | Description | Redirect |
+| --- | --- | --- | --- |
+| PlayerController | PlayerController | 玩家控制器 |  |
+| NewRotation | Rotator | 新旋转量 可使用Rotator.New(Roll,Pitch,Yaw)创建,结构{Roll=Roll, Pitch=Pitch, Yaw=Yaw} |  |
+
+### EnableBulletTrackEffect
+
+启用子弹尾迹特效
+生效范围：客户端
+
+Parameters:
+
+| Name | Type | Description | Redirect |
+| --- | --- | --- | --- |
+| PlayerController | PlayerController | 玩家控制器 |  |
+
+### NotifyBattleBeginPlay
+
+使玩家立刻进入游戏。首先设置PlayerController蓝图上的DelayNotifyBattleBeginPlay，设置之后在切换DS，或者进入游戏的两种情况下的loading图会延长，接着调用本接口，即可立刻跳过loading图进入游戏
+生效范围：服务器
+
+Parameters:
+
+| Name | Type | Description | Redirect |
+| --- | --- | --- | --- |
+| PlayerController | PlayerController | 玩家控制器 |  |
+
+### IsLocalController
+
+判断是否为主控端
+生效范围：客户端&服务器
+
+Parameters:
+
+| Name | Type | Description | Redirect |
+| --- | --- | --- | --- |
+| InController | AController | Pawn |  |
+
+Returns:
+
+| Name | Type | Description | Redirect |
+| --- | --- | --- | --- |
+|  | boolean | 当前端是否为主控端 |  |

@@ -1,0 +1,18 @@
+{
+  "Name": "FAnimNode_BlendListByEnum",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "EnumToPoseIndex",
+      "Type": "TArray < int32 >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ActiveEnumValue",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

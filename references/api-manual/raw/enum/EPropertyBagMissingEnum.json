@@ -1,0 +1,11 @@
+{
+  "Name": "EPropertyBagMissingEnum",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Missing",
+      "Value": "0",
+      "Description": " "
+    }
+  ]
+}

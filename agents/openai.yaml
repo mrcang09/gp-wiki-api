@@ -1,0 +1,4 @@
+interface:
+  display_name: "GP Wiki API"
+  short_description: "Mirror and search local GP wiki and API-manual docs."
+  default_prompt: "Use $gp-wiki-api to answer questions from the GP wiki, GP API manual, Oasis editor docs, and mirrored local references."

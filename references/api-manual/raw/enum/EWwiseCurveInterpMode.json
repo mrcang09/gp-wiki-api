@@ -1,0 +1,66 @@
+{
+  "Name": "EWwiseCurveInterpMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "WCIM_None",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "WCIM_Constant",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "WCIM_Linear",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "WCIM_Sine",
+      "Value": "3",
+      "Description": " "
+    },
+    {
+      "Name": "WCIM_SineRecip",
+      "Value": "4",
+      "Description": " "
+    },
+    {
+      "Name": "WCIM_Log1",
+      "Value": "5",
+      "Description": " "
+    },
+    {
+      "Name": "WCIM_Log3",
+      "Value": "6",
+      "Description": " "
+    },
+    {
+      "Name": "WCIM_InvSCurve",
+      "Value": "7",
+      "Description": " "
+    },
+    {
+      "Name": "WCIM_SCurve",
+      "Value": "8",
+      "Description": " "
+    },
+    {
+      "Name": "WCIM_Exp1",
+      "Value": "9",
+      "Description": " "
+    },
+    {
+      "Name": "WCIM_Exp3",
+      "Value": "10",
+      "Description": " "
+    },
+    {
+      "Name": "WCIM_LastFadeCurve",
+      "Value": "11",
+      "Description": " "
+    }
+  ]
+}

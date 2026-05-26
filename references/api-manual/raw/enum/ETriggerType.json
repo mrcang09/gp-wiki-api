@@ -1,0 +1,16 @@
+{
+  "Name": "ETriggerType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Explicit",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Implicit",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

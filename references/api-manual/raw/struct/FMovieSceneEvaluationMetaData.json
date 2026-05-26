@@ -1,0 +1,18 @@
+{
+  "Name": "FMovieSceneEvaluationMetaData",
+  "Description": "Informational meta-data that applies to a given time range",
+  "Variables": [
+    {
+      "Name": "ActiveSequences",
+      "Type": "TArray < FMovieSceneSequenceID >",
+      "Description": "Array of sequences that are active in this time range.",
+      "Redirect": ""
+    },
+    {
+      "Name": "ActiveEntities",
+      "Type": "TArray < FMovieSceneOrderedEvaluationKey >",
+      "Description": "Array of entities (tracks andor sections) that are active in this time range.",
+      "Redirect": ""
+    }
+  ]
+}

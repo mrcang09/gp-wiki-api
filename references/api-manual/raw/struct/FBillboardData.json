@@ -1,0 +1,18 @@
+{
+  "Name": "FBillboardData",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Position",
+      "Type": "FVector",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "UVs",
+      "Type": "TArray < FVector2D >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

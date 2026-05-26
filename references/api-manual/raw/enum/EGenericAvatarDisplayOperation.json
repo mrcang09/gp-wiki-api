@@ -1,0 +1,16 @@
+{
+  "Name": "EGenericAvatarDisplayOperation",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "EPutOn",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "EPutOff",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

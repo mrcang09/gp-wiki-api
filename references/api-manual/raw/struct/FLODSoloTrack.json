@@ -1,0 +1,12 @@
+{
+  "Name": "FLODSoloTrack",
+  "Description": "Temporary array for tracking 'solo' emitter mode.\n \tEntry will be true if emitter was enabled",
+  "Variables": [
+    {
+      "Name": "SoloEnableSetting",
+      "Type": "TArray < uint8 >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

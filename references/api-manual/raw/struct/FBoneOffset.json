@@ -1,0 +1,24 @@
+{
+  "Name": "FBoneOffset",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "bTransition",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bRotation",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bScale",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

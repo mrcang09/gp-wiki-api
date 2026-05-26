@@ -1,0 +1,61 @@
+{
+  "Name": "UMaterialExpressionClipmapSample",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ClipmapTexture",
+      "Type": "UClipmapTexture *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ParentClipmapTexture",
+      "Type": "UClipmapTexture *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bLerpWithNextMip",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FallBackValue",
+      "Type": "FLinearColor",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseCustomUV",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseCalculateUVInVS",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CustomUVIndex",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "NumParentInputs",
+      "Type": "int32",
+      "Description": "Number of inputs from parent class",
+      "Redirect": ""
+    }
+  ],
+  "Functions": null,
+  "Parents": [
+    "UMaterialExpressionTextureSampleParameter2D"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

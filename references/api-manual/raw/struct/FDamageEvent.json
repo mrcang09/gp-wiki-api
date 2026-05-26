@@ -1,0 +1,24 @@
+{
+  "Name": "FDamageEvent",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "DamageTypeClass",
+      "Type": "TSubclassOf < UDamageType >",
+      "Description": "Optional DamageType for this event.  If nullptr, UDamageType will be assumed.",
+      "Redirect": ""
+    },
+    {
+      "Name": "DamageImpulseScale",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DamageSourceObj",
+      "Type": "UObject *",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

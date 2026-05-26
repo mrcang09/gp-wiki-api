@@ -1,0 +1,12 @@
+{
+  "Name": "FLevelBlockFoliageDstLocation",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "FoliageDstLocations",
+      "Type": "TMap < int32 , FVector >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

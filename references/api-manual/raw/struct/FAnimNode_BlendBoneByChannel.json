@@ -1,0 +1,60 @@
+{
+  "Name": "FAnimNode_BlendBoneByChannel",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "A",
+      "Type": "FPoseLink",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "B",
+      "Type": "FPoseLink",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Alpha",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "AlphaScaleBias",
+      "Type": "FInputScaleBias",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BoneDefinitions",
+      "Type": "TArray < FBlendBoneByChannelEntry >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TransformsSpace",
+      "Type": "TEnumAsByte < EBoneControlSpace >",
+      "Description": "Space to convert transforms into prior to copying channels",
+      "Redirect": ""
+    },
+    {
+      "Name": "InternalBlendAlpha",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bBIsRelevant",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ValidBoneEntries",
+      "Type": "TArray < FBlendBoneByChannelEntry >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

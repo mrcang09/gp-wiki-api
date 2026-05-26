@@ -1,0 +1,16 @@
+{
+  "Name": "EParticleDirection",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Up",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Down",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

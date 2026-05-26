@@ -1,0 +1,26 @@
+{
+  "Name": "ESocketAlignmentAxis",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "X",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Y",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "NegativeX",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "NegativeY",
+      "Value": "3",
+      "Description": " "
+    }
+  ]
+}

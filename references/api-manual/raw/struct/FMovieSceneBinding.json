@@ -1,0 +1,30 @@
+{
+  "Name": "FMovieSceneBinding",
+  "Description": "A set of tracks bound to runtime objects",
+  "Variables": [
+    {
+      "Name": "ObjectGuid",
+      "Type": "FGuid",
+      "Description": "Object binding guid for runtime objects",
+      "Redirect": ""
+    },
+    {
+      "Name": "BindingName",
+      "Type": "FString",
+      "Description": "Display name",
+      "Redirect": ""
+    },
+    {
+      "Name": "EditableDisplayName",
+      "Type": "FString",
+      "Description": "EditTable Display name",
+      "Redirect": ""
+    },
+    {
+      "Name": "Tracks",
+      "Type": "TArray < UMovieSceneTrack * >",
+      "Description": "All tracks in this binding",
+      "Redirect": ""
+    }
+  ]
+}

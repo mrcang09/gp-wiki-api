@@ -1,0 +1,31 @@
+{
+  "Name": "EUGCHierarchyQueryMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Subclasses",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "ParentClasses",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "ImplementsInterface",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "Widgets",
+      "Value": "3",
+      "Description": " "
+    },
+    {
+      "Name": "Actors",
+      "Value": "4",
+      "Description": " "
+    }
+  ]
+}

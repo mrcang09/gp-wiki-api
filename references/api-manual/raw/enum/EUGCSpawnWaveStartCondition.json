@@ -1,0 +1,16 @@
+{
+  "Name": "EUGCSpawnWaveStartCondition",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "AllMobDie",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "LastWaveEnd",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

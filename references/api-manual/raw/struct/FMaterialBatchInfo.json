@@ -1,0 +1,12 @@
+{
+  "Name": "FMaterialBatchInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "AtlasTextures",
+      "Type": "TMap < ETextureType , UDynamicAtlasTexture2D * >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

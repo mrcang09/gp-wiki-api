@@ -1,0 +1,16 @@
+{
+  "Name": "EPawnActionMoveMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UsePathfinding",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "StraightLine",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

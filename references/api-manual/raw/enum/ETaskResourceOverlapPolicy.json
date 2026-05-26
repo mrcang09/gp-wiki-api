@@ -1,0 +1,16 @@
+{
+  "Name": "ETaskResourceOverlapPolicy",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "StartOnTop",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "StartAtEnd",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

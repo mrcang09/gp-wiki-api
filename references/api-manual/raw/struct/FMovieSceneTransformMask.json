@@ -1,0 +1,12 @@
+{
+  "Name": "FMovieSceneTransformMask",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Mask",
+      "Type": "uint32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

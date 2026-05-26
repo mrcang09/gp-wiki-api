@@ -1,0 +1,21 @@
+{
+  "Name": "EUGCProjectPackagingBlueprintNativizationMethod",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Disabled",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Inclusive",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Exclusive",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

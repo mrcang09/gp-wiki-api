@@ -1,0 +1,12 @@
+{
+  "Name": "FBoundActorProxy",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "BoundActor",
+      "Type": "AActor *",
+      "Description": "Specifies the actor to override the binding with",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "FTerrainLayerTA",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "UV",
+      "Type": "FExpressionInput",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Name",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "PreviewWeight",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

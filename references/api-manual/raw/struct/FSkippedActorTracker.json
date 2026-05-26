@@ -1,0 +1,12 @@
+{
+  "Name": "FSkippedActorTracker",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Connection",
+      "Type": "UNetConnection *",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

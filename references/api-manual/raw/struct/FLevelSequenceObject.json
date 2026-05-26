@@ -1,0 +1,24 @@
+{
+  "Name": "FLevelSequenceObject",
+  "Description": "Structure for animated Actor objects.",
+  "Variables": [
+    {
+      "Name": "ObjectOrOwner",
+      "Type": "TLazyObjectPtr < UObject >",
+      "Description": "The object or the owner of the object being possessed.",
+      "Redirect": ""
+    },
+    {
+      "Name": "ComponentName",
+      "Type": "FString",
+      "Description": "Optional name of an ActorComponent.",
+      "Redirect": ""
+    },
+    {
+      "Name": "CachedComponent",
+      "Type": "TWeakObjectPtr < UObject >",
+      "Description": "Cached pointer to the Actor component (only if ComponentName is set).",
+      "Redirect": ""
+    }
+  ]
+}

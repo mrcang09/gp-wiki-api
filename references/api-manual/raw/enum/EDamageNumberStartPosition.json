@@ -1,0 +1,21 @@
+{
+  "Name": "EDamageNumberStartPosition",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "CharacterPosition",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "DamagePosition",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "DamageBodyPart",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

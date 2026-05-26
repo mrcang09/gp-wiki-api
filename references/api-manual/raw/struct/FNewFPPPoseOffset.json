@@ -1,0 +1,12 @@
+{
+  "Name": "FNewFPPPoseOffset",
+  "Description": "Simple controller to copy a bone's transform to another one.",
+  "Variables": [
+    {
+      "Name": "Map",
+      "Type": "TMap < FName , FTransform >",
+      "Description": "Array of names",
+      "Redirect": ""
+    }
+  ]
+}

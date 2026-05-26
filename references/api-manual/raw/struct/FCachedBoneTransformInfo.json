@@ -1,0 +1,12 @@
+{
+  "Name": "FCachedBoneTransformInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "BoneTransformMap",
+      "Type": "TMap < FName , FCachedBoneTransformContainer >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

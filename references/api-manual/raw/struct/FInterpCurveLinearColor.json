@@ -1,0 +1,24 @@
+{
+  "Name": "FInterpCurveLinearColor",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Points",
+      "Type": "TArray < FInterpCurvePointLinearColor >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bIsLooped",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LoopKeyOffset",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

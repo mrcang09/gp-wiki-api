@@ -1,0 +1,17 @@
+# EGalaxyFaceSceneType
+
+- Symbol Type: enum
+- Symbol Path: EGalaxyFaceSceneType
+- Source JSON Path: cppenum/detail/EGalaxyFaceSceneType.json
+- Source JSON URL: https://developer.gp.qq.com/api/cppenum/detail/EGalaxyFaceSceneType.json
+- Mirrored At (UTC): 2026-05-19 08:23:58Z
+
+---
+
+## Variables
+
+| Name | Value | Description |
+| --- | --- | --- |
+| GalaxyFaceSystem | 0 |   |
+| Lobby | 1 |   |
+| Fighting | 2 |   |

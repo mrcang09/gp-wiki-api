@@ -1,0 +1,24 @@
+{
+  "Name": "FLandscapeColorMask",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ColorMaskName",
+      "Type": "FString",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ColorMaskLayerList",
+      "Type": "TArray < FLandscapeColorMaskLayer >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LayerIndexUsed",
+      "Type": "TArray < bool >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

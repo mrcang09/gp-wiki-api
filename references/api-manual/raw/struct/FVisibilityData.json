@@ -1,0 +1,12 @@
+{
+  "Name": "FVisibilityData",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "VisibilityData",
+      "Type": "TArray < uint8 >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

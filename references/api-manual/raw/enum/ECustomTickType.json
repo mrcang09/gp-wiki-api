@@ -1,0 +1,16 @@
+{
+  "Name": "ECustomTickType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "ComponentTick",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "OwnerTick",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

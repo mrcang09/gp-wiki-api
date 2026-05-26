@@ -1,0 +1,36 @@
+{
+  "Name": "FCustomMontageAnimInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ApplyAvatarSlot",
+      "Type": "TArray < int32 >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bApplyToSubAnim",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DisableBoneResolve",
+      "Type": "TArray < int32 >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bForceUseTPP",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bAutoUseSwitch",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

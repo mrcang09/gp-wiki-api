@@ -1,0 +1,18 @@
+{
+  "Name": "FMovieSceneSequenceCachedSignature",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Sequence",
+      "Type": "TWeakObjectPtr < UMovieSceneSequence >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CachedSignature",
+      "Type": "FGuid",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "EUGCRotationGridMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UGCGridMode_DivisionsOf360",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UGCGridMode_Common",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

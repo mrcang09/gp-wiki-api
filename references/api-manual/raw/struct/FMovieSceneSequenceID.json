@@ -1,0 +1,12 @@
+{
+  "Name": "FMovieSceneSequenceID",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Value",
+      "Type": "uint32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

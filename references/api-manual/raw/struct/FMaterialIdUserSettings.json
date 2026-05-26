@@ -1,0 +1,108 @@
+{
+  "Name": "FMaterialIdUserSettings",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "BiomesInfoObjectList",
+      "Type": "TArray < ULandscapeBiomesInfoObject * >",
+      "Description": "List of BiomesInfoObject used by this Landscape Actor",
+      "Redirect": ""
+    },
+    {
+      "Name": "CustomWeightAllocations",
+      "Type": "TArray < FLandscapeCustomWeightAllocation >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "HoleIndex",
+      "Type": "uint8",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "NoiseTexture",
+      "Type": "UTexture2D *",
+      "Description": "Noise Texture applied when sample splatmap",
+      "Redirect": ""
+    },
+    {
+      "Name": "bEditMatIDProperty",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LandscapeCorner",
+      "Type": "FVector2D",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "NoiseTiling",
+      "Type": "FVector2D",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "NoiseMultiplier",
+      "Type": "float",
+      "Description": "Larger the value is, larger the UVOffset will applied when sample splatmap",
+      "Redirect": ""
+    },
+    {
+      "Name": "NoiseLerpPercentFromEdge",
+      "Type": "float",
+      "Description": "Starting percentage of lerp from Edge to center of the component, to avoid shifted UV go over the component.",
+      "Redirect": ""
+    },
+    {
+      "Name": "DiffuseArrayInfo",
+      "Type": "FTextureArrayInfo",
+      "Description": "Diffuse texture array used as base color to render the landscape",
+      "Redirect": ""
+    },
+    {
+      "Name": "NormalArrayInfo",
+      "Type": "FTextureArrayInfo",
+      "Description": "Normalmap texture array used as base color to render the landscape",
+      "Redirect": ""
+    },
+    {
+      "Name": "LayerInfoToAllocInfoMap",
+      "Type": "TMap < ULandscapeLayerInfoObject * , FMaterialIdLayerAllocInfo >",
+      "Description": "Valid LayerInfoObject to MaterialIdAllocInfo map.",
+      "Redirect": ""
+    },
+    {
+      "Name": "MaterialIdLayerCount",
+      "Type": "int32",
+      "Description": "MaterialId Layer Count, fixed with 2, align SJZ",
+      "Redirect": ""
+    },
+    {
+      "Name": "CustomWeightPaintingColor",
+      "Type": "FLinearColor",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DummyLayerInfoRemap",
+      "Type": "TMap < FName , ULandscapeLayerInfoObject * >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CustomWeightConfig",
+      "Type": "UCustomWeightConfig *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FallbackLayerConfig",
+      "Type": "UMatIDFallbackConfig *",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

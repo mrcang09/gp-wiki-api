@@ -1,0 +1,18 @@
+{
+  "Name": "FTOD_WorldParameters",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ViewerHeight",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "HorizonOffset",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

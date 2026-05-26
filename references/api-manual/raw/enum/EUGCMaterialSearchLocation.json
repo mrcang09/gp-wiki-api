@@ -1,0 +1,26 @@
+{
+  "Name": "EUGCMaterialSearchLocation",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Local",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UnderParent",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "UnderRoot",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "AllAssets",
+      "Value": "3",
+      "Description": " "
+    }
+  ]
+}

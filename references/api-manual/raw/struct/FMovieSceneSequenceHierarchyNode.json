@@ -1,0 +1,18 @@
+{
+  "Name": "FMovieSceneSequenceHierarchyNode",
+  "Description": "Simple structure specifying parent and child sequence IDs for any given sequences",
+  "Variables": [
+    {
+      "Name": "ParentID",
+      "Type": "FMovieSceneSequenceID",
+      "Description": "Movie scene sequence ID of this node's parent sequence",
+      "Redirect": ""
+    },
+    {
+      "Name": "Children",
+      "Type": "TArray < FMovieSceneSequenceID >",
+      "Description": "Array of child sequences contained within this sequence",
+      "Redirect": ""
+    }
+  ]
+}

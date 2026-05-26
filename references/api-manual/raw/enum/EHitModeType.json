@@ -1,0 +1,16 @@
+{
+  "Name": "EHitModeType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "RoughHitMode",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "PreciseHitMode",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

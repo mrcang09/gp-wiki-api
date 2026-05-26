@@ -1,0 +1,16 @@
+{
+  "Name": "EPxDebugInfo",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "ShowMouse",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Count",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

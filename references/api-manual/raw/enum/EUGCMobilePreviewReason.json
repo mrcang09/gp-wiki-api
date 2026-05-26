@@ -1,0 +1,16 @@
+{
+  "Name": "EUGCMobilePreviewReason",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UserRequest",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UserChallenge",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

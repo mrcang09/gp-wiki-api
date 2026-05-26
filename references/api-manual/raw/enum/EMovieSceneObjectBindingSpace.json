@@ -1,0 +1,16 @@
+{
+  "Name": "EMovieSceneObjectBindingSpace",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Local",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Root",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

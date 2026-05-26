@@ -1,0 +1,26 @@
+{
+  "Name": "EUGCSavePackageFormat",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UGC_SPF_UGCEditor",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_SPF_UE4Editor",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_SPF_WindowsDS",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_SPF_LinuxDS",
+      "Value": "3",
+      "Description": " "
+    }
+  ]
+}

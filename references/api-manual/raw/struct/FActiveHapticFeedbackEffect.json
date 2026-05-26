@@ -1,0 +1,12 @@
+{
+  "Name": "FActiveHapticFeedbackEffect",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "HapticEffect",
+      "Type": "UHapticFeedbackEffect_Base *",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# EPDPoseDriverOutput
+
+- Symbol Type: enum
+- Symbol Path: EPDPoseDriverOutput
+- Source JSON Path: cppenum/detail/EPDPoseDriverOutput.json
+- Source JSON URL: https://developer.gp.qq.com/api/cppenum/detail/EPDPoseDriverOutput.json
+- Mirrored At (UTC): 2026-05-19 08:24:09Z
+
+---
+
+## Variables
+
+| Name | Value | Description |
+| --- | --- | --- |
+| DrivePoses | 0 |   |
+| DriveCurves | 1 |   |

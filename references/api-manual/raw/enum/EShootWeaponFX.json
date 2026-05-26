@@ -1,0 +1,11 @@
+{
+  "Name": "EShootWeaponFX",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "ShellDropFX",
+      "Value": "0",
+      "Description": " "
+    }
+  ]
+}

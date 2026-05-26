@@ -1,0 +1,16 @@
+{
+  "Name": "EPCGTagFilterOperation",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "KeepOnlySelectedTags",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "DeleteSelectedTags",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

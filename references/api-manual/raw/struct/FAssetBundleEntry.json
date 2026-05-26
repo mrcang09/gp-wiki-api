@@ -1,0 +1,24 @@
+{
+  "Name": "FAssetBundleEntry",
+  "Description": "A struct representing a single AssetBundle",
+  "Variables": [
+    {
+      "Name": "BundleScope",
+      "Type": "FPrimaryAssetId",
+      "Description": "Asset this bundle is saved within. This is empty for global bundles, or in the saved bundle info",
+      "Redirect": ""
+    },
+    {
+      "Name": "BundleName",
+      "Type": "FName",
+      "Description": "Specific name of this bundle, should be unique for a given scope",
+      "Redirect": ""
+    },
+    {
+      "Name": "BundleAssets",
+      "Type": "TArray < FSoftObjectPath >",
+      "Description": "List of string assets contained in this bundle",
+      "Redirect": ""
+    }
+  ]
+}

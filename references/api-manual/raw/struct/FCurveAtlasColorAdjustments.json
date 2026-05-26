@@ -1,0 +1,60 @@
+{
+  "Name": "FCurveAtlasColorAdjustments",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "bChromaKeyTexture",
+      "Type": "uint32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "AdjustBrightness",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "AdjustBrightnessCurve",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "AdjustVibrance",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "AdjustSaturation",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "AdjustRGBCurve",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "AdjustHue",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "AdjustMinAlpha",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "AdjustMaxAlpha",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

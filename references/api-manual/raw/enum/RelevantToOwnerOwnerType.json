@@ -1,0 +1,16 @@
+{
+  "Name": "RelevantToOwnerOwnerType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "OwnerPawn",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "OwnerController",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

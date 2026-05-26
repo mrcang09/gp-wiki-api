@@ -1,0 +1,141 @@
+{
+  "Name": "UClipmapTexture",
+  "Description": "Runtime virtual texture UObject",
+  "Variables": [
+    {
+      "Name": "bSkipOneMip",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DisFirstMip",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUsePointSample",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseBorder",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TileSize",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FirstMipImageSize",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "NumTile",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseCompressType",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "NormalSetting",
+      "Type": "FClipmapSetting",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CompressSetting",
+      "Type": "TMap < FString , FClipmapSetting >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bsRGB",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FileDDCPath",
+      "Type": "FString",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ClipmapInfos",
+      "Type": "FClipmapInfos",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CompressInfos",
+      "Type": "TMap < FString , FClipmapInfos >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DebugName",
+      "Type": "FString",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "HashNum",
+      "Type": "uint32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Owner",
+      "Type": "UClipmapTextureComponent *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "OriginTexture",
+      "Type": "UTexture2D *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TargetTexture",
+      "Type": "TSoftObjectPtr < UTexture2D >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ],
+  "Functions": [
+    {
+      "Name": "CreateClipmapTargetTexture",
+      "Description": "",
+      "Params": null,
+      "Return": [
+        {
+          "Name": "",
+          "Type": "void",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    }
+  ],
+  "Parents": [
+    "UObject"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

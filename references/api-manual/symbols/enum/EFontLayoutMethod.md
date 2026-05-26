@@ -1,0 +1,16 @@
+# EFontLayoutMethod
+
+- Symbol Type: enum
+- Symbol Path: EFontLayoutMethod
+- Source JSON Path: cppenum/detail/EFontLayoutMethod.json
+- Source JSON URL: https://developer.gp.qq.com/api/cppenum/detail/EFontLayoutMethod.json
+- Mirrored At (UTC): 2026-05-19 08:23:58Z
+
+---
+
+## Variables
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Metrics | 0 |   |
+| BoundingBox | 1 |   |

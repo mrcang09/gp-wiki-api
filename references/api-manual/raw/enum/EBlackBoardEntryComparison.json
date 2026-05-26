@@ -1,0 +1,16 @@
+{
+  "Name": "EBlackBoardEntryComparison",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Equal",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "NotEqual",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

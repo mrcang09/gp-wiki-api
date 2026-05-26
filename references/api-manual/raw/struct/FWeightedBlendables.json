@@ -1,0 +1,12 @@
+{
+  "Name": "FWeightedBlendables",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Array",
+      "Type": "TArray < FWeightedBlendable >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

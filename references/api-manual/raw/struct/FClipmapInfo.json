@@ -1,0 +1,36 @@
+{
+  "Name": "FClipmapInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ChunkOffsetInFile",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FileSize",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ImageSize",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TotalTile",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MipLevel",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "Name": "FIdeaGrassFieldData",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ForceTextureRT",
+      "Type": "UTextureRenderTarget2D *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TramplerPositionList",
+      "Type": "TArray < FVector >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TramplerDirectionList",
+      "Type": "TArray < FRotator >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TramplerCutoff",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TrampleTexture",
+      "Type": "UTexture *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TrampleScale",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "SkillTexture",
+      "Type": "UTexture *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CleanTextureScale",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GrassSpringness",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GrassFieldRect",
+      "Type": "FVector4",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

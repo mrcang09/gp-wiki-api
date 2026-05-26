@@ -1,0 +1,16 @@
+# ESimpleTreasureChestStatus
+
+- Symbol Type: enum
+- Symbol Path: ESimpleTreasureChestStatus
+- Source JSON Path: cppenum/detail/ESimpleTreasureChestStatus.json
+- Source JSON URL: https://developer.gp.qq.com/api/cppenum/detail/ESimpleTreasureChestStatus.json
+- Mirrored At (UTC): 2026-05-19 08:24:19Z
+
+---
+
+## Variables
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Close | 0 |   |
+| Open | 1 |   |

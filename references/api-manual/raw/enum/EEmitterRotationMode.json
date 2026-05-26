@@ -1,0 +1,21 @@
+{
+  "Name": "EEmitterRotationMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "RotateAroundX",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "RotateAroundY",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "RotateAroundZ",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Name": "FProceduralFoliageInstance",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Location",
+      "Type": "FVector",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Normal",
+      "Type": "FVector",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Age",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Scale",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Rotation",
+      "Type": "FQuat",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Type",
+      "Type": "UFoliageType *",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

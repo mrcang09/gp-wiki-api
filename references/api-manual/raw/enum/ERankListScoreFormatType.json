@@ -1,0 +1,21 @@
+{
+  "Name": "ERankListScoreFormatType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Number",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Time",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "Percent",
+      "Value": "3",
+      "Description": " "
+    }
+  ]
+}

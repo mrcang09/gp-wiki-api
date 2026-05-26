@@ -1,0 +1,41 @@
+{
+  "Name": "EAudioImportCategoty",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Default",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "TwoDimension",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "ThreeDimension",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "BGM",
+      "Value": "3",
+      "Description": " "
+    },
+    {
+      "Name": "Weapon",
+      "Value": "4",
+      "Description": " "
+    },
+    {
+      "Name": "Vehicle",
+      "Value": "5",
+      "Description": " "
+    },
+    {
+      "Name": "Character",
+      "Value": "6",
+      "Description": " "
+    }
+  ]
+}

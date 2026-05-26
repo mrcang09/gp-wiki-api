@@ -1,0 +1,16 @@
+{
+  "Name": "EUIOperateType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Show",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Hide",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

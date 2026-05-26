@@ -1,0 +1,12 @@
+{
+  "Name": "FInputBlendPose",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "BranchFilters",
+      "Type": "TArray < FBranchFilter >",
+      "Description": "Bone Name to filter",
+      "Redirect": ""
+    }
+  ]
+}

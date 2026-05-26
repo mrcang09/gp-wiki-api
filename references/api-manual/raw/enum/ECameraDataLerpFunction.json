@@ -1,0 +1,16 @@
+{
+  "Name": "ECameraDataLerpFunction",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "LerpConfigSpeed",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "LerpInputSpeed",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "EUGCSublevelLoadingStategy",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UGCSublevelNeverLoad",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UGCSublevelSynchronousLoad",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "UGCSublevelASynchronousLoad",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

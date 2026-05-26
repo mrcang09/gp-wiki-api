@@ -1,0 +1,12 @@
+{
+  "Name": "FButtonInputActionBindings",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ActionMappings",
+      "Type": "TArray < FButtonInputActionBinding >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

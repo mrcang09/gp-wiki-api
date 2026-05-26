@@ -1,0 +1,12 @@
+{
+  "Name": "FActiveForceFeedbackEffect",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ForceFeedbackEffect",
+      "Type": "UForceFeedbackEffect *",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

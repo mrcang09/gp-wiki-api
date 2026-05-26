@@ -1,0 +1,16 @@
+{
+  "Name": "EInitMLNetOnlineTime",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "BeginPlay",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "EnterFight",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

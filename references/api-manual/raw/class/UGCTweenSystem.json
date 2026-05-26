@@ -1,0 +1,490 @@
+{
+  "Name": "UGCTweenSystem",
+  "Description": "Tween 动画系统接口库",
+  "Variables": null,
+  "Functions": [
+    {
+      "Name": "MakeConfig",
+      "Description": "创建一个 Tween 配置表",
+      "Params": [
+        {
+          "Name": "Delay",
+          "Type": "number",
+          "Description": "初始延迟（秒），默认 0",
+          "Redirect": ""
+        },
+        {
+          "Name": "RepeatCount",
+          "Type": "number",
+          "Description": "重复次数（-1 无限，0 不重复），默认 1",
+          "Redirect": ""
+        },
+        {
+          "Name": "bYoyo",
+          "Type": "boolean",
+          "Description": "是否往返，默认 false",
+          "Redirect": ""
+        },
+        {
+          "Name": "RepeatDelay",
+          "Type": "number",
+          "Description": "重复间隔（秒），默认 0",
+          "Redirect": ""
+        }
+      ],
+      "Return": [
+        {
+          "Name": "",
+          "Type": "FUnrealTweenConfig",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "GetTweenSubsystem",
+      "Description": "获取 TweenSubsystem 实例\n生效范围：服务器&客户端",
+      "Params": null,
+      "Return": [
+        {
+          "Name": "UTweenSubsystem",
+          "Type": "@Tween",
+          "Description": "子系统实例",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "TweenActorLocation",
+      "Description": "移动 Actor 到目标位置\n生效范围：服务器&客户端",
+      "Params": [
+        {
+          "Name": "Actor",
+          "Type": "AActor",
+          "Description": "目标 Actor",
+          "Redirect": ""
+        },
+        {
+          "Name": "TargetLocation",
+          "Type": "FVector",
+          "Description": "目标位置",
+          "Redirect": ""
+        },
+        {
+          "Name": "Duration",
+          "Type": "number",
+          "Description": "动画时长（秒）",
+          "Redirect": ""
+        },
+        {
+          "Name": "Easing",
+          "Type": "EEasingType",
+          "Description": "缓动类型（EEasingType 枚举）",
+          "Redirect": ""
+        },
+        {
+          "Name": "Config",
+          "Type": "FUnrealTweenConfig",
+          "Description": "高级配置（可用 UGCTweenSystem.MakeConfig() 创建，不传则使用默认值）",
+          "Redirect": ""
+        }
+      ],
+      "Return": [
+        {
+          "Name": "",
+          "Type": "FTweenHandle",
+          "Description": "动画句柄，用于后续控制",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "TweenActorRotation",
+      "Description": "旋转 Actor 到目标朝向\n生效范围：服务器&客户端",
+      "Params": [
+        {
+          "Name": "Actor",
+          "Type": "AActor",
+          "Description": "目标 Actor",
+          "Redirect": ""
+        },
+        {
+          "Name": "TargetRotation",
+          "Type": "FRotator",
+          "Description": "目标旋转",
+          "Redirect": ""
+        },
+        {
+          "Name": "Duration",
+          "Type": "number",
+          "Description": "动画时长（秒）",
+          "Redirect": ""
+        },
+        {
+          "Name": "Easing",
+          "Type": "EEasingType",
+          "Description": "缓动类型（EEasingType 枚举）",
+          "Redirect": ""
+        },
+        {
+          "Name": "bShortestPath",
+          "Type": "boolean",
+          "Description": "是否走最短路径旋转",
+          "Redirect": ""
+        },
+        {
+          "Name": "Config",
+          "Type": "FUnrealTweenConfig",
+          "Description": "高级配置（可用 UGCTweenSystem.MakeConfig() 创建，不传则使用默认值）",
+          "Redirect": ""
+        }
+      ],
+      "Return": [
+        {
+          "Name": "",
+          "Type": "FTweenHandle",
+          "Description": "动画句柄，用于后续控制",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "TweenFloatValue",
+      "Description": "对 float 数值进行插值，每帧通过回调返回当前值\n生效范围：服务器&客户端",
+      "Params": [
+        {
+          "Name": "Start",
+          "Type": "number",
+          "Description": "起始值",
+          "Redirect": ""
+        },
+        {
+          "Name": "End",
+          "Type": "number",
+          "Description": "目标值",
+          "Redirect": ""
+        },
+        {
+          "Name": "Duration",
+          "Type": "number",
+          "Description": "动画时长（秒）",
+          "Redirect": ""
+        },
+        {
+          "Name": "Easing",
+          "Type": "EEasingType",
+          "Description": "缓动类型（EEasingType 枚举）",
+          "Redirect": ""
+        },
+        {
+          "Name": "Callback",
+          "Type": "function",
+          "Description": "每帧回调，参数为当前 float 值",
+          "Redirect": ""
+        },
+        {
+          "Name": "Config",
+          "Type": "FUnrealTweenConfig",
+          "Description": "高级配置（可用 UGCTweenSystem.MakeConfig() 创建，不传则使用默认值）",
+          "Redirect": ""
+        }
+      ],
+      "Return": [
+        {
+          "Name": "",
+          "Type": "FTweenHandle",
+          "Description": "动画句柄，用于后续控制",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "TweenVectorValue",
+      "Description": "对 FVector 数值进行插值，每帧通过回调返回当前值\n生效范围：服务器&客户端",
+      "Params": [
+        {
+          "Name": "Start",
+          "Type": "FVector",
+          "Description": "起始向量",
+          "Redirect": ""
+        },
+        {
+          "Name": "End",
+          "Type": "FVector",
+          "Description": "目标向量",
+          "Redirect": ""
+        },
+        {
+          "Name": "Duration",
+          "Type": "number",
+          "Description": "动画时长（秒）",
+          "Redirect": ""
+        },
+        {
+          "Name": "Easing",
+          "Type": "EEasingType",
+          "Description": "缓动类型（EEasingType 枚举）",
+          "Redirect": ""
+        },
+        {
+          "Name": "Callback",
+          "Type": "function",
+          "Description": "每帧回调，参数为当前 FVector 值",
+          "Redirect": ""
+        },
+        {
+          "Name": "Config",
+          "Type": "FUnrealTweenConfig",
+          "Description": "高级配置（可用 UGCTweenSystem.MakeConfig() 创建，不传则使用默认值）",
+          "Redirect": ""
+        }
+      ],
+      "Return": [
+        {
+          "Name": "",
+          "Type": "FTweenHandle",
+          "Description": "动画句柄，用于后续控制",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "TweenRotatorValue",
+      "Description": "对 FRotator 数值进行插值，每帧通过回调返回当前值\n生效范围：服务器&客户端",
+      "Params": [
+        {
+          "Name": "Start",
+          "Type": "FRotator",
+          "Description": "起始旋转",
+          "Redirect": ""
+        },
+        {
+          "Name": "End",
+          "Type": "FRotator",
+          "Description": "目标旋转",
+          "Redirect": ""
+        },
+        {
+          "Name": "Duration",
+          "Type": "number",
+          "Description": "动画时长（秒）",
+          "Redirect": ""
+        },
+        {
+          "Name": "Easing",
+          "Type": "EEasingType",
+          "Description": "缓动类型（EEasingType 枚举）",
+          "Redirect": ""
+        },
+        {
+          "Name": "Callback",
+          "Type": "function",
+          "Description": "每帧回调，参数为当前 FRotator 值",
+          "Redirect": ""
+        },
+        {
+          "Name": "Config",
+          "Type": "FUnrealTweenConfig",
+          "Description": "高级配置（可用 UGCTweenSystem.MakeConfig() 创建，不传则使用默认值）",
+          "Redirect": ""
+        }
+      ],
+      "Return": [
+        {
+          "Name": "",
+          "Type": "FTweenHandle",
+          "Description": "动画句柄，用于后续控制",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "TweenColorValue",
+      "Description": "对 FLinearColor 数值进行插值，每帧通过回调返回当前值\n生效范围：服务器&客户端",
+      "Params": [
+        {
+          "Name": "Start",
+          "Type": "FLinearColor",
+          "Description": "起始颜色",
+          "Redirect": ""
+        },
+        {
+          "Name": "End",
+          "Type": "FLinearColor",
+          "Description": "目标颜色",
+          "Redirect": ""
+        },
+        {
+          "Name": "Duration",
+          "Type": "number",
+          "Description": "动画时长（秒）",
+          "Redirect": ""
+        },
+        {
+          "Name": "Easing",
+          "Type": "EEasingType",
+          "Description": "缓动类型（EEasingType 枚举）",
+          "Redirect": ""
+        },
+        {
+          "Name": "Callback",
+          "Type": "function",
+          "Description": "每帧回调，参数为当前 FLinearColor 值",
+          "Redirect": ""
+        },
+        {
+          "Name": "Config",
+          "Type": "FUnrealTweenConfig",
+          "Description": "高级配置（可用 UGCTweenSystem.MakeConfig() 创建，不传则使用默认值）",
+          "Redirect": ""
+        }
+      ],
+      "Return": [
+        {
+          "Name": "",
+          "Type": "FTweenHandle",
+          "Description": "动画句柄，用于后续控制",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "ConfigureTween",
+      "Description": "配置已创建的 Tween 的高级属性（延迟/循环/Yoyo）\n生效范围：服务器&客户端",
+      "Params": [
+        {
+          "Name": "Handle",
+          "Type": "FTweenHandle",
+          "Description": "动画句柄",
+          "Redirect": ""
+        },
+        {
+          "Name": "Delay",
+          "Type": "number",
+          "Description": "初始延迟（秒）",
+          "Redirect": ""
+        },
+        {
+          "Name": "RepeatCount",
+          "Type": "number",
+          "Description": "重复次数（-1 为无限循环，0 为不重复）",
+          "Redirect": ""
+        },
+        {
+          "Name": "bYoyo",
+          "Type": "boolean",
+          "Description": "是否往返播放（A->B->A）",
+          "Redirect": ""
+        },
+        {
+          "Name": "RepeatDelay",
+          "Type": "number",
+          "Description": "每次重复前的等待时间（秒），默认 0",
+          "Redirect": ""
+        }
+      ],
+      "Return": null
+    },
+    {
+      "Name": "ChainTween",
+      "Description": "链式连接两个 Tween：Parent 完成后自动播放 Child\n生效范围：服务器&客户端",
+      "Params": [
+        {
+          "Name": "Handle",
+          "Type": "FTweenHandle",
+          "Description": "父动画句柄",
+          "Redirect": ""
+        },
+        {
+          "Name": "NextHandle",
+          "Type": "FTweenHandle",
+          "Description": "子动画句柄（将在父动画完成后自动触发）",
+          "Redirect": ""
+        }
+      ],
+      "Return": null
+    },
+    {
+      "Name": "PauseTween",
+      "Description": "暂停 Tween 动画\n生效范围：服务器&客户端",
+      "Params": [
+        {
+          "Name": "Handle",
+          "Type": "FTweenHandle",
+          "Description": "动画句柄",
+          "Redirect": ""
+        }
+      ],
+      "Return": null
+    },
+    {
+      "Name": "ResumeTween",
+      "Description": "恢复已暂停的 Tween 动画\n生效范围：服务器&客户端",
+      "Params": [
+        {
+          "Name": "Handle",
+          "Type": "FTweenHandle",
+          "Description": "动画句柄",
+          "Redirect": ""
+        }
+      ],
+      "Return": null
+    },
+    {
+      "Name": "KillTween",
+      "Description": "停止并销毁 Tween 动画\n生效范围：服务器&客户端",
+      "Params": [
+        {
+          "Name": "Handle",
+          "Type": "FTweenHandle",
+          "Description": "动画句柄",
+          "Redirect": ""
+        }
+      ],
+      "Return": null
+    },
+    {
+      "Name": "IsTweenValid",
+      "Description": "判断 Tween 句柄是否有效（动画是否仍在运行）\n生效范围：服务器&客户端",
+      "Params": [
+        {
+          "Name": "Handle",
+          "Type": "FTweenHandle",
+          "Description": "动画句柄",
+          "Redirect": ""
+        }
+      ],
+      "Return": [
+        {
+          "Name": "",
+          "Type": "boolean",
+          "Description": "句柄是否有效",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "BindCompletedDelegate",
+      "Description": "绑定 Tween 完成回调\n生效范围：服务器&客户端",
+      "Params": [
+        {
+          "Name": "Handle",
+          "Type": "FTweenHandle",
+          "Description": "动画句柄",
+          "Redirect": ""
+        },
+        {
+          "Name": "Callback",
+          "Type": "function",
+          "Description": "完成时触发的回调函数",
+          "Redirect": ""
+        }
+      ],
+      "Return": null
+    }
+  ],
+  "Parents": null,
+  "Event": null,
+  "Delegate": null,
+  "Language": "lua"
+}

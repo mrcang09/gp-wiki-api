@@ -1,0 +1,16 @@
+{
+  "Name": "EReuseMapContentType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Auto",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Custom",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

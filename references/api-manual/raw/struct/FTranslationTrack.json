@@ -1,0 +1,18 @@
+{
+  "Name": "FTranslationTrack",
+  "Description": "Keyframe position data for one track.  Pos(i) occurs at Time(i).  Pos.Num() always equals Time.Num().",
+  "Variables": [
+    {
+      "Name": "PosKeys",
+      "Type": "TArray < FVector >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Times",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

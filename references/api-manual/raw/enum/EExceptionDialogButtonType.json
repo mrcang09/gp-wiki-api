@@ -1,0 +1,26 @@
+{
+  "Name": "EExceptionDialogButtonType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Ok",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "YesNo",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "OkIgnore",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "YesNoIgnore",
+      "Value": "3",
+      "Description": " "
+    }
+  ]
+}

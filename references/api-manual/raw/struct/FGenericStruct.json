@@ -1,0 +1,12 @@
+{
+  "Name": "FGenericStruct",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Data",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

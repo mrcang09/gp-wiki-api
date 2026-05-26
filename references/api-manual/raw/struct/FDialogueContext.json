@@ -1,0 +1,18 @@
+{
+  "Name": "FDialogueContext",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Speaker",
+      "Type": "UDialogueVoice *",
+      "Description": "The person speaking the dialogue.",
+      "Redirect": ""
+    },
+    {
+      "Name": "Targets",
+      "Type": "TArray < UDialogueVoice * >",
+      "Description": "The people being spoken to.",
+      "Redirect": ""
+    }
+  ]
+}

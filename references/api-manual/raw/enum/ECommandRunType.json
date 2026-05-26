@@ -1,0 +1,26 @@
+{
+  "Name": "ECommandRunType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Idle",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Execute",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Undo",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "Redo",
+      "Value": "3",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "FAIRequestID",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "RequestID",
+      "Type": "uint32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

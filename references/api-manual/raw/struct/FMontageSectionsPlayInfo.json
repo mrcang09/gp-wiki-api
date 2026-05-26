@@ -1,0 +1,12 @@
+{
+  "Name": "FMontageSectionsPlayInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "LoopCount",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

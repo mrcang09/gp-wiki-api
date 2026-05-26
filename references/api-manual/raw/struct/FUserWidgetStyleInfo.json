@@ -1,0 +1,60 @@
+{
+  "Name": "FUserWidgetStyleInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ClassName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ClassSoftClass",
+      "Type": "TSoftClassPtr < UUserWidget >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "RefWidget",
+      "Type": "TArray < FUserWidgetRefInfo >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "RefObject",
+      "Type": "TArray < UObject * >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BuffSize",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "WidgetTree",
+      "Type": "UWidgetTree *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bHaveInit",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bHaveSaveedOld",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TrainsRecoverInfo",
+      "Type": "TArray < FUserWidgetRefInfo >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+# EGameAttributeCategory
+
+- Symbol Type: enum
+- Symbol Path: EGameAttributeCategory
+- Source JSON Path: cppenum/detail/EGameAttributeCategory.json
+- Source JSON URL: https://developer.gp.qq.com/api/cppenum/detail/EGameAttributeCategory.json
+- Mirrored At (UTC): 2026-05-19 08:23:58Z
+
+---
+
+## Variables
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Undefined | 0 |   |
+| Character | 1 |   |
+| Weapon | 2 |   |
+| Vehicle | 3 |   |

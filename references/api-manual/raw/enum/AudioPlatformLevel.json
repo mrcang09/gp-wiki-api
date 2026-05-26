@@ -1,0 +1,61 @@
+{
+  "Name": "AudioPlatformLevel",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "APL_Windows",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "APL_Android_High",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "APL_Android",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "APL_Android_Low",
+      "Value": "3",
+      "Description": " "
+    },
+    {
+      "Name": "APL_iOS_High",
+      "Value": "4",
+      "Description": " "
+    },
+    {
+      "Name": "APL_iOS",
+      "Value": "5",
+      "Description": " "
+    },
+    {
+      "Name": "APL_iOS_Low",
+      "Value": "6",
+      "Description": " "
+    },
+    {
+      "Name": "APL_OpenHarmony",
+      "Value": "7",
+      "Description": " "
+    },
+    {
+      "Name": "APL_OpenHarmony_Low",
+      "Value": "8",
+      "Description": " "
+    },
+    {
+      "Name": "APL_OpenHarmony_High",
+      "Value": "9",
+      "Description": " "
+    },
+    {
+      "Name": "APL_Preview",
+      "Value": "10",
+      "Description": " "
+    }
+  ]
+}

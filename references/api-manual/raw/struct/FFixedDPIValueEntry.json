@@ -1,0 +1,12 @@
+{
+  "Name": "FFixedDPIValueEntry",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "EntryValues",
+      "Type": "TMap < int32 , FFixedDPIValueMap >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

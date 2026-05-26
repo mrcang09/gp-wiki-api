@@ -1,0 +1,18 @@
+{
+  "Name": "FClothCollisionPrim_Convex",
+  "Description": "Data for a single convex element\n \tA convex is a collection of planes, in which the clothing will attempt to stay outside of the\n \tshape created by the planes combined.",
+  "Variables": [
+    {
+      "Name": "Planes",
+      "Type": "TArray < FPlane >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BoneIndex",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

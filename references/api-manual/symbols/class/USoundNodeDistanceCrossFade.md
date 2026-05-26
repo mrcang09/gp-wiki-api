@@ -1,0 +1,42 @@
+# USoundNodeDistanceCrossFade
+
+- Symbol Type: class
+- Symbol Path: Others / USoundNodeDistanceCrossFade
+- Source JSON Path: class/detail/Others/USoundNodeDistanceCrossFade.json
+- Source JSON URL: https://developer.gp.qq.com/api/class/detail/Others/USoundNodeDistanceCrossFade.json
+- Mirrored At (UTC): 2026-05-19 08:23:40Z
+
+---
+
+## Description
+
+SoundNodeDistanceCrossFade
+  
+  This node's purpose is to play different sounds based on the distance to the listener.  
+  The node mixes between the N different sounds which are valid for the distance.  One should
+  think of a SoundNodeDistanceCrossFade as Mixer node which determines the set of nodes to
+  "mix in" based on their distance to the sound.
+  
+  Example:
+  You have a gun that plays a fire sound.  At long distances you want a different sound than
+  if you were up close.   So you use a SoundNodeDistanceCrossFade which will calculate the distance
+  a listener is from the sound and play either:  short distance, long distance, mix of short and long sounds.
+ 
+  A SoundNodeDistanceCrossFade differs from an SoundNodeAttenuation in that any sound is only going
+  be played if it is within the MinRadius and MaxRadius.  So if you want the short distance sound to be 
+  heard by people close to it, the MinRadius should probably be 0
+ 
+  The volume curve for a SoundNodeDistanceCrossFade will look like this:
+ 
+                           Volume (of the input) 
+     FadeInDistance.Max --> _________________ <-- FadeOutDistance.Min
+                                            \
+                                             \
+                                              \
+  FadeInDistance.Min -->                       \ <-- FadeOutDistance.Max
+
+## Variables
+
+| Name | Type | Description | Redirect |
+| --- | --- | --- | --- |
+| CrossFadeInput | TArray < struct FDistanceDatum > | Each input needs to have the correct data filled in so the SoundNodeDistanceCrossFade is able<br>	  to determine which sounds to play |  |

@@ -1,0 +1,16 @@
+{
+  "Name": "EMapRotateMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "RotateAsTargetPoint",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Invalid",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

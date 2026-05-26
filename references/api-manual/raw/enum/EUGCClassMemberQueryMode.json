@@ -1,0 +1,21 @@
+{
+  "Name": "EUGCClassMemberQueryMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Functions",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Properties",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Both",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

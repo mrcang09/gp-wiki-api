@@ -1,0 +1,18 @@
+{
+  "Name": "FAmbientCube",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Saturation",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Faces",
+      "Type": "FAmbientCubeFace",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

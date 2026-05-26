@@ -1,0 +1,66 @@
+{
+  "Name": "FClipmapFoliageHealthAndAbsorption",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "FoliageHealthMap",
+      "Type": "TMap < FClipmapGenOneOriChannel , float >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseWaterDepthToGenerateAbsorption",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "WaterAbsorption",
+      "Type": "FClipmapGenOneOriChannel",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "WaterDepth",
+      "Type": "FClipmapGenOneOriChannel",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EdgeTransitionRange",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BlurRadius",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ContrastStrength",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BrightnessScale",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ShallowBoost",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DebugTexture",
+      "Type": "UTexture2D *",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

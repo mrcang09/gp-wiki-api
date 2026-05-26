@@ -1,0 +1,18 @@
+{
+  "Name": "FBoneMirrorInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "SourceIndex",
+      "Type": "int32",
+      "Description": "The bone to mirror.",
+      "Redirect": ""
+    },
+    {
+      "Name": "BoneFlipAxis",
+      "Type": "TEnumAsByte < EAxis :: Type >",
+      "Description": "Axis the bone is mirrored across.",
+      "Redirect": ""
+    }
+  ]
+}

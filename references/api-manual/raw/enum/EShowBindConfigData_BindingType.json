@@ -1,0 +1,16 @@
+{
+  "Name": "EShowBindConfigData_BindingType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Character",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Mesh",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

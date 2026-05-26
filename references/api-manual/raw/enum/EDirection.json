@@ -1,0 +1,31 @@
+{
+  "Name": "EDirection",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "EDirection_Origin",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "EDirection_Forward",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "EDirection_Backward",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "EDirection_Right",
+      "Value": "3",
+      "Description": " "
+    },
+    {
+      "Name": "EDirection_Left",
+      "Value": "4",
+      "Description": " "
+    }
+  ]
+}

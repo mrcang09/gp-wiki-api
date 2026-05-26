@@ -1,0 +1,16 @@
+{
+  "Name": "ObsAvoidDir",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "LeftAvoid",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "RightAvoid",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

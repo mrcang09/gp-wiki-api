@@ -1,0 +1,30 @@
+{
+  "Name": "FBakedAnimationStateMachine",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "MachineName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "InitialState",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "States",
+      "Type": "TArray < FBakedAnimationState >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Transitions",
+      "Type": "TArray < FAnimationTransitionBetweenStates >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

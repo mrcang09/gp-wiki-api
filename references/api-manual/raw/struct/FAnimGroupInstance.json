@@ -1,0 +1,12 @@
+{
+  "Name": "FAnimGroupInstance",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ActivePlayers",
+      "Type": "TArray < FAnimTickRecord >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

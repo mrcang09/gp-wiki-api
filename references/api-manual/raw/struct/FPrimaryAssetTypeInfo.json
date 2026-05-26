@@ -1,0 +1,72 @@
+{
+  "Name": "FPrimaryAssetTypeInfo",
+  "Description": "Structure with publicly exposed information about an asset type. These can be loaded out of a config file.",
+  "Variables": [
+    {
+      "Name": "PrimaryAssetType",
+      "Type": "FName",
+      "Description": "The logical name for this type of Primary Asset",
+      "Redirect": ""
+    },
+    {
+      "Name": "AssetBaseClass",
+      "Type": "TSoftClassPtr < UObject >",
+      "Description": "Base Class of all assets of this type",
+      "Redirect": ""
+    },
+    {
+      "Name": "AssetBaseClassLoaded",
+      "Type": "UClass *",
+      "Description": "Base Class of all assets of this type",
+      "Redirect": ""
+    },
+    {
+      "Name": "bHasBlueprintClasses",
+      "Type": "bool",
+      "Description": "True if the assets loaded are blueprints classes, false if they are normal UObjects",
+      "Redirect": ""
+    },
+    {
+      "Name": "bIsEditorOnly",
+      "Type": "bool",
+      "Description": "True if this type is editor only",
+      "Redirect": ""
+    },
+    {
+      "Name": "Directories",
+      "Type": "TArray < FDirectoryPath >",
+      "Description": "Directories to search for this asset type",
+      "Redirect": ""
+    },
+    {
+      "Name": "SpecificAssets",
+      "Type": "TArray < FSoftObjectPath >",
+      "Description": "Individual assets to scan",
+      "Redirect": ""
+    },
+    {
+      "Name": "Rules",
+      "Type": "FPrimaryAssetRules",
+      "Description": "Default management rules for this type, individual assets can be overridden",
+      "Redirect": ""
+    },
+    {
+      "Name": "AssetScanPaths",
+      "Type": "TArray < FString >",
+      "Description": "Combination of directories and individual assets to search for this asset type. Will have the Directories and Assets added to it",
+      "Redirect": ""
+    },
+    {
+      "Name": "bIsDynamicAsset",
+      "Type": "bool",
+      "Description": "True if this is an asset created at runtime that has no on disk representation. Cannot be set in config",
+      "Redirect": ""
+    },
+    {
+      "Name": "NumberOfAssets",
+      "Type": "int32",
+      "Description": "Number of tracked assets of that type",
+      "Redirect": ""
+    }
+  ]
+}

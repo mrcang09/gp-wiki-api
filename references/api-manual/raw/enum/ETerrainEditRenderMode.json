@@ -1,0 +1,16 @@
+{
+  "Name": "ETerrainEditRenderMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Default",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "CustomLayerStandalone",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

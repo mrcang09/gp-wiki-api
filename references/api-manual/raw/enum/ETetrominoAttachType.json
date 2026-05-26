@@ -1,0 +1,26 @@
+{
+  "Name": "ETetrominoAttachType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "None",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Front",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Left",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "Right",
+      "Value": "3",
+      "Description": " "
+    }
+  ]
+}

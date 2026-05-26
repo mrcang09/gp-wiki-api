@@ -1,0 +1,36 @@
+{
+  "Name": "FAnimationState",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Transitions",
+      "Type": "TArray < FAnimationTransitionRule >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "StateRootNodeIndex",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "StartNotify",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EndNotify",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FullyBlendedNotify",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

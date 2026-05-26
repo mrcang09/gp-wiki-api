@@ -1,0 +1,18 @@
+{
+  "Name": "FNamedTransform",
+  "Description": "A named transform",
+  "Variables": [
+    {
+      "Name": "Value",
+      "Type": "FTransform",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Name",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

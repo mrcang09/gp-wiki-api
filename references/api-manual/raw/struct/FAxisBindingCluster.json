@@ -1,0 +1,12 @@
+{
+  "Name": "FAxisBindingCluster",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "AxisBindingInfos",
+      "Type": "TArray < FAxisBindingInfo >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "EProjectileDeAttachType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "TargetDie",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "TargetDestroy",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

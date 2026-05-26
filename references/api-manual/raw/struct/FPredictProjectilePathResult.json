@@ -1,0 +1,24 @@
+{
+  "Name": "FPredictProjectilePathResult",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "PathData",
+      "Type": "TArray < FPredictProjectilePathPointData >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LastTraceDestination",
+      "Type": "FPredictProjectilePathPointData",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "HitResult",
+      "Type": "FHitResult",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

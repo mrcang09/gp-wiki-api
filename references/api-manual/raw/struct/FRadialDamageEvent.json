@@ -1,0 +1,24 @@
+{
+  "Name": "FRadialDamageEvent",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Params",
+      "Type": "FRadialDamageParams",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Origin",
+      "Type": "FVector",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ComponentHits",
+      "Type": "TArray < FHitResult >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

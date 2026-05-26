@@ -1,0 +1,120 @@
+{
+  "Name": "FPredictProjectilePathParams",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "StartLocation",
+      "Type": "FVector",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LaunchVelocity",
+      "Type": "FVector",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bTraceWithCollision",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ProjectileRadius",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MaxSimTime",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bTraceWithChannel",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TraceChannel",
+      "Type": "TEnumAsByte < ECollisionChannel >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ObjectTypes",
+      "Type": "TArray < TEnumAsByte < EObjectTypeQuery > >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ActorsToIgnore",
+      "Type": "TArray < AActor * >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "SimFrequency",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "OverrideGravityZ",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DrawDebugType",
+      "Type": "TEnumAsByte < EDrawDebugTrace :: Type >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DrawDebugTime",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bTraceComplex",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseConsistentPath",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "NoGravityDistance",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "InitLineScale",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DistanceLineScaleOffset",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DistanceLineScaleOffsetMinDis",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

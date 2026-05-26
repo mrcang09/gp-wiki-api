@@ -1,0 +1,12 @@
+{
+  "Name": "FPreviewMeshCollectionEntry",
+  "Description": "An entry in a preview mesh collection",
+  "Variables": [
+    {
+      "Name": "SkeletalMesh",
+      "Type": "TSoftObjectPtr < USkeletalMesh >",
+      "Description": "The skeletal mesh to display",
+      "Redirect": ""
+    }
+  ]
+}

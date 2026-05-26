@@ -1,0 +1,16 @@
+{
+  "Name": "ECustomBlackboardPropertyValueType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "RawValue",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Blackboard",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

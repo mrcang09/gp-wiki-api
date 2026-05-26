@@ -1,0 +1,66 @@
+{
+  "Name": "EFrameSyncOperation",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "None",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "ServerSyncInit",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "ServerBroadcastPlayerMapping",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "ServerBroadcastFrame",
+      "Value": "3",
+      "Description": " "
+    },
+    {
+      "Name": "ServerSendHistoryFrames",
+      "Value": "4",
+      "Description": " "
+    },
+    {
+      "Name": "ServerNotifyDeepCheckResult",
+      "Value": "5",
+      "Description": " "
+    },
+    {
+      "Name": "ClientRequestSyncInit",
+      "Value": "6",
+      "Description": " "
+    },
+    {
+      "Name": "ClientRequestHistoryFrames",
+      "Value": "7",
+      "Description": " "
+    },
+    {
+      "Name": "ClientSendCommand",
+      "Value": "8",
+      "Description": " "
+    },
+    {
+      "Name": "ClientReportHashValidationFailure",
+      "Value": "9",
+      "Description": " "
+    },
+    {
+      "Name": "ClientSendDeepCheckResult",
+      "Value": "10",
+      "Description": " "
+    },
+    {
+      "Name": "ClientUploadDeepCheckDetail",
+      "Value": "11",
+      "Description": " "
+    }
+  ]
+}

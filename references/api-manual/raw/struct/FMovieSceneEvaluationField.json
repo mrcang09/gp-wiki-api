@@ -1,0 +1,24 @@
+{
+  "Name": "FMovieSceneEvaluationField",
+  "Description": "Memory layout optimized primarily for speed of searching the applicable ranges",
+  "Variables": [
+    {
+      "Name": "Ranges",
+      "Type": "TArray < FFloatRange >",
+      "Description": "Ranges stored separately for fast (cache efficient) lookup. Each index has a corresponding entry in FMovieSceneEvaluationField::Groups.",
+      "Redirect": ""
+    },
+    {
+      "Name": "Groups",
+      "Type": "TArray < FMovieSceneEvaluationGroup >",
+      "Description": "Groups that store segment pointers for each of the above ranges. Each index has a corresponding entry in FMovieSceneEvaluationField::Ranges.",
+      "Redirect": ""
+    },
+    {
+      "Name": "MetaData",
+      "Type": "TArray < FMovieSceneEvaluationMetaData >",
+      "Description": "Meta data that maps to entries in the 'Ranges' array.",
+      "Redirect": ""
+    }
+  ]
+}

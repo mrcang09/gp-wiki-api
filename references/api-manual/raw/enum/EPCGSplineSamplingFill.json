@@ -1,0 +1,16 @@
+{
+  "Name": "EPCGSplineSamplingFill",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Fill",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "EdgesOnly",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

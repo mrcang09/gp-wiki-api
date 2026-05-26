@@ -1,0 +1,16 @@
+{
+  "Name": "EEnvDirection",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "TwoPoints",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Rotation",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

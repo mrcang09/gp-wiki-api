@@ -1,0 +1,42 @@
+{
+  "Name": "FLevelBlockFoliageInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "FoliageLocations",
+      "Type": "TArray < FVector >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LandscapeHeight",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Indices",
+      "Type": "TArray < int32 >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DstLocationHeightDiffs",
+      "Type": "TMap < int32 , float >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DstLocations",
+      "Type": "TMap < int32 , FVector >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CulledInstanceIndices",
+      "Type": "TArray < int32 >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

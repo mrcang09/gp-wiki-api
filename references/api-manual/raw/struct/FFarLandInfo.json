@@ -1,0 +1,30 @@
+{
+  "Name": "FFarLandInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "FarLandDiffuseTexture",
+      "Type": "UTexture2D *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FarLandNormalTexture",
+      "Type": "UTexture2D *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "IndexX",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "IndexY",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

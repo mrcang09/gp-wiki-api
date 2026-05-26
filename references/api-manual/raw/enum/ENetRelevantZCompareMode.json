@@ -1,0 +1,16 @@
+{
+  "Name": "ENetRelevantZCompareMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "NRZCM_Greater",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "NRZCM_LessThan",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

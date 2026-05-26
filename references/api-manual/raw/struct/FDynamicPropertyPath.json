@@ -1,0 +1,12 @@
+{
+  "Name": "FDynamicPropertyPath",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Segments",
+      "Type": "TArray < FPropertyPathSegment >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

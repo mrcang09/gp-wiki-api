@@ -1,0 +1,18 @@
+{
+  "Name": "FMaterialRemapIndex",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ImportVersionKey",
+      "Type": "uint32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MaterialRemap",
+      "Type": "TArray < int32 >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

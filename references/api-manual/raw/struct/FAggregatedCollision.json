@@ -1,0 +1,30 @@
+{
+  "Name": "FAggregatedCollision",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "BodySetup",
+      "Type": "UBodySetup *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BodySetupName",
+      "Type": "FString",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Transforms",
+      "Type": "TArray < FTransform >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BodyInstances",
+      "Type": "TArray < FBodyInstance >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

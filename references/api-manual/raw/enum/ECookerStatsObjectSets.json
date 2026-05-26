@@ -1,0 +1,11 @@
+{
+  "Name": "ECookerStatsObjectSets",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "CookerStatsObjectSets_Default",
+      "Value": "0",
+      "Description": " "
+    }
+  ]
+}

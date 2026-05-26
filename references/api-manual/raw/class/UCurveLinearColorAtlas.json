@@ -1,0 +1,88 @@
+{
+  "Name": "UCurveLinearColorAtlas",
+  "Description": "Manages gradient LUT textures for registered actors and assigns them to the corresponding materials on the actor",
+  "Variables": [
+    {
+      "Name": "TextureSize",
+      "Type": "uint32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bSquareResolution",
+      "Type": "uint32",
+      "Description": "Set texture height equal to texture width.",
+      "Redirect": ""
+    },
+    {
+      "Name": "TextureHeight",
+      "Type": "uint32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GradientCurves",
+      "Type": "TArray < UCurveLinearColor * >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bIsDirty",
+      "Type": "uint32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bDisableAllAdjustments",
+      "Type": "uint32",
+      "Description": "Disable all color adjustments to preserve negative values in curves. Color adjustments clamp to 0 when enabled.",
+      "Redirect": ""
+    },
+    {
+      "Name": "bHasCachedColorAdjustments",
+      "Type": "uint32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CachedColorAdjustments",
+      "Type": "FCurveAtlasColorAdjustments",
+      "Description": "",
+      "Redirect": ""
+    }
+  ],
+  "Functions": [
+    {
+      "Name": "GetCurvePosition",
+      "Description": "",
+      "Params": [
+        {
+          "Name": "InCurve",
+          "Type": "UCurveLinearColor * ",
+          "Description": "",
+          "Redirect": ""
+        },
+        {
+          "Name": "Position",
+          "Type": "float &",
+          "Description": "",
+          "Redirect": ""
+        }
+      ],
+      "Return": [
+        {
+          "Name": "",
+          "Type": "bool ",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    }
+  ],
+  "Parents": [
+    "UTexture2D"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "FForeignWorldSplineData",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ForeignControlPointDataMap_DEPRECATED",
+      "Type": "TMap < TLazyObjectPtr < ULandscapeSplineControlPoint > , FForeignControlPointData >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ForeignControlPointData",
+      "Type": "TArray < FForeignControlPointData >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ForeignSplineSegmentDataMap_DEPRECATED",
+      "Type": "TMap < TLazyObjectPtr < ULandscapeSplineSegment > , FForeignSplineSegmentData >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ForeignSplineSegmentData",
+      "Type": "TArray < FForeignSplineSegmentData >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

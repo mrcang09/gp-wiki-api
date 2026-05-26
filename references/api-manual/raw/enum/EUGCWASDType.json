@@ -1,0 +1,26 @@
+{
+  "Name": "EUGCWASDType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UGC_WASD_Always",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_WASD_RMBOnly",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_WASD_Never",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_WASD_MAX",
+      "Value": "3",
+      "Description": " "
+    }
+  ]
+}

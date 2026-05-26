@@ -1,0 +1,30 @@
+{
+  "Name": "FWorldParallelismManager",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "World",
+      "Type": "UWorld *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Players",
+      "Type": "TArray < FParallelWorldPlayerInfo >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ParallelGameModes",
+      "Type": "TMap < uint32 , AGameModeBase * >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ParallelGameStates",
+      "Type": "TMap < uint32 , AGameStateBase * >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

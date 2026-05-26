@@ -1,0 +1,36 @@
+{
+  "Name": "FNavDataConfig",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Name",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Color",
+      "Type": "FColor",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DefaultQueryExtent",
+      "Type": "FVector",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "NavigationDataClass",
+      "Type": "TSubclassOf < ANavigationData >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "NavigationDataClassName",
+      "Type": "FSoftClassPath",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

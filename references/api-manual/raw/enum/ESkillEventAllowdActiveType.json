@@ -1,0 +1,11 @@
+{
+  "Name": "ESkillEventAllowdActiveType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "ESkillEventAllowdActiveType_Init",
+      "Value": "0",
+      "Description": " "
+    }
+  ]
+}

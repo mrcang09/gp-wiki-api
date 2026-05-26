@@ -1,0 +1,16 @@
+{
+  "Name": "EBTChildIndex",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "FirstNode",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "TaskNode",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "FEdGraphPinReference",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "OwningNode",
+      "Type": "TWeakObjectPtr < UEdGraphNode >",
+      "Description": "The node that owns the pin referred to by this struct. Updated at Set and Save time.",
+      "Redirect": ""
+    },
+    {
+      "Name": "PinId",
+      "Type": "FGuid",
+      "Description": "The pin's unique ID. Updated at Set and Save time.",
+      "Redirect": ""
+    }
+  ]
+}

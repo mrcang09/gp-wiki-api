@@ -1,0 +1,70 @@
+{
+  "Name": "UClipmapTextureComponent",
+  "Description": "Component used to place a URuntimeVirtualTexture in the world.",
+  "Variables": [
+    {
+      "Name": "ClipmapTexture",
+      "Type": "UClipmapTexture *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseForCDLODMatID",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BoundsSourceActor",
+      "Type": "AActor *",
+      "Description": "Actor to copy the bounds from to set up the transform.",
+      "Redirect": ""
+    },
+    {
+      "Name": "MipToDis",
+      "Type": "TMap < int32 , float >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ClipmapInfo",
+      "Type": "FVector4",
+      "Description": "",
+      "Redirect": ""
+    }
+  ],
+  "Functions": [
+    {
+      "Name": "SetTransformToBounds",
+      "Description": "Set this component transform to include the BoundsSourceActor bounds. Called by our UI details customization.",
+      "Params": null,
+      "Return": [
+        {
+          "Name": "",
+          "Type": "void",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "RefreshClipmapInfo",
+      "Description": "",
+      "Params": null,
+      "Return": [
+        {
+          "Name": "",
+          "Type": "void",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    }
+  ],
+  "Parents": [
+    "USceneComponent"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

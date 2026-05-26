@@ -1,0 +1,21 @@
+{
+  "Name": "EPakSplitState",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Unknow",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "DoNotSplit",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Split",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Name": "EUGCMatchMethodType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "PeaceClassic",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Random",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "UserDefined",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "TeamCompetition",
+      "Value": "3",
+      "Description": " "
+    }
+  ]
+}

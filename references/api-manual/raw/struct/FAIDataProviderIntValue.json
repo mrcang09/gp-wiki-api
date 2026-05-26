@@ -1,0 +1,12 @@
+{
+  "Name": "FAIDataProviderIntValue",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "DefaultValue",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

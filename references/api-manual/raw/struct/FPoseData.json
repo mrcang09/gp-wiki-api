@@ -1,0 +1,24 @@
+{
+  "Name": "FPoseData",
+  "Description": "Pose data \n  \n  This is one pose data structure\n  This will let us blend poses quickly easily\n  All poses within this asset should contain same number of tracks, \n  so that we can blend quickly",
+  "Variables": [
+    {
+      "Name": "LocalSpacePose",
+      "Type": "TArray < FTransform >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LocalSpacePoseMask",
+      "Type": "TArray < bool >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CurveData",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

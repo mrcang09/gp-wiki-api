@@ -1,0 +1,16 @@
+{
+  "Name": "EDamageModifyPhase",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "VeryEarly",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Final",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

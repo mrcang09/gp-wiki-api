@@ -1,0 +1,114 @@
+{
+  "Name": "FScalabilityQuality",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ResolutionQuality",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ViewDistanceQuality",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "AntiAliasingQuality",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ShadowQuality",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "PostProcessQuality",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TextureQuality",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EffectsQuality",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FoliageQuality",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GameSimQuality",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DeviceSimQuality",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CPUBenchmarkResults",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GPUBenchmarkResults",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ExtendedScalabilityGroups",
+      "Type": "TArray < int32 >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ExtendedLimitedSize",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ExtendedScalabilityGroupsKeys",
+      "Type": "TArray < FString >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "OverrideScalabilityGroupsOnChangedKeys",
+      "Type": "TArray < FString >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "OccupiedCVarKeys",
+      "Type": "TSet < FString >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ExtendedScalabilityGroupsNumLevels",
+      "Type": "TArray < int32 >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

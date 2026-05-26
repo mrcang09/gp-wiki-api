@@ -1,0 +1,21 @@
+{
+  "Name": "EUGCMeasuringToolUnits",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UGCMeasureUnits_Centimeters",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UGCMeasureUnits_Meters",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "UGCMeasureUnits_Kilometers",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

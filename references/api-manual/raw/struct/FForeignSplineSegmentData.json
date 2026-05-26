@@ -1,0 +1,24 @@
+{
+  "Name": "FForeignSplineSegmentData",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ModificationKey",
+      "Type": "FGuid",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MeshComponents",
+      "Type": "TArray < USplineMeshComponent * >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Identifier",
+      "Type": "TLazyObjectPtr < ULandscapeSplineSegment >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

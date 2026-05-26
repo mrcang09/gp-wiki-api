@@ -1,0 +1,12 @@
+{
+  "Name": "FAIDataProviderBoolValue",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "DefaultValue",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

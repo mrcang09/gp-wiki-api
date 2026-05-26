@@ -1,0 +1,18 @@
+{
+  "Name": "FSoundSubmixSendInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "SendLevel",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "SoundSubmix",
+      "Type": "USoundSubmix *",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

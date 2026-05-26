@@ -1,0 +1,49 @@
+{
+  "Name": "ULandscapeBiomesInfoObject",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "BiomesName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LayerCount",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MaterialIdLayers",
+      "Type": "TArray < ULandscapeMaterialIdLayerInfoObject * >",
+      "Description": "0-255 MaterialID layers",
+      "Redirect": ""
+    },
+    {
+      "Name": "DiffuseTextureArray",
+      "Type": "UTexture2DArray *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "NormalTextureArray",
+      "Type": "UTexture2DArray *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bTextureArrayDirty",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    }
+  ],
+  "Functions": null,
+  "Parents": [
+    "UObject"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

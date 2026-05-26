@@ -1,0 +1,16 @@
+{
+  "Name": "ERegionlMapActorPlusUIShowType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "OnEnterRegion",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "FollowActorLifetime",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

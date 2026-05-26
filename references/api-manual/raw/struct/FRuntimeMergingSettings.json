@@ -1,0 +1,18 @@
+{
+  "Name": "FRuntimeMergingSettings",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ComponentToWorldTransforms",
+      "Type": "TArray < FTransform >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "RuntimeMergingOverrideMaterial",
+      "Type": "TArray < FRuntimeMergingOverrideMaterial >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

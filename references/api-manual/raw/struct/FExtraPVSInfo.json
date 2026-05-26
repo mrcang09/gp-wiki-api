@@ -1,0 +1,12 @@
+{
+  "Name": "FExtraPVSInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ExtraVisibleZone",
+      "Type": "TArray < FBox >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

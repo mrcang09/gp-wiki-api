@@ -1,0 +1,18 @@
+{
+  "Name": "FBTDecoratorLogic",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Operation",
+      "Type": "TEnumAsByte < EBTDecoratorLogic :: Type >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Number",
+      "Type": "uint16",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

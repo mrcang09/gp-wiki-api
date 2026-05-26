@@ -1,0 +1,16 @@
+{
+  "Name": "ERotatorQuantization",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "ByteComponents",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "ShortComponents",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

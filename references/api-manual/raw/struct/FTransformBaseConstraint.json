@@ -1,0 +1,12 @@
+{
+  "Name": "FTransformBaseConstraint",
+  "Description": "This defines what constraint it is defined",
+  "Variables": [
+    {
+      "Name": "TransformConstraints",
+      "Type": "TArray < FRigTransformConstraint >",
+      "Description": "What transform type",
+      "Redirect": ""
+    }
+  ]
+}

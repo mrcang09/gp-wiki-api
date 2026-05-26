@@ -1,0 +1,16 @@
+{
+  "Name": "ETemplateCreateMethod",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Duplicate",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Derive",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "FCollectionScalarParameter",
+  "Description": "A scalar parameter",
+  "Variables": [
+    {
+      "Name": "DefaultValue",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

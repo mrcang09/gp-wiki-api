@@ -1,0 +1,1952 @@
+[
+  {
+    "label": "版本日志",
+    "type": 0,
+    "id": 52,
+    "children": [
+      {
+        "id": 20361,
+        "label": "1.36 Release Notes",
+        "type": 1
+      },
+      {
+        "id": 20302,
+        "label": "1.35 Release Notes",
+        "type": 1
+      },
+      {
+        "id": 20256,
+        "label": "1.34 Release Notes",
+        "type": 1
+      },
+      {
+        "id": 20222,
+        "label": "1.33 Release Notes",
+        "type": 1
+      },
+      {
+        "id": 20175,
+        "label": "1.32 Release Notes",
+        "type": 1
+      },
+      {
+        "id": 20116,
+        "label": "1.31 Release Notes",
+        "type": 1
+      },
+      {
+        "id": 20071,
+        "label": "1.30 Release Notes",
+        "type": 1
+      },
+      {
+        "id": 20044,
+        "label": "1.29 Release Notes",
+        "type": 1
+      },
+      {
+        "id": 20028,
+        "label": "1.28 Release Notes",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "label": "绿洲编辑器基础内容",
+    "type": 0,
+    "id": 11,
+    "children": [
+      {
+        "type": 1,
+        "isDraft": false,
+        "label": "绿洲启元编辑器介绍与安装",
+        "id": 289
+      },
+      {
+        "type": 1,
+        "isDraft": false,
+        "label": "绿洲启元编辑器基础术语",
+        "id": 308
+      },
+      {
+        "type": 1,
+        "isDraft": false,
+        "label": "创建工程及工程结构介绍",
+        "id": 312
+      },
+      {
+        "label": "编辑器功能窗口",
+        "type": 0,
+        "id": 12,
+        "children": [
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "编辑器功能窗口概述",
+            "id": 340
+          },
+          {
+            "id": 124,
+            "label": "场景编辑器概述",
+            "type": 1,
+            "isDraft": false
+          }
+        ]
+      },
+      {
+        "label": "脚本编写",
+        "type": 0,
+        "id": 54,
+        "children": [
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "使用Lua编写玩法功能",
+            "id": 351
+          },
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "绿洲启元Lua脚本开发指南",
+            "id": 346
+          },
+          {
+            "id": 20272,
+            "label": "EmmyLua调试工具",
+            "type": 1,
+            "draftId": 20307
+          },
+          {
+            "id": 272,
+            "label": "游戏结束时的逻辑处理",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "id": 20352,
+            "label": "Actor实例路径使用",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "label": "调试游戏",
+        "type": 0,
+        "id": 53,
+        "children": [
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "调试日志说明",
+            "id": 354
+          },
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "编辑器Debug调试",
+            "id": 307
+          },
+          {
+            "id": 20042,
+            "label": "客户端调试管理器",
+            "type": 1
+          },
+          {
+            "id": 20033,
+            "label": "编辑器联机调试",
+            "type": 1
+          },
+          {
+            "id": 20109,
+            "label": "通用GM面板",
+            "type": 1,
+            "draftId": 20281
+          },
+          {
+            "id": 224,
+            "label": "Lua控制台",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "id": 20242,
+            "label": "战斗日志",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "label": "匹配系统",
+        "type": 0,
+        "id": 55,
+        "children": [
+          {
+            "id": 127,
+            "label": "匹配设置",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "二次匹配功能",
+            "id": 376
+          },
+          {
+            "id": 20062,
+            "label": "阶段匹配",
+            "type": 1,
+            "draftId": 20079
+          },
+          {
+            "id": 20270,
+            "label": "局内补人",
+            "type": 1,
+            "draftId": 20278
+          }
+        ]
+      },
+      {
+        "label": "上传和发布游戏",
+        "type": 0,
+        "id": 13,
+        "children": [
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "项目设置",
+            "id": 363
+          },
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "上传工程与真机测试",
+            "id": 372
+          },
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "玩法提审与更新",
+            "id": 378
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "isDraft": false,
+        "label": "绿洲启元管理平台使用指引",
+        "id": 381
+      },
+      {
+        "id": 380,
+        "label": "团队账号功能使用说明",
+        "type": 1,
+        "isDraft": false
+      }
+    ]
+  },
+  {
+    "label": "新手入门",
+    "type": 0,
+    "id": 15,
+    "children": [
+      {
+        "label": "实现HelloWord",
+        "id": 16,
+        "type": 0,
+        "children": [
+          {
+            "id": 298,
+            "label": "制作HellowWorld工程",
+            "type": 1,
+            "isDraft": false
+          }
+        ]
+      },
+      {
+        "label": "资源管理与编辑",
+        "type": 0,
+        "id": 17,
+        "children": [
+          {
+            "id": 299,
+            "label": "编辑器资源库",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "资源导入",
+            "id": 277
+          },
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "资源引用",
+            "id": 314
+          },
+          {
+            "id": 20247,
+            "label": "资产迁移",
+            "type": 1
+          },
+          {
+            "label": "资源编辑",
+            "type": 0,
+            "id": 18,
+            "children": [
+              {
+                "type": 1,
+                "isDraft": false,
+                "label": "静态模型编辑",
+                "id": 313
+              },
+              {
+                "id": 300,
+                "label": "贴图与材质编辑",
+                "type": 1,
+                "isDraft": false
+              },
+              {
+                "id": 140,
+                "label": "特效编辑",
+                "type": 1,
+                "isDraft": false
+              },
+              {
+                "id": 142,
+                "label": "音频编辑",
+                "type": 1,
+                "isDraft": false
+              },
+              {
+                "type": 1,
+                "isDraft": false,
+                "label": "动画序列",
+                "id": 342
+              }
+            ]
+          },
+          {
+            "id": 20244,
+            "label": "音频编辑器",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "label": "游戏场景",
+        "type": 0,
+        "id": 19,
+        "children": [
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "场景物件编辑",
+            "id": 343
+          },
+          {
+            "label": "关卡编辑",
+            "type": 0,
+            "id": 20,
+            "children": [
+              {
+                "type": 1,
+                "isDraft": false,
+                "label": "关卡编辑基础",
+                "id": 344
+              },
+              {
+                "type": 1,
+                "isDraft": false,
+                "label": "超大地图关卡加载方式",
+                "id": 279
+              },
+              {
+                "type": 1,
+                "isDraft": false,
+                "label": "一般地图子关卡管理",
+                "id": 330
+              }
+            ]
+          },
+          {
+            "label": "场景编辑基础",
+            "type": 0,
+            "id": 21,
+            "children": [
+              {
+                "id": 281,
+                "label": "地形Landscape",
+                "type": 1,
+                "isDraft": false
+              },
+              {
+                "id": 282,
+                "label": "样条曲线",
+                "type": 1,
+                "isDraft": false
+              },
+              {
+                "id": 283,
+                "label": "植被工具",
+                "type": 1,
+                "isDraft": false
+              },
+              {
+                "id": 20248,
+                "label": "道路生成器",
+                "type": 1,
+                "draftId": 20296
+              },
+              {
+                "id": 20350,
+                "label": "AIGC地形生成插件",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "id": 284,
+            "label": "水体",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "id": 152,
+            "label": "小地图",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "id": 20202,
+            "label": "小地图音效可视化",
+            "type": 1
+          },
+          {
+            "id": 225,
+            "label": "天气系统",
+            "type": 1,
+            "isDraft": false
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "isDraft": false,
+        "label": "预置游戏规则",
+        "id": 356
+      }
+    ]
+  },
+  {
+    "label": "进阶内容",
+    "type": 0,
+    "id": 24,
+    "children": [
+      {
+        "type": 1,
+        "isDraft": false,
+        "label": "绿洲启元玩法开发框架介绍",
+        "id": 352
+      },
+      {
+        "id": 203,
+        "label": "网络同步系统介绍",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "label": "模式编辑器",
+        "type": 0,
+        "id": 25,
+        "children": [
+          {
+            "id": 155,
+            "label": "通过模式编辑器创建游戏规则",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "id": 167,
+            "label": "使用脚本创建全新的规则",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "id": 157,
+            "label": "模式编辑器Event,Condition,Action",
+            "type": 1,
+            "isDraft": false
+          }
+        ]
+      },
+      {
+        "label": "GamePlay系统",
+        "type": 0,
+        "id": 61,
+        "children": [
+          {
+            "label": "角色系统",
+            "type": 0,
+            "id": 63,
+            "children": [
+              {
+                "id": 153,
+                "label": "修改主角属性",
+                "type": 1,
+                "isDraft": false,
+                "draftId": 20287
+              },
+              {
+                "type": 1,
+                "isDraft": false,
+                "label": "角色出生点",
+                "id": 362
+              },
+              {
+                "id": 20095,
+                "label": "队伍与阵营",
+                "type": 1
+              },
+              {
+                "id": 20148,
+                "label": "物品掉落与保留",
+                "type": 1
+              },
+              {
+                "id": 20228,
+                "label": "角色Avatar复制",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "label": "技能系统",
+            "type": 0,
+            "id": 64,
+            "children": [
+              {
+                "label": "技能编辑器1.0",
+                "type": 0,
+                "id": 67,
+                "children": [
+                  {
+                    "id": 178,
+                    "label": "快速入门",
+                    "type": 1,
+                    "isDraft": false
+                  },
+                  {
+                    "id": 181,
+                    "label": "技能设置，技能阶段设置详解",
+                    "type": 1,
+                    "isDraft": false
+                  },
+                  {
+                    "id": 182,
+                    "label": "新建技能阶段，新建技能Action",
+                    "type": 1,
+                    "isDraft": false
+                  },
+                  {
+                    "id": 183,
+                    "label": "自定义自己的技能Action节点",
+                    "type": 1,
+                    "isDraft": false
+                  },
+                  {
+                    "id": 259,
+                    "label": "技能编辑器节点查询",
+                    "type": 1,
+                    "isDraft": false
+                  }
+                ]
+              },
+              {
+                "label": "技能编辑器2.0",
+                "type": 0,
+                "id": 68,
+                "children": [
+                  {
+                    "id": 20091,
+                    "label": "技能编辑器",
+                    "type": 1
+                  },
+                  {
+                    "id": 20152,
+                    "label": "技能状态图",
+                    "type": 1
+                  },
+                  {
+                    "id": 20110,
+                    "label": "被动技能",
+                    "type": 1
+                  },
+                  {
+                    "id": 20075,
+                    "label": "技能抛体",
+                    "type": 1
+                  },
+                  {
+                    "id": 20112,
+                    "label": "技能Event查询手册",
+                    "type": 1
+                  },
+                  {
+                    "id": 20111,
+                    "label": "技能Condition查询手册",
+                    "type": 1
+                  },
+                  {
+                    "id": 20094,
+                    "label": "技能Task查询手册",
+                    "type": 1,
+                    "draftId": 20186
+                  },
+                  {
+                    "id": 20114,
+                    "label": "技能调试工具",
+                    "type": 1
+                  }
+                ]
+              },
+              {
+                "label": "Buff编辑器1.0",
+                "type": 0,
+                "id": 69,
+                "children": [
+                  {
+                    "id": 195,
+                    "label": "Buff简介",
+                    "type": 1,
+                    "isDraft": false,
+                    "draftId": 0
+                  },
+                  {
+                    "id": 196,
+                    "label": "自定义自己的BuffAction",
+                    "type": 1,
+                    "isDraft": false
+                  }
+                ]
+              },
+              {
+                "label": "Buff编辑器2.0",
+                "type": 0,
+                "id": 70,
+                "children": [
+                  {
+                    "id": 20087,
+                    "label": "Buff编辑器",
+                    "type": 1,
+                    "draftId": 20204
+                  },
+                  {
+                    "id": 20117,
+                    "label": "BuffAction查询手册",
+                    "type": 1
+                  },
+                  {
+                    "id": 20253,
+                    "label": "变参Buff模板",
+                    "type": 1
+                  }
+                ]
+              },
+              {
+                "id": 20108,
+                "label": "技能属性绑定",
+                "type": 1
+              },
+              {
+                "id": 20106,
+                "label": "状态互斥",
+                "type": 1
+              },
+              {
+                "id": 20217,
+                "label": "法术场",
+                "type": 1,
+                "draftId": 20243
+              }
+            ]
+          },
+          {
+            "label": "物资系统",
+            "type": 0,
+            "id": 62,
+            "children": [
+              {
+                "label": "物资编辑器1.0",
+                "type": 0,
+                "id": 65,
+                "children": [
+                  {
+                    "id": 185,
+                    "label": "概述",
+                    "type": 1,
+                    "isDraft": false
+                  },
+                  {
+                    "id": 186,
+                    "label": "创建新的药品",
+                    "type": 1,
+                    "isDraft": false
+                  },
+                  {
+                    "id": 187,
+                    "label": "枪械物资",
+                    "type": 1,
+                    "isDraft": false
+                  },
+                  {
+                    "id": 188,
+                    "label": "投掷物物资",
+                    "type": 1,
+                    "isDraft": false
+                  },
+                  {
+                    "id": 193,
+                    "label": "为玩家添加初始道具",
+                    "type": 1,
+                    "isDraft": false
+                  },
+                  {
+                    "id": 194,
+                    "label": "物资刷新示例",
+                    "type": 1,
+                    "isDraft": false
+                  }
+                ]
+              },
+              {
+                "label": "物资编辑器2.0",
+                "type": 0,
+                "id": 66,
+                "children": [
+                  {
+                    "id": 20101,
+                    "label": "物品编辑器",
+                    "type": 1,
+                    "draftId": 20124
+                  },
+                  {
+                    "id": 20210,
+                    "label": "物品与背包槽位",
+                    "type": 1
+                  },
+                  {
+                    "id": 20104,
+                    "label": "背包系统",
+                    "type": 1
+                  },
+                  {
+                    "id": 20103,
+                    "label": "自定义枪械",
+                    "type": 1
+                  },
+                  {
+                    "id": 20157,
+                    "label": "自定义投掷物",
+                    "type": 1
+                  },
+                  {
+                    "id": 20158,
+                    "label": "自定义近战武器",
+                    "type": 1
+                  },
+                  {
+                    "id": 20212,
+                    "label": "自定义物品模型",
+                    "type": 1
+                  },
+                  {
+                    "id": 20155,
+                    "label": "物资刷新器",
+                    "type": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "怪物系统",
+            "type": 0,
+            "id": 75,
+            "children": [
+              {
+                "id": 20144,
+                "label": "怪物快速配置指南",
+                "type": 1
+              },
+              {
+                "id": 20145,
+                "label": "怪物血条",
+                "type": 1
+              },
+              {
+                "id": 20251,
+                "label": "怪物动画",
+                "type": 1
+              },
+              {
+                "id": 20255,
+                "label": "修改怪物模型",
+                "type": 1
+              },
+              {
+                "id": 20285,
+                "label": "无骨骼怪物模板",
+                "type": 1
+              },
+              {
+                "id": 20252,
+                "label": "怪物受击",
+                "type": 1,
+                "draftId": 20273
+              },
+              {
+                "id": 20265,
+                "label": "行为树",
+                "type": 1,
+                "draftId": 20327
+              },
+              {
+                "id": 20266,
+                "label": "导航网格",
+                "type": 1
+              },
+              {
+                "id": 20274,
+                "label": "动态更新导航网格",
+                "type": 1
+              },
+              {
+                "id": 20250,
+                "label": "怪物行为控制组件",
+                "type": 1,
+                "draftId": 20319
+              },
+              {
+                "id": 20162,
+                "label": "怪物逻辑管理组件",
+                "type": 1
+              },
+              {
+                "id": 20168,
+                "label": "移动与避障",
+                "type": 1
+              },
+              {
+                "id": 20254,
+                "label": "路点移动",
+                "type": 1
+              },
+              {
+                "id": 20156,
+                "label": "怪物刷新器",
+                "type": 1
+              },
+              {
+                "id": 20161,
+                "label": "怪物调试工具",
+                "type": 1
+              },
+              {
+                "id": 20017,
+                "label": "怪物动画蓝图复用功能",
+                "type": 1
+              },
+              {
+                "id": 20178,
+                "label": "装饰器节点查询手册",
+                "type": 1
+              },
+              {
+                "id": 20174,
+                "label": "服务节点查询手册",
+                "type": 1
+              },
+              {
+                "id": 20179,
+                "label": "任务节点查询手册",
+                "type": 1
+              },
+              {
+                "label": "AI编辑器1.0",
+                "type": 0,
+                "id": 26,
+                "children": [
+                  {
+                    "label": "怪物制作",
+                    "type": 0,
+                    "id": 27,
+                    "children": [
+                      {
+                        "id": 168,
+                        "label": "框架介绍",
+                        "type": 1,
+                        "isDraft": false
+                      },
+                      {
+                        "id": 169,
+                        "label": "寻路网格烘焙以及组件配置",
+                        "type": 1,
+                        "isDraft": false
+                      },
+                      {
+                        "id": 170,
+                        "label": "新建怪物蓝图并配置动画",
+                        "type": 1,
+                        "isDraft": false
+                      },
+                      {
+                        "id": 171,
+                        "label": "让怪物移动起来",
+                        "type": 1,
+                        "isDraft": false
+                      },
+                      {
+                        "id": 172,
+                        "label": "让怪物释放技能进行攻击",
+                        "type": 1,
+                        "isDraft": false
+                      },
+                      {
+                        "id": 173,
+                        "label": "常用参数和接口详解",
+                        "type": 1,
+                        "isDraft": false
+                      },
+                      {
+                        "id": 174,
+                        "label": "附件工程",
+                        "type": 1,
+                        "isDraft": false
+                      }
+                    ]
+                  },
+                  {
+                    "id": 175,
+                    "label": "行为树基本概念",
+                    "type": 1,
+                    "isDraft": false
+                  },
+                  {
+                    "type": 1,
+                    "isDraft": false,
+                    "label": "自定义节点",
+                    "id": 358
+                  },
+                  {
+                    "id": 177,
+                    "label": "使用导航网格NavMesh",
+                    "type": 1,
+                    "isDraft": false
+                  },
+                  {
+                    "id": 179,
+                    "label": "利用和平的角色拓展玩法内容",
+                    "type": 1,
+                    "isDraft": false
+                  },
+                  {
+                    "label": "行为树节点使用手册",
+                    "type": 0,
+                    "id": 39,
+                    "children": [
+                      {
+                        "label": "Composite",
+                        "type": 0,
+                        "id": 40,
+                        "children": [
+                          {
+                            "id": 252,
+                            "label": "引擎",
+                            "type": 1,
+                            "isDraft": false
+                          }
+                        ]
+                      },
+                      {
+                        "label": "Task",
+                        "type": 0,
+                        "id": 41,
+                        "children": [
+                          {
+                            "id": 253,
+                            "label": "引擎",
+                            "type": 1,
+                            "isDraft": false
+                          },
+                          {
+                            "id": 254,
+                            "label": "和平",
+                            "type": 1,
+                            "isDraft": false
+                          }
+                        ]
+                      },
+                      {
+                        "label": "Decorator",
+                        "type": 0,
+                        "id": 42,
+                        "children": [
+                          {
+                            "id": 255,
+                            "label": "引擎",
+                            "type": 1,
+                            "isDraft": false
+                          },
+                          {
+                            "id": 256,
+                            "label": "和平",
+                            "type": 1,
+                            "isDraft": false
+                          }
+                        ]
+                      },
+                      {
+                        "label": "Service",
+                        "type": 0,
+                        "id": 43,
+                        "children": [
+                          {
+                            "id": 257,
+                            "label": "引擎",
+                            "type": 1,
+                            "isDraft": false
+                          },
+                          {
+                            "id": 258,
+                            "label": "和平",
+                            "type": 1,
+                            "isDraft": false
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 20323,
+                "label": "丧尸法师案例",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "label": "载具系统",
+            "type": 0,
+            "id": 23,
+            "children": [
+              {
+                "type": 1,
+                "isDraft": false,
+                "label": "普通载具",
+                "id": 379
+              },
+              {
+                "id": 20245,
+                "label": "载具编辑器",
+                "type": 1
+              },
+              {
+                "id": 20291,
+                "label": "载具刷新器",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "label": "属性与伤害",
+            "type": 0,
+            "id": 74,
+            "children": [
+              {
+                "id": 20098,
+                "label": "通用属性系统",
+                "type": 1,
+                "draftId": 20135
+              },
+              {
+                "id": 20153,
+                "label": "属性修改器",
+                "type": 1
+              },
+              {
+                "id": 20099,
+                "label": "全局伤害公式",
+                "type": 1
+              },
+              {
+                "id": 20216,
+                "label": "全局治疗公式",
+                "type": 1
+              },
+              {
+                "id": 20169,
+                "label": "受击数据资产",
+                "type": 1
+              },
+              {
+                "id": 20159,
+                "label": "枪械属性对照表",
+                "type": 1
+              },
+              {
+                "id": 20246,
+                "label": "载具属性对照表",
+                "type": 1
+              },
+              {
+                "id": 20205,
+                "label": "角色属性与状态",
+                "type": 1
+              }
+            ]
+          },
+          {
+            "id": 20102,
+            "label": "Gameplay标签",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "label": "UI系统",
+        "type": 0,
+        "id": 32,
+        "children": [
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "快速入门",
+            "id": 347
+          },
+          {
+            "id": 199,
+            "label": "UMG Lua的结构",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "异形屏适配",
+            "id": 357
+          },
+          {
+            "id": 201,
+            "label": "创建3D UI",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "id": 202,
+            "label": "富文本框",
+            "type": 1
+          },
+          {
+            "id": 20097,
+            "label": "和平控件锚点",
+            "type": 1
+          },
+          {
+            "id": 20019,
+            "label": "和平主界面控件布局",
+            "type": 1
+          },
+          {
+            "label": "和平控件查询",
+            "type": 0,
+            "id": 71,
+            "children": [
+              {
+                "id": 250,
+                "label": "和平主界面控件",
+                "type": 1,
+                "isDraft": false
+              },
+              {
+                "id": 251,
+                "label": "和平全局观战界面控件",
+                "type": 1,
+                "isDraft": false
+              }
+            ]
+          },
+          {
+            "id": 20269,
+            "label": "UI自适应屏幕",
+            "type": 1,
+            "draftId": 20343
+          },
+          {
+            "id": 20295,
+            "label": "通用屏幕指示器",
+            "type": 1
+          },
+          {
+            "id": 20325,
+            "label": "技能元件",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 20223,
+        "label": "特效编辑器",
+        "type": 1
+      },
+      {
+        "label": "输入系统",
+        "type": 0,
+        "id": 80,
+        "children": [
+          {
+            "id": 20290,
+            "label": "输入映射",
+            "type": 1
+          },
+          {
+            "id": 20211,
+            "label": "绿洲玩法适配和平精英模拟器",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "label": "和平精英集成功能",
+        "type": 0,
+        "id": 34,
+        "children": [
+          {
+            "id": 204,
+            "label": "自定义面板",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "id": 206,
+            "label": "航线系统",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "id": 20203,
+            "label": "信号圈系统",
+            "type": 1
+          },
+          {
+            "id": 20267,
+            "label": "空投系统",
+            "type": 1
+          },
+          {
+            "id": 20279,
+            "label": "轰炸区系统",
+            "type": 1
+          },
+          {
+            "id": 20276,
+            "label": "电磁干扰区系统",
+            "type": 1
+          },
+          {
+            "label": "观战功能",
+            "type": 0,
+            "id": 35,
+            "children": [
+              {
+                "id": 208,
+                "label": "局内观战",
+                "type": 1,
+                "isDraft": false
+              },
+              {
+                "id": 209,
+                "label": "好友观战",
+                "type": 1,
+                "isDraft": false
+              },
+              {
+                "id": 210,
+                "label": "全局（房间）观战",
+                "type": 1,
+                "isDraft": false
+              },
+              {
+                "id": 211,
+                "label": "观战Debug",
+                "type": 1,
+                "isDraft": false
+              }
+            ]
+          },
+          {
+            "id": 212,
+            "label": "语音系统",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "id": 213,
+            "label": "好友系统",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "id": 214,
+            "label": "玩家头像",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "id": 216,
+            "label": "聊天系统",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "绿洲启元段位和赛季接入指南",
+            "id": 374
+          },
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "绿洲启元徽章接入指南",
+            "id": 375
+          },
+          {
+            "label": "旧版本功能",
+            "type": 0,
+            "id": 83,
+            "children": [
+              {
+                "type": 1,
+                "isDraft": false,
+                "label": "开启和平精英集成系统功能",
+                "id": 349
+              },
+              {
+                "type": 1,
+                "isDraft": false,
+                "label": "信号圈系统1.0",
+                "id": 338
+              },
+              {
+                "id": 207,
+                "label": "空投系统1.0",
+                "type": 1,
+                "isDraft": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "isDraft": false,
+        "label": "使用枚举类型",
+        "id": 339
+      },
+      {
+        "id": 20023,
+        "label": "自定义行为统计",
+        "type": 1
+      },
+      {
+        "id": 20052,
+        "label": "玩家数据存档",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "label": "通用功能",
+    "type": 0,
+    "id": 76,
+    "children": [
+      {
+        "id": 20090,
+        "label": "GamePart模块化",
+        "type": 1
+      },
+      {
+        "id": 20163,
+        "label": "通用消息系统",
+        "type": 1
+      },
+      {
+        "id": 20160,
+        "label": "通用伤害飘字",
+        "type": 1,
+        "draftId": 20233
+      },
+      {
+        "id": 20058,
+        "label": "通用掉落表",
+        "type": 1
+      },
+      {
+        "id": 20142,
+        "label": "通用掉落组件",
+        "type": 1
+      },
+      {
+        "id": 20165,
+        "label": "通用抛体",
+        "type": 1
+      },
+      {
+        "id": 20150,
+        "label": "通用运动组件",
+        "type": 1
+      },
+      {
+        "id": 20218,
+        "label": "通用过滤器",
+        "type": 1
+      },
+      {
+        "id": 20208,
+        "label": "表格管理器",
+        "type": 1
+      },
+      {
+        "id": 20298,
+        "label": "实体类型",
+        "type": 1
+      },
+      {
+        "id": 20293,
+        "label": "场景破坏物",
+        "type": 1,
+        "draftId": 20305
+      },
+      {
+        "id": 20351,
+        "label": "Tween功能",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "label": "商业化及功能模板",
+    "type": 0,
+    "id": 48,
+    "children": [
+      {
+        "id": 20008,
+        "label": "商业化系统",
+        "type": 1
+      },
+      {
+        "id": 20213,
+        "label": "玩法特权接入指南",
+        "type": 1
+      },
+      {
+        "id": 20139,
+        "label": "虚拟物品",
+        "type": 1
+      },
+      {
+        "id": 20026,
+        "label": "商城模板",
+        "type": 1
+      },
+      {
+        "id": 20027,
+        "label": "抽奖模板",
+        "type": 1
+      },
+      {
+        "id": 20049,
+        "label": "礼包模板",
+        "type": 1
+      },
+      {
+        "id": 20048,
+        "label": "排行榜模板",
+        "type": 1,
+        "draftId": 20340
+      },
+      {
+        "id": 20060,
+        "label": "签到模板",
+        "type": 1
+      },
+      {
+        "id": 20232,
+        "label": "结算模板",
+        "type": 1
+      },
+      {
+        "id": 20237,
+        "label": "任务模板",
+        "type": 1,
+        "draftId": 20379
+      },
+      {
+        "id": 20377,
+        "label": "UGC 商业化兑换系统",
+        "type": 1
+      },
+      {
+        "id": 20347,
+        "label": "补偿接入指引",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "label": "AI工具",
+    "type": 0,
+    "id": 78,
+    "children": [
+      {
+        "id": 20207,
+        "label": "视频生成3D动画",
+        "type": 1
+      },
+      {
+        "id": 20292,
+        "label": "AI资源检索",
+        "type": 1,
+        "draftId": 20322
+      },
+      {
+        "label": "AI生成图片",
+        "type": 0,
+        "id": 93,
+        "children": []
+      }
+    ]
+  },
+  {
+    "label": "玩法案例及模板",
+    "type": 0,
+    "id": 36,
+    "children": [
+      {
+        "label": "多人PVE模板",
+        "type": 0,
+        "id": 77,
+        "children": [
+          {
+            "id": 20190,
+            "label": "概览",
+            "type": 1
+          },
+          {
+            "id": 20197,
+            "label": "游戏大厅系统",
+            "type": 1
+          },
+          {
+            "id": 20198,
+            "label": "角色系统",
+            "type": 1
+          },
+          {
+            "id": 20191,
+            "label": "模式配置（单人PVE模式）",
+            "type": 1
+          },
+          {
+            "id": 20192,
+            "label": "模式配置（多人PVE模式）",
+            "type": 1
+          },
+          {
+            "id": 20193,
+            "label": "怪物刷新",
+            "type": 1
+          },
+          {
+            "id": 20194,
+            "label": "物品刷新",
+            "type": 1
+          },
+          {
+            "id": 20195,
+            "label": "战斗内商店",
+            "type": 1
+          },
+          {
+            "id": 20196,
+            "label": "关卡管理",
+            "type": 1
+          },
+          {
+            "label": "战斗内总述",
+            "type": 0,
+            "id": 91,
+            "children": []
+          },
+          {
+            "id": 20371,
+            "label": "天赋系统",
+            "type": 1
+          },
+          {
+            "id": 20372,
+            "label": "装备随机词条",
+            "type": 1
+          },
+          {
+            "id": 20375,
+            "label": "怪物配置",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "id": 20289,
+        "label": "俯视角模板",
+        "type": 1,
+        "draftId": 20321
+      },
+      {
+        "label": "团竞模板",
+        "type": 0,
+        "id": 47,
+        "children": [
+          {
+            "id": 20015,
+            "label": "经典团竞玩法",
+            "type": 1
+          },
+          {
+            "id": 20016,
+            "label": "军备团竞玩法",
+            "type": 1
+          },
+          {
+            "id": 20038,
+            "label": "占点团竞玩法",
+            "type": 1
+          },
+          {
+            "label": "团竞2.0玩法",
+            "type": 0,
+            "id": 89,
+            "children": [
+              {
+                "id": 20355,
+                "label": "目录总览",
+                "type": 1
+              },
+              {
+                "id": 20356,
+                "label": "工程概述",
+                "type": 1
+              },
+              {
+                "id": 20357,
+                "label": "事件系统与枚举定义详解",
+                "type": 1
+              },
+              {
+                "id": 20358,
+                "label": "游戏模式核心逻辑详解",
+                "type": 1,
+                "draftId": 20388
+              },
+              {
+                "id": 20359,
+                "label": "游戏状态与数据同步详解",
+                "type": 1
+              },
+              {
+                "id": 20360,
+                "label": "玩家控制器与交互详解",
+                "type": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 302,
+        "label": "经典海岛模板",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "label": "俯视角生存模版",
+        "type": 0,
+        "id": 92,
+        "children": []
+      }
+    ]
+  },
+  {
+    "label": "常用实战教学",
+    "type": 0,
+    "id": 37,
+    "children": [
+      {
+        "id": 234,
+        "label": "实现角色复活",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 236,
+        "label": "开启/禁用所有伤害",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 238,
+        "label": "自定义按钮使用时和滑屏，其他按钮冲突的解决方法",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 239,
+        "label": "如何显示左上角的队友状态栏",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 240,
+        "label": "3D坐标转换屏幕2D坐标",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 241,
+        "label": "在角色胶囊体外增加长方体碰撞",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 242,
+        "label": "如何开启关闭队友头顶UI（编号和距离）",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 243,
+        "label": "设置被淘汰后是否倒地还是直接淘汰",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "type": 1,
+        "isDraft": false,
+        "label": "小地图标记功能说明",
+        "id": 353
+      },
+      {
+        "id": 247,
+        "label": "远距离传送处理",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 248,
+        "label": "开启角色攀爬（翻墙）以及滑铲功能",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 249,
+        "label": "动态修改物体颜色",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 20370,
+        "label": "刀刃球同步算法",
+        "type": 1
+      },
+      {
+        "id": 20326,
+        "label": "出生/复活/死亡配置",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "type": 1,
+    "isDraft": false,
+    "label": "资源商店",
+    "id": 336
+  },
+  {
+    "label": "性能优化及异常处理",
+    "type": 0,
+    "id": 44,
+    "children": [
+      {
+        "id": 348,
+        "label": "性能优化总览",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "label": "场景优化",
+        "type": 0,
+        "id": 45,
+        "children": [
+          {
+            "id": 261,
+            "label": "使用笔刷创建植被",
+            "type": 1,
+            "isDraft": false
+          },
+          {
+            "type": 1,
+            "isDraft": false,
+            "label": "场景物件合批",
+            "id": 366
+          }
+        ]
+      },
+      {
+        "id": 263,
+        "label": "使用同模角色优化性能",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 264,
+        "label": "渲染剔除",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 265,
+        "label": "附件工程",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 266,
+        "label": "网络裁剪",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 267,
+        "label": "异步加载",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 268,
+        "label": "预加载",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 269,
+        "label": "流量优化",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 270,
+        "label": "弱网，断线重连处理",
+        "type": 1,
+        "isDraft": false
+      },
+      {
+        "id": 20297,
+        "label": "性能检测工具",
+        "type": 1,
+        "draftId": 20304
+      },
+      {
+        "id": 20309,
+        "label": "防外挂逻辑自检",
+        "type": 1
+      },
+      {
+        "id": 20348,
+        "label": "网络重连机制使用指南",
+        "type": 1
+      }
+    ]
+  },
+  {
+    "label": "开发者须知",
+    "type": 0,
+    "id": 46,
+    "children": [
+      {
+        "id": 271,
+        "label": "字体规范",
+        "type": 1,
+        "isDraft": false
+      }
+    ]
+  },
+  {
+    "id": 20002,
+    "label": "和平营地绿洲专区使用说明书",
+    "type": 1
+  },
+  {
+    "label": "常见问题",
+    "type": 0,
+    "id": 84,
+    "children": [
+      {
+        "id": 20310,
+        "label": "编辑器安装",
+        "type": 1
+      },
+      {
+        "id": 20311,
+        "label": "玩法流程",
+        "type": 1
+      },
+      {
+        "id": 20312,
+        "label": "GamePlay",
+        "type": 1
+      },
+      {
+        "id": 20317,
+        "label": "UI",
+        "type": 1
+      },
+      {
+        "id": 20316,
+        "label": "商业化",
+        "type": 1
+      },
+      {
+        "id": 20318,
+        "label": "脚本逻辑",
+        "type": 1
+      },
+      {
+        "id": 20314,
+        "label": "上传&调试",
+        "type": 1
+      },
+      {
+        "id": 20390,
+        "label": "上传失败排查指南",
+        "type": 1
+      },
+      {
+        "id": 20391,
+        "label": "PIE调试失败原因与解决方案",
+        "type": 1
+      }
+    ]
+  }
+]

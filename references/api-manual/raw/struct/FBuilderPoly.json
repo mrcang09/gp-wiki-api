@@ -1,0 +1,30 @@
+{
+  "Name": "FBuilderPoly",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "VertexIndices",
+      "Type": "TArray < int32 >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Direction",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ItemName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "PolyFlags",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "EScopeMeshAnimType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "ScopeMeshAnimType_Normal",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "ScopeMeshAnimType_Translate",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "ScopeMeshAnimType_Scope",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

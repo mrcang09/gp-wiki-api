@@ -1,0 +1,18 @@
+{
+  "Name": "FMeshShiftParam",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "bOverride_MeshShiftAnchorRefBone",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MeshShiftAnchorRefBone",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

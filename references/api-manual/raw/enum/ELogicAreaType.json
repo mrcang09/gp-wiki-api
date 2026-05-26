@@ -1,0 +1,16 @@
+{
+  "Name": "ELogicAreaType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "BreakableWall",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "BreakableHouse",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

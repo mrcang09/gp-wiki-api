@@ -1,0 +1,16 @@
+{
+  "Name": "EPersistEffectClientEvent",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "InputPress",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "InputRelease",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

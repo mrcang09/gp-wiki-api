@@ -1,0 +1,42 @@
+{
+  "Name": "FBakedStateExitTransition",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "CanTakeDelegateIndex",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CustomResultNodeIndex",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TransitionIndex",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bDesiredTransitionReturnValue",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bAutomaticRemainingTimeRule",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "PoseEvaluatorLinks",
+      "Type": "TArray < int32 >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

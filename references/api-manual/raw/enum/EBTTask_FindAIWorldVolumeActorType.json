@@ -1,0 +1,11 @@
+{
+  "Name": "EBTTask_FindAIWorldVolumeActorType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "EActivityBaseActor",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

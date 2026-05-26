@@ -1,0 +1,18 @@
+{
+  "Name": "FMovieSceneSectionEvalOptions",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "CompletionMode",
+      "Type": "EMovieSceneCompletionMode",
+      "Description": "When set to \"RestoreState\", this section will restore any animation back to its previous state",
+      "Redirect": ""
+    },
+    {
+      "Name": "bCanEditCompletionMode",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "EShovelEnabledFlags",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "None",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "HeroSkill",
+      "Value": "-1",
+      "Description": " "
+    }
+  ]
+}

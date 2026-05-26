@@ -1,0 +1,12 @@
+{
+  "Name": "FAtlasTexList",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Atlas",
+      "Type": "TArray < FAtlasTextures >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

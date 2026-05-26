@@ -1,0 +1,36 @@
+{
+  "Name": "EUGCProjectPackagingBuildConfigurations",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UGC_PPBC_DebugGame",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_PPBC_DebugGameClient",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_PPBC_Development",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_PPBC_DevelopmentClient",
+      "Value": "3",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_PPBC_Shipping",
+      "Value": "4",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_PPBC_ShippingClient",
+      "Value": "5",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "FAnimNode_LegIK",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ReachPrecision",
+      "Type": "float",
+      "Description": "Tolerance for reaching IK Target, in unreal units.",
+      "Redirect": ""
+    },
+    {
+      "Name": "MaxIterations",
+      "Type": "int32",
+      "Description": "Max Number of Iterations.",
+      "Redirect": ""
+    },
+    {
+      "Name": "LegsDefinition",
+      "Type": "TArray < FAnimLegIKDefinition >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LegsData",
+      "Type": "TArray < FAnimLegIKData >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

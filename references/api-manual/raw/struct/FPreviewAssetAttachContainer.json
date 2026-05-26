@@ -1,0 +1,12 @@
+{
+  "Name": "FPreviewAssetAttachContainer",
+  "Description": "Component which deals with attaching assets",
+  "Variables": [
+    {
+      "Name": "AttachedObjects",
+      "Type": "TArray < FPreviewAttachedObjectPair >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

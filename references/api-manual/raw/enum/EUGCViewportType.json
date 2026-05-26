@@ -1,0 +1,56 @@
+{
+  "Name": "EUGCViewportType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UGCVT_OrthoXY",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UGCVT_OrthoXZ",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "UGCVT_OrthoYZ",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "UGCVT_Perspective",
+      "Value": "3",
+      "Description": " "
+    },
+    {
+      "Name": "UGCVT_OrthoFreelook",
+      "Value": "4",
+      "Description": " "
+    },
+    {
+      "Name": "UGCVT_OrthoNegativeXY",
+      "Value": "5",
+      "Description": " "
+    },
+    {
+      "Name": "UGCVT_OrthoNegativeXZ",
+      "Value": "6",
+      "Description": " "
+    },
+    {
+      "Name": "UGCVT_OrthoNegativeYZ",
+      "Value": "7",
+      "Description": " "
+    },
+    {
+      "Name": "UGCVT_MAX",
+      "Value": "8",
+      "Description": " "
+    },
+    {
+      "Name": "UGCVT_None",
+      "Value": "255",
+      "Description": " "
+    }
+  ]
+}

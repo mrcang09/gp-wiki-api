@@ -1,0 +1,16 @@
+{
+  "Name": "ESimplygonLODType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Reduction",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Remeshing",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "FAnimParentNodeAssetOverride",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "NewAsset",
+      "Type": "UAnimationAsset *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ParentNodeGuid",
+      "Type": "FGuid",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

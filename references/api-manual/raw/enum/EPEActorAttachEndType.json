@@ -1,0 +1,16 @@
+{
+  "Name": "EPEActorAttachEndType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "EPEActorAttachEndType_Client",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "EPEActorAttachEndType_Server",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

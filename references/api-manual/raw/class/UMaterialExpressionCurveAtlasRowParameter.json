@@ -1,0 +1,31 @@
+{
+  "Name": "UMaterialExpressionCurveAtlasRowParameter",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Curve",
+      "Type": "UCurveLinearColor *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Atlas",
+      "Type": "UCurveLinearColorAtlas *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "InputTime",
+      "Type": "FExpressionInput",
+      "Description": "",
+      "Redirect": ""
+    }
+  ],
+  "Functions": null,
+  "Parents": [
+    "UMaterialExpressionScalarParameter"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

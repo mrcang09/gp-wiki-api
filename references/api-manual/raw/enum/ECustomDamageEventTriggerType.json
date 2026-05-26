@@ -1,0 +1,16 @@
+{
+  "Name": "ECustomDamageEventTriggerType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "OnPassedDamageThreshold",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "OnAnyDamage",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

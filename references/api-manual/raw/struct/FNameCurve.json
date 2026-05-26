@@ -1,0 +1,12 @@
+{
+  "Name": "FNameCurve",
+  "Description": "Implements a curve of FNames.",
+  "Variables": [
+    {
+      "Name": "Keys",
+      "Type": "TArray < FNameCurveKey >",
+      "Description": "Sorted array of keys",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Name": "FCompilerNativizationOptions",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "PlatformName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ServerOnlyPlatform",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ClientOnlyPlatform",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ExcludedModules",
+      "Type": "TArray < FName >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ExcludedAssets",
+      "Type": "TSet < FSoftObjectPath >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ExcludedFolderPaths",
+      "Type": "TArray < FString >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

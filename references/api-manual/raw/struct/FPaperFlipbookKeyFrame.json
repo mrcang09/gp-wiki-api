@@ -1,0 +1,18 @@
+{
+  "Name": "FPaperFlipbookKeyFrame",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Sprite",
+      "Type": "UPaperSprite *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FrameRun",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

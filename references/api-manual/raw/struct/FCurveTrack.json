@@ -1,0 +1,18 @@
+{
+  "Name": "FCurveTrack",
+  "Description": "Key frame curve data for one track\n  CurveName: Morph Target Name\n  CurveWeights: List of weights for each frame",
+  "Variables": [
+    {
+      "Name": "CurveName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CurveWeights",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

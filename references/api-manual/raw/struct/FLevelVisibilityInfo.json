@@ -1,0 +1,18 @@
+{
+  "Name": "FLevelVisibilityInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Visible",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "PackageName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

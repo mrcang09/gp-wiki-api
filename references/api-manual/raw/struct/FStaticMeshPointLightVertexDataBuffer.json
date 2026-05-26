@@ -1,0 +1,12 @@
+{
+  "Name": "FStaticMeshPointLightVertexDataBuffer",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "VertexData",
+      "Type": "TArray < uint8 >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

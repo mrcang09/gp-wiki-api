@@ -1,0 +1,36 @@
+{
+  "Name": "FCollectionStructParameter",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "MatchRules",
+      "Type": "FString",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ScalarParameters",
+      "Type": "TArray < FCollectionScalarParameter >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "VectorParameters",
+      "Type": "TArray < FCollectionVectorParameter >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BoolParameters",
+      "Type": "TArray < FCollectionBoolParameter >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "IntParameters",
+      "Type": "TArray < FCollectionIntParameter >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

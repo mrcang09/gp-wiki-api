@@ -1,0 +1,12 @@
+{
+  "Name": "FAnimNode_TransitionResult",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "bCanEnterTransition",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

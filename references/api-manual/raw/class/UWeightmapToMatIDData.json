@@ -1,0 +1,58 @@
+{
+  "Name": "UWeightmapToMatIDData",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ConfigDatas",
+      "Type": "TMap < FName , FWeightmapToMatIDConfig >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MatIDBiomesInfo",
+      "Type": "ULandscapeBiomesInfoObject *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MatIDMaterial",
+      "Type": "UMaterialInterface *",
+      "Description": "",
+      "Redirect": ""
+    }
+  ],
+  "Functions": [
+    {
+      "Name": "CreateNewBiomesInfo",
+      "Description": "",
+      "Params": null,
+      "Return": [
+        {
+          "Name": "",
+          "Type": "void",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "ApplyConfigDataToBiomesInfo",
+      "Description": "",
+      "Params": null,
+      "Return": [
+        {
+          "Name": "",
+          "Type": "void",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    }
+  ],
+  "Parents": [
+    "UDataAsset"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

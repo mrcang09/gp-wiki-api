@@ -1,0 +1,21 @@
+{
+  "Name": "ETerrainDrawMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Normal",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Instanced",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "GPUInstanced",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

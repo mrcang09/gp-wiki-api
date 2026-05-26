@@ -1,0 +1,12 @@
+{
+  "Name": "FMainUILayoutData",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "WidgetVisibility",
+      "Type": "ESlateVisibility",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

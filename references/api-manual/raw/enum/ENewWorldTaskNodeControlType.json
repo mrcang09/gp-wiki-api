@@ -1,0 +1,16 @@
+{
+  "Name": "ENewWorldTaskNodeControlType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "CTL_None",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "CTL_TraceButton",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

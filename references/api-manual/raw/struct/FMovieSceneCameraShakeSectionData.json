@@ -1,0 +1,30 @@
+{
+  "Name": "FMovieSceneCameraShakeSectionData",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ShakeClass",
+      "Type": "TSubclassOf < UCameraShake >",
+      "Description": "Class of the camera shake to play",
+      "Redirect": ""
+    },
+    {
+      "Name": "PlayScale",
+      "Type": "float",
+      "Description": "Scalar that affects shake intensity",
+      "Redirect": ""
+    },
+    {
+      "Name": "PlaySpace",
+      "Type": "TEnumAsByte < ECameraAnimPlaySpace :: Type >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "UserDefinedPlaySpace",
+      "Type": "FRotator",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

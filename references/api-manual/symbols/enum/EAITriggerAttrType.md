@@ -1,0 +1,17 @@
+# EAITriggerAttrType
+
+- Symbol Type: enum
+- Symbol Path: EAITriggerAttrType
+- Source JSON Path: cppenum/detail/EAITriggerAttrType.json
+- Source JSON URL: https://developer.gp.qq.com/api/cppenum/detail/EAITriggerAttrType.json
+- Mirrored At (UTC): 2026-05-19 08:23:44Z
+
+---
+
+## Variables
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | 0 |   |
+| Health | 1 |   |
+| Energy | 2 |   |

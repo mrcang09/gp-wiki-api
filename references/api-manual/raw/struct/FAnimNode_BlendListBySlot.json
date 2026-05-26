@@ -1,0 +1,24 @@
+{
+  "Name": "FAnimNode_BlendListBySlot",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ActiveSlotName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseList",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ActiveSlotNameList",
+      "Type": "TArray < FName >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

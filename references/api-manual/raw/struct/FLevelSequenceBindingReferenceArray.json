@@ -1,0 +1,12 @@
+{
+  "Name": "FLevelSequenceBindingReferenceArray",
+  "Description": "An array of binding references",
+  "Variables": [
+    {
+      "Name": "References",
+      "Type": "TArray < FLevelSequenceBindingReference >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

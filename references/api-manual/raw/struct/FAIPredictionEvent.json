@@ -1,0 +1,18 @@
+{
+  "Name": "FAIPredictionEvent",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Requestor",
+      "Type": "AActor *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "PredictedActor",
+      "Type": "AActor *",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

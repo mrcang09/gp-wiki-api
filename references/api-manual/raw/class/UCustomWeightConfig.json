@@ -1,0 +1,19 @@
+{
+  "Name": "UCustomWeightConfig",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "CustomWeightAllocations",
+      "Type": "TArray < FLandscapeCustomWeightAllocation >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ],
+  "Functions": null,
+  "Parents": [
+    "UDataAsset"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

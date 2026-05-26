@@ -1,0 +1,16 @@
+{
+  "Name": "ESwordSniperShootMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "ESwordSniperShootMode_Normal",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "ESwordSniperShootMode_Super",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

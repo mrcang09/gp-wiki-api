@@ -1,0 +1,18 @@
+{
+  "Name": "FFloatRange",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "LowerBound",
+      "Type": "FFloatRangeBound",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "UpperBound",
+      "Type": "FFloatRangeBound",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

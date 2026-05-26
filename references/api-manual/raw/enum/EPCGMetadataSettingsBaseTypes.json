@@ -1,0 +1,16 @@
+{
+  "Name": "EPCGMetadataSettingsBaseTypes",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "AutoUpcastTypes",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "StrictTypes",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

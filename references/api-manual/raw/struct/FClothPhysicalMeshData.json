@@ -1,0 +1,72 @@
+{
+  "Name": "FClothPhysicalMeshData",
+  "Description": "Physical mesh data created during asset import or created from a skeletal mesh",
+  "Variables": [
+    {
+      "Name": "Vertices",
+      "Type": "TArray < FVector >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Normals",
+      "Type": "TArray < FVector >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Indices",
+      "Type": "TArray < uint32 >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MaxDistances",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BackstopDistances",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BackstopRadiuses",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "InverseMasses",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BoneData",
+      "Type": "TArray < FClothVertBoneData >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MaxBoneWeights",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "NumFixedVerts",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "SelfCollisionIndices",
+      "Type": "TArray < uint32 >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

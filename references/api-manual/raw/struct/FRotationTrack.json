@@ -1,0 +1,18 @@
+{
+  "Name": "FRotationTrack",
+  "Description": "Keyframe rotation data for one track.  Rot(i) occurs at Time(i).  Rot.Num() always equals Time.Num().",
+  "Variables": [
+    {
+      "Name": "RotKeys",
+      "Type": "TArray < FQuat >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Times",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

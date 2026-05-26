@@ -1,0 +1,42 @@
+{
+  "Name": "FSpriteGeometryShape",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ShapeType",
+      "Type": "ESpriteShapeType",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Vertices",
+      "Type": "TArray < FVector2D >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BoxSize",
+      "Type": "FVector2D",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BoxPosition",
+      "Type": "FVector2D",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Rotation",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bNegativeWinding",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

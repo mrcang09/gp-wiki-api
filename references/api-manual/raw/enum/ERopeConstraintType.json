@@ -1,0 +1,16 @@
+{
+  "Name": "ERopeConstraintType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "D6Joint",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "DistanceJoint",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

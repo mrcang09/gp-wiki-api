@@ -1,0 +1,36 @@
+{
+  "Name": "FAnimNode_ModifyCurve",
+  "Description": "Easy way to modify curve values on a pose",
+  "Variables": [
+    {
+      "Name": "SourcePose",
+      "Type": "FPoseLink",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ApplyMode",
+      "Type": "EModifyCurveApplyMode",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CurveValues",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CurveNames",
+      "Type": "TArray < FName >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Alpha",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

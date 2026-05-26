@@ -1,0 +1,16 @@
+{
+  "Name": "EUGCMobileNonUniformMotionExerciseType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Linear",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Rotation",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

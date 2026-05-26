@@ -1,0 +1,12 @@
+{
+  "Name": "FCustomizedToolMenuNameArray",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Names",
+      "Type": "TArray < FName >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

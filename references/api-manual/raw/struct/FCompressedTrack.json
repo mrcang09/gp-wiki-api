@@ -1,0 +1,30 @@
+{
+  "Name": "FCompressedTrack",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ByteStream",
+      "Type": "TArray < uint8 >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Times",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Mins",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Ranges",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

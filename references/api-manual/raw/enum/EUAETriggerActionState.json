@@ -1,0 +1,16 @@
+{
+  "Name": "EUAETriggerActionState",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Running",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Deactive",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

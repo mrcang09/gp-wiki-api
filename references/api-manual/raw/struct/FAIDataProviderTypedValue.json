@@ -1,0 +1,12 @@
+{
+  "Name": "FAIDataProviderTypedValue",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "PropertyType",
+      "Type": "TSubclassOf < UProperty >",
+      "Description": "type of value",
+      "Redirect": ""
+    }
+  ]
+}

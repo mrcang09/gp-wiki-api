@@ -1,0 +1,24 @@
+{
+  "Name": "FStatColorMapping",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "StatName",
+      "Type": "FString",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ColorMap",
+      "Type": "TArray < FStatColorMapEntry >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DisableBlend",
+      "Type": "uint32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

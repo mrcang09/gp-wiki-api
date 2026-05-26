@@ -1,0 +1,18 @@
+{
+  "Name": "FMaterialIdLayerAllocInfo",
+  "Description": "Store all layers allocation of all biomes of this landscape",
+  "Variables": [
+    {
+      "Name": "MaterialId",
+      "Type": "int32",
+      "Description": "MaterialId of this layerInfo",
+      "Redirect": ""
+    },
+    {
+      "Name": "BiomesInfoOwner",
+      "Type": "ULandscapeBiomesInfoObject *",
+      "Description": "Owner of this layer info object",
+      "Redirect": ""
+    }
+  ]
+}

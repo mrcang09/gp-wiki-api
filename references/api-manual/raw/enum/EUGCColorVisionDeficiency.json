@@ -1,0 +1,46 @@
+{
+  "Name": "EUGCColorVisionDeficiency",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UGC_CVD_NormalVision",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_CVD_Deuteranomly",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_CVD_Deuteranopia",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_CVD_Protanomly",
+      "Value": "3",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_CVD_Protanopia",
+      "Value": "4",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_CVD_Tritanomaly",
+      "Value": "5",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_CVD_Tritanopia",
+      "Value": "6",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_CVD_Achromatopsia",
+      "Value": "7",
+      "Description": " "
+    }
+  ]
+}

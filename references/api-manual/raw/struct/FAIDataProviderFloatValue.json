@@ -1,0 +1,12 @@
+{
+  "Name": "FAIDataProviderFloatValue",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "DefaultValue",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

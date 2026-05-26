@@ -1,0 +1,12 @@
+{
+  "Name": "FMovieSceneTrackIdentifier",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Value",
+      "Type": "uint32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

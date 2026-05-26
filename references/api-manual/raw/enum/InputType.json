@@ -1,0 +1,21 @@
+{
+  "Name": "InputType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Add",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Override",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "SetWhenEmpty",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

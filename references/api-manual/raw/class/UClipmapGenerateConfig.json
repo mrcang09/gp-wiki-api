@@ -1,0 +1,88 @@
+{
+  "Name": "UClipmapGenerateConfig",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "TargetTexture",
+      "Type": "UTexture2D *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TargetClipmapTexture",
+      "Type": "UClipmapTexture *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ClipmapWetnessConfig",
+      "Type": "FClipmapWetness",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FoliageHealthAndAbsorptionConfig",
+      "Type": "FClipmapFoliageHealthAndAbsorption",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LandscapeTintConfig",
+      "Type": "FClipmapLandscapeTint",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BurshTintNum",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "WeightBitsNum",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "WeightMax",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ],
+  "Functions": [
+    {
+      "Name": "GenerateGChannel",
+      "Description": "",
+      "Params": null,
+      "Return": [
+        {
+          "Name": "",
+          "Type": "void",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "GenerateBAChannel",
+      "Description": "",
+      "Params": null,
+      "Return": [
+        {
+          "Name": "",
+          "Type": "void",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    }
+  ],
+  "Parents": [
+    "UDataAsset"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

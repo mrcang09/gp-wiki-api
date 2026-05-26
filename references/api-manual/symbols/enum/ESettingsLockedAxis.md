@@ -1,0 +1,19 @@
+# ESettingsLockedAxis
+
+- Symbol Type: enum
+- Symbol Path: ESettingsLockedAxis
+- Source JSON Path: cppenum/detail/ESettingsLockedAxis.json
+- Source JSON URL: https://developer.gp.qq.com/api/cppenum/detail/ESettingsLockedAxis.json
+- Mirrored At (UTC): 2026-05-19 08:24:18Z
+
+---
+
+## Variables
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | 0 |   |
+| X | 1 |   |
+| Y | 2 |   |
+| Z | 3 |   |
+| Invalid | 4 |   |

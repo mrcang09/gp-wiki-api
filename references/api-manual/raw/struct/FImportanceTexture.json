@@ -1,0 +1,48 @@
+{
+  "Name": "FImportanceTexture",
+  "Description": "Texture processed for importance sampling\n Holds marginal PDF of the rows, as well as the PDF of each row",
+  "Variables": [
+    {
+      "Name": "Size",
+      "Type": "FIntPoint",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "NumMips",
+      "Type": "int",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MarginalCDF",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ConditionalCDF",
+      "Type": "TArray < float >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TextureData",
+      "Type": "TArray < FColor >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Texture",
+      "Type": "TWeakObjectPtr < UTexture2D >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Weighting",
+      "Type": "TEnumAsByte < EImportanceWeight :: Type >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

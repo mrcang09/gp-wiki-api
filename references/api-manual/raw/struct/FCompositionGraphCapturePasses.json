@@ -1,0 +1,12 @@
+{
+  "Name": "FCompositionGraphCapturePasses",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Value",
+      "Type": "TArray < FString >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

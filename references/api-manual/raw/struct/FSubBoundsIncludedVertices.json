@@ -1,0 +1,12 @@
+{
+  "Name": "FSubBoundsIncludedVertices",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "VertexIndexes",
+      "Type": "TArray < uint32 >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

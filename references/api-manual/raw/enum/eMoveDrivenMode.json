@@ -1,0 +1,16 @@
+{
+  "Name": "eMoveDrivenMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Velocity",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Acceleration",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

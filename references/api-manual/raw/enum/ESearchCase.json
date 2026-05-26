@@ -1,0 +1,16 @@
+{
+  "Name": "ESearchCase",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "CaseSensitive",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "IgnoreCase",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

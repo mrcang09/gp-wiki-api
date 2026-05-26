@@ -1,0 +1,18 @@
+{
+  "Name": "FUGCLevelTaskLineConfig",
+  "Description": "成长任务线配置结构体",
+  "Variables": [
+    {
+      "Name": "Level",
+      "Type": "int32",
+      "Description": "等级",
+      "Redirect": ""
+    },
+    {
+      "Name": "TaskIDList",
+      "Type": "TArray < int32 >",
+      "Description": "任务ID列表",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "FMovieSceneSequenceHierarchy",
+  "Description": "Structure that stores hierarchical information pertaining to all sequences contained within a master sequence",
+  "Variables": [
+    {
+      "Name": "SubSequences",
+      "Type": "TMap < uint32 , FMovieSceneSubSequenceData >",
+      "Description": "Map of all (recursive) sub sequences found in this template, keyed on sequence ID",
+      "Redirect": ""
+    },
+    {
+      "Name": "Hierarchy",
+      "Type": "TMap < uint32 , FMovieSceneSequenceHierarchyNode >",
+      "Description": "Structural information describing the structure of the sequence",
+      "Redirect": ""
+    }
+  ]
+}

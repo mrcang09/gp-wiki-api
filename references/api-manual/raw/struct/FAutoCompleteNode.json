@@ -1,0 +1,18 @@
+{
+  "Name": "FAutoCompleteNode",
+  "Description": "Node for storing an auto-complete tree based on each char in the command.",
+  "Variables": [
+    {
+      "Name": "IndexChar",
+      "Type": "int32",
+      "Description": "Char for node in the tree",
+      "Redirect": ""
+    },
+    {
+      "Name": "AutoCompleteListIndices",
+      "Type": "TArray < int32 >",
+      "Description": "Indices into AutoCompleteList for commands that match to this level",
+      "Redirect": ""
+    }
+  ]
+}

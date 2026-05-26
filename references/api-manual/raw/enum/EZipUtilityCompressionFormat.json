@@ -1,0 +1,61 @@
+{
+  "Name": "EZipUtilityCompressionFormat",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "COMPRESSION_FORMAT_UNKNOWN",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "COMPRESSION_FORMAT_SEVEN_ZIP",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "COMPRESSION_FORMAT_ZIP",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "COMPRESSION_FORMAT_GZIP",
+      "Value": "3",
+      "Description": " "
+    },
+    {
+      "Name": "COMPRESSION_FORMAT_BZIP2",
+      "Value": "4",
+      "Description": " "
+    },
+    {
+      "Name": "COMPRESSION_FORMAT_RAR",
+      "Value": "5",
+      "Description": " "
+    },
+    {
+      "Name": "COMPRESSION_FORMAT_TAR",
+      "Value": "6",
+      "Description": " "
+    },
+    {
+      "Name": "COMPRESSION_FORMAT_ISO",
+      "Value": "7",
+      "Description": " "
+    },
+    {
+      "Name": "COMPRESSION_FORMAT_CAB",
+      "Value": "8",
+      "Description": " "
+    },
+    {
+      "Name": "COMPRESSION_FORMAT_LZMA",
+      "Value": "9",
+      "Description": " "
+    },
+    {
+      "Name": "COMPRESSION_FORMAT_LZMA86",
+      "Value": "10",
+      "Description": " "
+    }
+  ]
+}

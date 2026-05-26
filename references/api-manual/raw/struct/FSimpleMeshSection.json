@@ -1,0 +1,30 @@
+{
+  "Name": "FSimpleMeshSection",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "VertexBuffer",
+      "Type": "TArray < FSimpleMeshVertex >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "IndexBuffer",
+      "Type": "TArray < int32 >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BoundingBox",
+      "Type": "FBox",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Visible",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

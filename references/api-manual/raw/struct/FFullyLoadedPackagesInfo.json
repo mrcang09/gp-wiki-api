@@ -1,0 +1,30 @@
+{
+  "Name": "FFullyLoadedPackagesInfo",
+  "Description": "Struct to help hold information about packages needing to be fully-loaded for DLC, etc.",
+  "Variables": [
+    {
+      "Name": "FullyLoadType",
+      "Type": "TEnumAsByte < enum EFullyLoadPackageType >",
+      "Description": "When to load these packages",
+      "Redirect": ""
+    },
+    {
+      "Name": "Tag",
+      "Type": "FString",
+      "Description": "When this map or gametype is loaded, the packages in the following array will be loaded and added to root, then removed from root when map is unloaded",
+      "Redirect": ""
+    },
+    {
+      "Name": "PackagesToLoad",
+      "Type": "TArray < FName >",
+      "Description": "The list of packages that will be fully loaded when the above Map is loaded",
+      "Redirect": ""
+    },
+    {
+      "Name": "LoadedObjects",
+      "Type": "TArray < UObject * >",
+      "Description": "List of objects that were loaded, for faster cleanup",
+      "Redirect": ""
+    }
+  ]
+}

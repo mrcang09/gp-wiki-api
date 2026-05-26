@@ -1,0 +1,30 @@
+{
+  "Name": "FBTCompositeChild",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ChildComposite",
+      "Type": "UBTCompositeNode *",
+      "Description": "child node",
+      "Redirect": ""
+    },
+    {
+      "Name": "ChildTask",
+      "Type": "UBTTaskNode *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Decorators",
+      "Type": "TArray < UBTDecorator * >",
+      "Description": "execution decorators",
+      "Redirect": ""
+    },
+    {
+      "Name": "DecoratorOps",
+      "Type": "TArray < FBTDecoratorLogic >",
+      "Description": "logic operations for decorators",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "FMultiSubInstanceData",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "InstanceClass_Multi",
+      "Type": "TSubclassOf < UAnimInstance >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "InstanceToRun_Multi",
+      "Type": "UAnimInstance *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "RunPriority",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

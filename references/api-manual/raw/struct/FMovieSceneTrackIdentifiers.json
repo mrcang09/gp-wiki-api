@@ -1,0 +1,12 @@
+{
+  "Name": "FMovieSceneTrackIdentifiers",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Data",
+      "Type": "TArray < FMovieSceneTrackIdentifier >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

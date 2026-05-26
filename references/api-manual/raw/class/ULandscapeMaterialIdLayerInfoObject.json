@@ -1,0 +1,85 @@
+{
+  "Name": "ULandscapeMaterialIdLayerInfoObject",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "BiomesOwner",
+      "Type": "ULandscapeBiomesInfoObject *",
+      "Description": "Owner Biomes of this LayerInfoObject. Do not modify this Owner unless necessary.",
+      "Redirect": ""
+    },
+    {
+      "Name": "DisplayName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LayerIndex",
+      "Type": "int32",
+      "Description": "Layer index of this layer info object, can be re-ordered.",
+      "Redirect": ""
+    },
+    {
+      "Name": "DiffuseTexture",
+      "Type": "UTexture2D *",
+      "Description": "Diffuse Texture",
+      "Redirect": ""
+    },
+    {
+      "Name": "NormalmapTexture",
+      "Type": "UTexture2D *",
+      "Description": "Normalmap Texture",
+      "Redirect": ""
+    },
+    {
+      "Name": "TextureRotation",
+      "Type": "float",
+      "Description": "Rotation (in degree) applied when sampling diffusenormal texture",
+      "Redirect": ""
+    },
+    {
+      "Name": "TextureTiling",
+      "Type": "FVector2D",
+      "Description": "Scaling applied when sampling diffusenormal texture",
+      "Redirect": ""
+    },
+    {
+      "Name": "HeightBlendThresholdSoftness",
+      "Type": "float",
+      "Description": "ThresholdSoftness adjusts how sharp the edges of the height blend will be. The greater the value is, the softer the edge would be.",
+      "Redirect": ""
+    },
+    {
+      "Name": "HeightContrast",
+      "Type": "float",
+      "Description": "HeightContrast adjust sampled height value's contrast.",
+      "Redirect": ""
+    },
+    {
+      "Name": "DeltaForceHeightBlendSharpness",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DisplacementLocalBias",
+      "Type": "float",
+      "Description": "Convert displacement from texture space to world space, unit is meter.",
+      "Redirect": ""
+    },
+    {
+      "Name": "DisplacementIntensity",
+      "Type": "float",
+      "Description": "Scalar applied to displacement, applied after LocalBias is applied.",
+      "Redirect": ""
+    }
+  ],
+  "Functions": null,
+  "Parents": [
+    "ULandscapeLayerInfoObject"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "ERuntimeVirtualTextureMainPassType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Never",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Exclusive",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Always",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "UGCSkillEditorPawnType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "SequencePawn",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "MonsterPawn",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "MagicField",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "EDetachmentRule",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "KeepRelative",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "KeepWorld",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

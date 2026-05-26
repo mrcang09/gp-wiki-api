@@ -1,0 +1,54 @@
+{
+  "Name": "FClipmapLandscapeTint",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "TintConfig",
+      "Type": "FClipmapGenOneOriChannel",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "IntensityConfig",
+      "Type": "FClipmapGenOneOriChannel",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DepthCurve",
+      "Type": "UCurveLinearColor *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bHasBrushTint",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TintLayerName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MaxWaterNum",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LandscapeTintLUT",
+      "Type": "UTexture2D *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CustomNodeCode",
+      "Type": "FString",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

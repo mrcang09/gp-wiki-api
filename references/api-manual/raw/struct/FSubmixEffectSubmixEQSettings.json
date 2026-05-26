@@ -1,0 +1,12 @@
+{
+  "Name": "FSubmixEffectSubmixEQSettings",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "EQBands",
+      "Type": "TArray < FSubmixEffectEQBand >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

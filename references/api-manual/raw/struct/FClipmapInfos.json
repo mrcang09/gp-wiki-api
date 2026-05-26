@@ -1,0 +1,12 @@
+{
+  "Name": "FClipmapInfos",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Infos",
+      "Type": "TArray < FClipmapInfo >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "FWSDynamicPropContext",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "DynamicElements",
+      "Type": "TArray < FSkinDynamicElemKey >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DynamicProperties",
+      "Type": "TMap < int32 , FWSPropContext >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "FLensBloomSettings",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "GaussianSum",
+      "Type": "FGaussianSumBloomSettings",
+      "Description": "Bloom gaussian sum method specific settings.",
+      "Redirect": ""
+    },
+    {
+      "Name": "Convolution",
+      "Type": "FConvolutionBloomSettings",
+      "Description": "Bloom convolution method specific settings.",
+      "Redirect": ""
+    },
+    {
+      "Name": "Method",
+      "Type": "TEnumAsByte < enum EBloomMethod >",
+      "Description": "Bloom algorithm",
+      "Redirect": ""
+    }
+  ]
+}

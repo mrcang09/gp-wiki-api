@@ -1,0 +1,16 @@
+{
+  "Name": "EShadowMapFlags",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "SMF_None",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "SMF_Streamed",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

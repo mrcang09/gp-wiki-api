@@ -1,0 +1,21 @@
+{
+  "Name": "EUGCLoadLevelAtStartup",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "None",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "ProjectDefault",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "LastOpened",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

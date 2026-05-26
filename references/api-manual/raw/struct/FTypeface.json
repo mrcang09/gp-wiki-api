@@ -1,0 +1,12 @@
+{
+  "Name": "FTypeface",
+  "Description": "Definition for a typeface (a family of fonts)",
+  "Variables": [
+    {
+      "Name": "Fonts",
+      "Type": "TArray < FTypefaceEntry >",
+      "Description": "The fonts contained within this family",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "ERoadType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "QuadLane",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "DuaLane",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

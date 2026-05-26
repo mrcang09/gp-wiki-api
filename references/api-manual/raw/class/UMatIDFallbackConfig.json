@@ -1,0 +1,19 @@
+{
+  "Name": "UMatIDFallbackConfig",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "IDToFallbackLayers",
+      "Type": "TMap < FString , FMatIDFallbackArray >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ],
+  "Functions": null,
+  "Parents": [
+    "UDataAsset"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

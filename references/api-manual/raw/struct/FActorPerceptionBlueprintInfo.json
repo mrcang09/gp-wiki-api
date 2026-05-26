@@ -1,0 +1,24 @@
+{
+  "Name": "FActorPerceptionBlueprintInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Target",
+      "Type": "AActor *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LastSensedStimuli",
+      "Type": "TArray < FAIStimulus >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bIsHostile",
+      "Type": "uint32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "FNameMapping",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "NodeName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BoneName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

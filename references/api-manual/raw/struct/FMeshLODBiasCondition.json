@@ -1,0 +1,12 @@
+{
+  "Name": "FMeshLODBiasCondition",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "MeshLODBiasConfig",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

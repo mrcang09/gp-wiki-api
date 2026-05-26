@@ -1,0 +1,21 @@
+{
+  "Name": "EUGCLandscapeImportResult",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UGCSuccess",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UGCWarning",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "UGCError",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "EWidgetTimingPolicy",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "RealTime",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "GameTime",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

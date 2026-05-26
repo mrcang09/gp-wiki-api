@@ -1,0 +1,21 @@
+{
+  "Name": "EWrapperScreenAlignment",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Square",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Rectangle",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Velocity",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

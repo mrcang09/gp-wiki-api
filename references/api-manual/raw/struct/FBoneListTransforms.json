@@ -1,0 +1,18 @@
+{
+  "Name": "FBoneListTransforms",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "BoneNames",
+      "Type": "TArray < FName >",
+      "Description": "Array of names",
+      "Redirect": ""
+    },
+    {
+      "Name": "Transforms",
+      "Type": "TArray < FTransform >",
+      "Description": "Array of transforms",
+      "Redirect": ""
+    }
+  ]
+}

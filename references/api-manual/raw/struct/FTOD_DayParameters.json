@@ -1,0 +1,12 @@
+{
+  "Name": "FTOD_DayParameters",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "SunLightColor",
+      "Type": "FLinearColor",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

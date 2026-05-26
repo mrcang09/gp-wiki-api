@@ -1,0 +1,21 @@
+{
+  "Name": "EUGCLandscapeFoliageEditorControlType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UGCIgnoreCtrl",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UGCRequireCtrl",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "UGCRequireNoCtrl",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

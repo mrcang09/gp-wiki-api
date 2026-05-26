@@ -1,0 +1,16 @@
+{
+  "Name": "EUGCFoliageMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Add",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Erase",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

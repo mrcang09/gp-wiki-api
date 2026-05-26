@@ -1,0 +1,240 @@
+{
+  "Name": "ALandscape",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "MaterialIdUserSettings",
+      "Type": "FMaterialIdUserSettings",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "UseFarLandNormalDistance",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BlendFarLandNormalDistance",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FarLandVertexColorThreshold",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FarLandVertexColorBlendThreshold",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseLandscapeDeform",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bCanUseMaterialIdShading",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CurrentBiomesIndex",
+      "Type": "int32",
+      "Description": "Current selected biomes info",
+      "Redirect": ""
+    },
+    {
+      "Name": "bTextureArrayDirty",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "PaintingCustomWeightLayerIndex",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MatIdLayerVisibility",
+      "Type": "TArray < bool >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FarLandDiffuseTexture",
+      "Type": "UTexture2D *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FarLandNormalTexture",
+      "Type": "UTexture2D *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FarLandInfoDebug",
+      "Type": "TMap < ULandscapeComponent * , FFarLandInfo >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ExportSplatmapTexture",
+      "Type": "UTexture2D *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Platform",
+      "Type": "EMyLandscapePlatfromConfiguration",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "PCConfig",
+      "Type": "FMyLandscapeConfigurationParams",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MobileConfig",
+      "Type": "FMyLandscapeConfigurationParams",
+      "Description": "",
+      "Redirect": ""
+    }
+  ],
+  "Functions": [
+    {
+      "Name": "EnumerateLandscapePaintMatIDLayers",
+      "Description": "",
+      "Params": [
+        {
+          "Name": "Landscape",
+          "Type": "ALandscapeProxy *",
+          "Description": "",
+          "Redirect": ""
+        }
+      ],
+      "Return": [
+        {
+          "Name": "",
+          "Type": "LANDSCAPE_API TArray < FName > ",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "IsMaterialIDLandscape",
+      "Description": "",
+      "Params": [
+        {
+          "Name": "Landscape",
+          "Type": "ALandscapeProxy *",
+          "Description": "",
+          "Redirect": ""
+        }
+      ],
+      "Return": [
+        {
+          "Name": "",
+          "Type": "LANDSCAPE_API bool ",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "SetLandscapeCorner",
+      "Description": "",
+      "Params": null,
+      "Return": [
+        {
+          "Name": "",
+          "Type": "LANDSCAPE_API void",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "SplitFarLandTextureForComponent",
+      "Description": "",
+      "Params": null,
+      "Return": [
+        {
+          "Name": "",
+          "Type": "void",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "GetFarLandTextureInfo",
+      "Description": "",
+      "Params": null,
+      "Return": [
+        {
+          "Name": "",
+          "Type": "void",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "GenerateSplatmapMip",
+      "Description": "",
+      "Params": null,
+      "Return": [
+        {
+          "Name": "",
+          "Type": "LANDSCAPE_API void",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "ExportWeightAsSplatmapMipEditor",
+      "Description": "",
+      "Params": null,
+      "Return": [
+        {
+          "Name": "",
+          "Type": "LANDSCAPE_API void",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    },
+    {
+      "Name": "BuildLandscapeStaticMesh",
+      "Description": "UFUNCTION(CallInEditor, Category = \"Build Static Mesh\", meta = (CallInEditor = \"true\"))",
+      "Params": null,
+      "Return": [
+        {
+          "Name": "",
+          "Type": "void",
+          "Description": "",
+          "Redirect": ""
+        }
+      ]
+    }
+  ],
+  "Parents": [
+    "ALandscapeProxy"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

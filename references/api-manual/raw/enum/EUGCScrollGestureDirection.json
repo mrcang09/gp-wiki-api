@@ -1,0 +1,21 @@
+{
+  "Name": "EUGCScrollGestureDirection",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UGCUseSystemSetting",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UGCStandard",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "UGCNatural",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

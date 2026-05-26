@@ -1,0 +1,16 @@
+{
+  "Name": "EUGCMobileSplinePointPositionType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "NORMAL",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "CENTER",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

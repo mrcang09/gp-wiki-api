@@ -1,0 +1,18 @@
+{
+  "Name": "FCustomInput",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "InputName",
+      "Type": "FString",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Input",
+      "Type": "FExpressionInput",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

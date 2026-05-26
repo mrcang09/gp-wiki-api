@@ -1,0 +1,12 @@
+{
+  "Name": "FFppTppShadowChangeRecord",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "PrimitiveKey",
+      "Type": "TWeakObjectPtr < UPrimitiveComponent >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

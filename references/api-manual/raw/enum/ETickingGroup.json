@@ -1,0 +1,56 @@
+{
+  "Name": "ETickingGroup",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "TG_FirstTick",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "TG_PrePhysics",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "TG_StartPhysics",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "TG_DuringPhysics",
+      "Value": "3",
+      "Description": " "
+    },
+    {
+      "Name": "TG_EndPhysics",
+      "Value": "4",
+      "Description": " "
+    },
+    {
+      "Name": "TG_PostPhysics",
+      "Value": "5",
+      "Description": " "
+    },
+    {
+      "Name": "TG_PostUpdateWork",
+      "Value": "6",
+      "Description": " "
+    },
+    {
+      "Name": "TG_LastDemotable",
+      "Value": "7",
+      "Description": " "
+    },
+    {
+      "Name": "TG_NewlySpawned",
+      "Value": "8",
+      "Description": " "
+    },
+    {
+      "Name": "TG_MAX",
+      "Value": "9",
+      "Description": " "
+    }
+  ]
+}

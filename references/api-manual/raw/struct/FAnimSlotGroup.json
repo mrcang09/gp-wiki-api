@@ -1,0 +1,18 @@
+{
+  "Name": "FAnimSlotGroup",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "GroupName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "SlotNames",
+      "Type": "TArray < FName >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "EFracturedMeshDestructibleAction",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "FracturedDAction_Hide",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "FracturedDAction_Detach",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

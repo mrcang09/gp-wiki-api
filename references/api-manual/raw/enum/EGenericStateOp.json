@@ -1,0 +1,16 @@
+{
+  "Name": "EGenericStateOp",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Allow",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Has",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

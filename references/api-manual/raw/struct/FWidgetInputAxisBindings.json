@@ -1,0 +1,12 @@
+{
+  "Name": "FWidgetInputAxisBindings",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "AxisMappings",
+      "Type": "TArray < FWidgetInputAxisBinding >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

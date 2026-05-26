@@ -1,0 +1,12 @@
+{
+  "Name": "FSkelMeshComponentLODInfo",
+  "Description": "LOD specific setup for the skeletal mesh component.",
+  "Variables": [
+    {
+      "Name": "HiddenMaterials",
+      "Type": "TArray < bool >",
+      "Description": "Material corresponds to section. To showhide each section, use this.",
+      "Redirect": ""
+    }
+  ]
+}

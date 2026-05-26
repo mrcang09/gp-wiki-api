@@ -1,0 +1,28 @@
+# ECharacterShowSceneType
+
+- Symbol Type: enum
+- Symbol Path: ECharacterShowSceneType
+- Source JSON Path: cppenum/detail/ECharacterShowSceneType.json
+- Source JSON URL: https://developer.gp.qq.com/api/cppenum/detail/ECharacterShowSceneType.json
+- Mirrored At (UTC): 2026-05-19 08:23:51Z
+
+---
+
+## Variables
+
+| Name | Value | Description |
+| --- | --- | --- |
+| ECharacterShowSceneType_Lobby | 0 |   |
+| ECharacterShowSceneType_GameEndAvatarScene | 1 |   |
+| ECharacterShowSceneType_LobbyWithCar | 2 |   |
+| ECharacterShowSceneType_LobbySystem | 3 |   |
+| ECharacterShowSceneType_LobbyDefaultPose | 4 |   |
+| ECharacterShowSceneType_LobbyPeakPose | 5 |   |
+| ECharacterShowSceneType_RoleAndRank | 6 |   |
+| ECharacterShowSceneType_EliteRoom | 7 |   |
+| ECharacterShowSceneType_LostTombRoleSelection | 8 |   |
+| ECharacterShowSceneType_LostTombDepot | 9 |   |
+| ECharacterShowSceneType_LostTombSkillEdit | 10 |   |
+| ECharacterShowSceneType_Backup1 | 11 |   |
+| ECharacterShowSceneType_Backup2 | 12 |   |
+| ECharacterShowSceneType_Max | 13 |   |

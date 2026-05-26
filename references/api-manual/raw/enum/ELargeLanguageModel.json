@@ -1,0 +1,31 @@
+{
+  "Name": "ELargeLanguageModel",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "ChatGPT4o",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Claude37",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Hunyuan",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "Qwen25",
+      "Value": "3",
+      "Description": " "
+    },
+    {
+      "Name": "DeepseekR1",
+      "Value": "4",
+      "Description": " "
+    }
+  ]
+}

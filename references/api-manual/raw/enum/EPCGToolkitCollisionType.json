@@ -1,0 +1,31 @@
+{
+  "Name": "EPCGToolkitCollisionType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Landscape",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "WorldStatic",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "WorldDynamic",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "All",
+      "Value": "3",
+      "Description": " "
+    },
+    {
+      "Name": "PhysicsBody",
+      "Value": "4",
+      "Description": " "
+    }
+  ]
+}

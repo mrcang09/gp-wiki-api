@@ -1,0 +1,16 @@
+{
+  "Name": "EDVPCActivateType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "DVPCAT_BY_RANGE",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "DVPCAT_MANUAL",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

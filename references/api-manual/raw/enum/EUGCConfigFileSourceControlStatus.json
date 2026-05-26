@@ -1,0 +1,21 @@
+{
+  "Name": "EUGCConfigFileSourceControlStatus",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UGC_CFSCS_Unknown",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_CFSCS_Writable",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_CFSCS_Locked",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

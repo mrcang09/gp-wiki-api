@@ -1,0 +1,18 @@
+{
+  "Name": "FDPProfileMatch",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Profile",
+      "Type": "FString",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Match",
+      "Type": "TArray < FDPProfileMatchItem >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "EWindowTitleBarMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Overlay",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "VerticalBox",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

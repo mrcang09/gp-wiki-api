@@ -1,0 +1,16 @@
+{
+  "Name": "EStaticMeshLODType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Reduction",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Proxy",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

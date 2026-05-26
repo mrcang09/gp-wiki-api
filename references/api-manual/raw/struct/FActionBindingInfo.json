@@ -1,0 +1,18 @@
+{
+  "Name": "FActionBindingInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "InputEvent",
+      "Type": "EActorInputEvent",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ActionName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

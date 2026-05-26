@@ -1,0 +1,12 @@
+{
+  "Name": "FWSPropContext",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Properties",
+      "Type": "TMap < FWSPropKey , UWigetSkinType * >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

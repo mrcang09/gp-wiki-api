@@ -1,0 +1,12 @@
+{
+  "Name": "FPawnActionStack",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "TopAction",
+      "Type": "UPawnAction *",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

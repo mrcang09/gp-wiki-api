@@ -1,0 +1,21 @@
+{
+  "Name": "ECableCarRunningState",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "NotUsable",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Usable",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "Running",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

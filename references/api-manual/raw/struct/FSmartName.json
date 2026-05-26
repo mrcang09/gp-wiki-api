@@ -1,0 +1,12 @@
+{
+  "Name": "FSmartName",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "DisplayName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

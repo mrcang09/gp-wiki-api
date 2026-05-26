@@ -1,0 +1,21 @@
+{
+  "Name": "EApplicationStrategy",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "MinValue",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "MaxValue",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "StrictOverride",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

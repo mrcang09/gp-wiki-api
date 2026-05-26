@@ -1,0 +1,13 @@
+{
+  "G": {
+    "GE": {
+      "GetAsyncLoadObjectPromiseFuture": "globalfunc/detail/GetAsyncLoadObjectPromiseFuture.json"
+    }
+  },
+  "T": {
+    "TA": {
+      "TagLogFormatPrint": "globalfunc/detail/TagLogFormatPrint.json",
+      "TagLogRawPrint": "globalfunc/detail/TagLogRawPrint.json"
+    }
+  }
+}

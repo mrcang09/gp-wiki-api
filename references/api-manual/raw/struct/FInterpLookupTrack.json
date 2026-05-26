@@ -1,0 +1,12 @@
+{
+  "Name": "FInterpLookupTrack",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Points",
+      "Type": "TArray < struct FInterpLookupPoint >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

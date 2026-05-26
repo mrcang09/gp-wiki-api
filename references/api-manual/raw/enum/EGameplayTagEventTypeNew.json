@@ -1,0 +1,16 @@
+{
+  "Name": "EGameplayTagEventTypeNew",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "NewOrRemoved",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "AnyCountChange",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

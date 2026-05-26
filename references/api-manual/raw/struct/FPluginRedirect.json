@@ -1,0 +1,18 @@
+{
+  "Name": "FPluginRedirect",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "OldPluginName",
+      "Type": "FString",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "NewPluginName",
+      "Type": "FString",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

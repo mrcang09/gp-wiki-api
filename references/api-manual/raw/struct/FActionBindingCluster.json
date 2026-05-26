@@ -1,0 +1,12 @@
+{
+  "Name": "FActionBindingCluster",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ActionBindingInfos",
+      "Type": "TArray < FActionBindingInfo >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

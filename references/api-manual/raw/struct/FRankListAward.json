@@ -1,0 +1,24 @@
+{
+  "Name": "FRankListAward",
+  "Description": "排行榜排名奖励结构体",
+  "Variables": [
+    {
+      "Name": "BeginRanking",
+      "Type": "int32",
+      "Description": "起始排名",
+      "Redirect": ""
+    },
+    {
+      "Name": "EndRanking",
+      "Type": "int32",
+      "Description": "结束排名",
+      "Redirect": ""
+    },
+    {
+      "Name": "AwardList",
+      "Type": "TArray < FUGCRankingListAwardItem >",
+      "Description": "奖励列表",
+      "Redirect": ""
+    }
+  ]
+}

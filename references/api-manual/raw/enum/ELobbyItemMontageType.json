@@ -1,0 +1,16 @@
+{
+  "Name": "ELobbyItemMontageType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "LobbyItemMontage_LobbyShow",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "LobbyItemMontage_Enter",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

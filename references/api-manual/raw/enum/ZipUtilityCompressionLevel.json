@@ -1,0 +1,21 @@
+{
+  "Name": "ZipUtilityCompressionLevel",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "COMPRESSION_LEVEL_NONE",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "COMPRESSION_LEVEL_FAST",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "COMPRESSION_LEVEL_NORMAL",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

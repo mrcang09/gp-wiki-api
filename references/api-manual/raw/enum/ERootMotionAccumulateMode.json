@@ -1,0 +1,16 @@
+{
+  "Name": "ERootMotionAccumulateMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Override",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Additive",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

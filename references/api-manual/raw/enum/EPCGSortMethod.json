@@ -1,0 +1,16 @@
+{
+  "Name": "EPCGSortMethod",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Ascending",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Descending",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

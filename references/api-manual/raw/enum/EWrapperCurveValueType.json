@@ -1,0 +1,16 @@
+{
+  "Name": "EWrapperCurveValueType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Constant",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Curve",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

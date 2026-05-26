@@ -1,0 +1,12 @@
+{
+  "Name": "FMatIDFallbackArray",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "IDs",
+      "Type": "TArray < uint8 >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

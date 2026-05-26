@@ -1,0 +1,18 @@
+{
+  "Name": "FMovieSceneEventSectionData",
+  "Description": "A curve of events",
+  "Variables": [
+    {
+      "Name": "KeyTimes",
+      "Type": "TArray < float >",
+      "Description": "Sorted array of key times",
+      "Redirect": ""
+    },
+    {
+      "Name": "KeyValues",
+      "Type": "TArray < FEventPayload >",
+      "Description": "Array of values that correspond to each key time",
+      "Redirect": ""
+    }
+  ]
+}

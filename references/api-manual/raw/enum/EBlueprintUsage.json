@@ -1,0 +1,21 @@
+{
+  "Name": "EBlueprintUsage",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "NoProperties",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "DoesNotUseBlueprint",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "UsesBlueprint",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

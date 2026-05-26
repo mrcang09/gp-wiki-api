@@ -1,0 +1,108 @@
+{
+  "Name": "FSimplygonMaterialLODSettings",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "bActive",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MaterialLODType",
+      "Type": "TEnumAsByte < EMaterialLODType :: Type >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseAutomaticSizes",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TextureWidth",
+      "Type": "TEnumAsByte < ESimplygonTextureResolution :: Type >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TextureHeight",
+      "Type": "TEnumAsByte < ESimplygonTextureResolution :: Type >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "GutterSpace",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "SamplingQuality",
+      "Type": "TEnumAsByte < ESimplygonTextureSamplingQuality :: Type >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TextureStrech",
+      "Type": "TEnumAsByte < ESimplygonTextureStrech :: Type >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bReuseExistingCharts",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ChannelsToCast",
+      "Type": "TArray < struct FSimplygonChannelCastingSettings >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bBakeVertexData",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bBakeActorData",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bAllowMultiMaterial",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bPreferTwoSideMaterials",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bUseVertexWeights",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "OutputMaterialInfo",
+      "Type": "FOutputMaterialInfo",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ChannelsToCast",
+      "Type": "TArray < FSimplygonChannelCastingSettings >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

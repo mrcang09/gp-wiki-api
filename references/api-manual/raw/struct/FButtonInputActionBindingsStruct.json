@@ -1,0 +1,18 @@
+{
+  "Name": "FButtonInputActionBindingsStruct",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "InputActionBindings",
+      "Type": "TMap < FButtonInputActionSelector , FButtonInputActionBindings >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "InputAxisBindings",
+      "Type": "TMap < FButtonInputAxisSelector , FWidgetInputAxisBindings >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

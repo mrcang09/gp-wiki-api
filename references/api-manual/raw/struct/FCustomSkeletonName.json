@@ -1,0 +1,18 @@
+{
+  "Name": "FCustomSkeletonName",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "SkeletonNameMap",
+      "Type": "TMap < FName , FName >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "SkeletonNotOffsetName",
+      "Type": "TMap < FName , FBoneOffset >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

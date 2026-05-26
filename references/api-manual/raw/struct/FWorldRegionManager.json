@@ -1,0 +1,42 @@
+{
+  "Name": "FWorldRegionManager",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "World",
+      "Type": "UWorld *",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ObjectToRegionID_NonStatic",
+      "Type": "TMap < UObject * , FRegionID >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CacheNonStaticObjectOldRegion",
+      "Type": "TMap < UObject * , FRegionID >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "OverlapObjectToRegionID_Dynamic",
+      "Type": "TMap < UObject * , FRegionID >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "OverlapObjectToRegionID_Player",
+      "Type": "TMap < UObject * , FRegionID >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "OverlapObjectToRegionID_Vehicle",
+      "Type": "TMap < UObject * , FRegionID >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

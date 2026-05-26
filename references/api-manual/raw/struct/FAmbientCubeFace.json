@@ -1,0 +1,24 @@
+{
+  "Name": "FAmbientCubeFace",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Color",
+      "Type": "FColor",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Tint",
+      "Type": "FLinearColor",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FaceSaturation",
+      "Type": "float",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "FMaterialAttributesInput",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "PropertyConnectedBitmask",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

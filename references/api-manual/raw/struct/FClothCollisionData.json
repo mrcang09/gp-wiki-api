@@ -1,0 +1,24 @@
+{
+  "Name": "FClothCollisionData",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Spheres",
+      "Type": "TArray < FClothCollisionPrim_Sphere >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "SphereConnections",
+      "Type": "TArray < FClothCollisionPrim_SphereConnection >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Convexes",
+      "Type": "TArray < FClothCollisionPrim_Convex >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

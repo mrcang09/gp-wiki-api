@@ -1,0 +1,30 @@
+{
+  "Name": "FWeightmapToMatIDConfig",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "WeightmapLayers",
+      "Type": "TArray < ULandscapeLayerInfoObject * >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LayerIndex",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LayerDisplayName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "LayerInfo",
+      "Type": "ULandscapeMaterialIdLayerInfoObject *",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

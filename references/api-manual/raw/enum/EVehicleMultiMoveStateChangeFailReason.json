@@ -1,0 +1,11 @@
+{
+  "Name": "EVehicleMultiMoveStateChangeFailReason",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "VehicleMultiMoveStateFailReason_None",
+      "Value": "0",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "EConstructionMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Eye",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Finger",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

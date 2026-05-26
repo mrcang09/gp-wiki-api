@@ -1,0 +1,12 @@
+{
+  "Name": "FMoveAdditiveLayeringData",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "PerBoneBlendWeights",
+      "Type": "TArray < FPerBoneBlendWeight >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

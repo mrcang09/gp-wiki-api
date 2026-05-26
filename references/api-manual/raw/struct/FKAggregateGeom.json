@@ -1,0 +1,30 @@
+{
+  "Name": "FKAggregateGeom",
+  "Description": "Container for an aggregate of collision shapes",
+  "Variables": [
+    {
+      "Name": "SphereElems",
+      "Type": "TArray < FKSphereElem >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BoxElems",
+      "Type": "TArray < FKBoxElem >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "SphylElems",
+      "Type": "TArray < FKSphylElem >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ConvexElems",
+      "Type": "TArray < FKConvexElem >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "FSoundType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "ESoundMove",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "ESoundFire",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "ESoundVehicle",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "FAnimNode_BlendListByBool",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "bActiveValue",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "Name": "UMaterialExpressionRuntimeVirtualTextureOutput",
+  "Description": "Material output expression for writing to a runtime virtual texture.",
+  "Variables": [
+    {
+      "Name": "BaseColor",
+      "Type": "FExpressionInput",
+      "Description": "Input for Base Color to output to virtual texture.",
+      "Redirect": ""
+    },
+    {
+      "Name": "Specular",
+      "Type": "FExpressionInput",
+      "Description": "Input for Specular to output to virtual texture.",
+      "Redirect": ""
+    },
+    {
+      "Name": "Roughness",
+      "Type": "FExpressionInput",
+      "Description": "Input for Roughness to output to virtual texture.",
+      "Redirect": ""
+    },
+    {
+      "Name": "Normal",
+      "Type": "FExpressionInput",
+      "Description": "Input for Surface Normal to output to virtual texture.",
+      "Redirect": ""
+    },
+    {
+      "Name": "WorldHeight",
+      "Type": "FExpressionInput",
+      "Description": "Input for World Height to output to virtual texture.",
+      "Redirect": ""
+    },
+    {
+      "Name": "Opacity",
+      "Type": "FExpressionInput",
+      "Description": "Input for Opacity value used for blending to virtual texture.",
+      "Redirect": ""
+    },
+    {
+      "Name": "Mask",
+      "Type": "FExpressionInput",
+      "Description": "Input for Mask to output to virtual texture.",
+      "Redirect": ""
+    },
+    {
+      "Name": "Displacement",
+      "Type": "FExpressionInput",
+      "Description": "Input for World Height to output to virtual texture.",
+      "Redirect": ""
+    },
+    {
+      "Name": "Mask4",
+      "Type": "FExpressionInput",
+      "Description": "Input for Mask to output to virtual texture.",
+      "Redirect": ""
+    }
+  ],
+  "Functions": null,
+  "Parents": [
+    "UMaterialExpressionCustomOutput"
+  ],
+  "Event": null,
+  "Delegate": null,
+  "Language": "cpp"
+}

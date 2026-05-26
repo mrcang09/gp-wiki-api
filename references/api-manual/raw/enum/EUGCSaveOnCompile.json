@@ -1,0 +1,21 @@
+{
+  "Name": "EUGCSaveOnCompile",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "UGC_SoC_Never",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_SoC_SuccessOnly",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "UGC_SoC_Always",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

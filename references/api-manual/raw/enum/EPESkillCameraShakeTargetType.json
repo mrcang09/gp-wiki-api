@@ -1,0 +1,26 @@
+{
+  "Name": "EPESkillCameraShakeTargetType",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "E_PESKILL_CameraShakeTarget_Self",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "E_PESKILL_CameraShakeTarget_SelectTargets",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "E_PESKILL_CameraShakeTarget_SelectPoint",
+      "Value": "2",
+      "Description": " "
+    },
+    {
+      "Name": "E_PESKILL_CameraShakeTarget_SelfAround",
+      "Value": "3",
+      "Description": " "
+    }
+  ]
+}

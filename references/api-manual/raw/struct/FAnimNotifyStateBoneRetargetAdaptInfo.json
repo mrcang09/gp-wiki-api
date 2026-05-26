@@ -1,0 +1,18 @@
+{
+  "Name": "FAnimNotifyStateBoneRetargetAdaptInfo",
+  "Description": "For Bone Retarget Feature Start",
+  "Variables": [
+    {
+      "Name": "BoneRetargetObj",
+      "Type": "TWeakObjectPtr < UObject >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "bBoneRetargetAdaptInitDone",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

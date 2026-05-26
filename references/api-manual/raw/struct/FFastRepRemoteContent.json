@@ -1,0 +1,42 @@
+{
+  "Name": "FFastRepRemoteContent",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "ContentBlockCount",
+      "Type": "uint16",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ContentNumBytes",
+      "Type": "uint16",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Content",
+      "Type": "TArray < uint8 >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "ObjPtrs",
+      "Type": "TArray < UObject * >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DebugInfo",
+      "Type": "FString",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DSFrameCounter",
+      "Type": "uint16",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

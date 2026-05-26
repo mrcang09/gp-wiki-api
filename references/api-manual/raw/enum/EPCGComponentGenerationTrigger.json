@@ -1,0 +1,21 @@
+{
+  "Name": "EPCGComponentGenerationTrigger",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "GenerateOnLoad",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "GenerateOnDemand",
+      "Value": "1",
+      "Description": " "
+    },
+    {
+      "Name": "GenerateAtRuntime",
+      "Value": "2",
+      "Description": " "
+    }
+  ]
+}

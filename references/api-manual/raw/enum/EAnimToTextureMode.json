@@ -1,0 +1,16 @@
+{
+  "Name": "EAnimToTextureMode",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Vertex",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Bone",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

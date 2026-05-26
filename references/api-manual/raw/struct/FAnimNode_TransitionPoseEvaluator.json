@@ -1,0 +1,30 @@
+{
+  "Name": "FAnimNode_TransitionPoseEvaluator",
+  "Description": "Animation data node for state machine transitions.\n  Can be set to supply either the animation data from the transition source (From State) or the transition destination (To State).",
+  "Variables": [
+    {
+      "Name": "DataSource",
+      "Type": "TEnumAsByte < EEvaluatorDataSource :: Type >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EvaluatorMode",
+      "Type": "TEnumAsByte < EEvaluatorMode :: Mode >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "FramesToCachePose",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CacheFramesRemaining",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

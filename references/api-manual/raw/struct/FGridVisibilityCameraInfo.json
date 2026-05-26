@@ -1,0 +1,18 @@
+{
+  "Name": "FGridVisibilityCameraInfo",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "CameraDirections",
+      "Type": "TArray < FVector >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "CameraLocation",
+      "Type": "FVector",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

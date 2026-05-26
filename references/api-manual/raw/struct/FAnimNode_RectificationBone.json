@@ -1,0 +1,48 @@
+{
+  "Name": "FAnimNode_RectificationBone",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "BoneToModify",
+      "Type": "FBoneReference",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "DestinRotation",
+      "Type": "FRotator",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BeginOffsetRotation",
+      "Type": "FRotator",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "EndOffsetRotation",
+      "Type": "FRotator",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BaseBoneCached",
+      "Type": "FCachedBoneParamInfo",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "BoneCachedOffsetList",
+      "Type": "TArray < FPairCachedBoneInfo >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "AutoSortCacheList",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

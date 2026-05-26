@@ -1,0 +1,18 @@
+{
+  "Name": "FInt32RangeBound",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Type",
+      "Type": "TEnumAsByte < ERangeBoundTypes :: Type >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Value",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

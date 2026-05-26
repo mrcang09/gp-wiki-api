@@ -1,0 +1,16 @@
+{
+  "Name": "EPEAttachScaleRule",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "PEAttachScaleRule_KeepRelative",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "PEAttachScaleRule_KeepSelf",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}

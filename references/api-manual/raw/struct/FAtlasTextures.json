@@ -1,0 +1,24 @@
+{
+  "Name": "FAtlasTextures",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Textures",
+      "Type": "TArray < FTextureInfo >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "TextureSize",
+      "Type": "FVector2D",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "MinMipMapTextureIdx",
+      "Type": "int32",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

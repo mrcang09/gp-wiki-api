@@ -1,0 +1,11 @@
+{
+  "Name": "ECombineMoveNotRestoreRotationMask",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "DyingShooting",
+      "Value": "0",
+      "Description": " "
+    }
+  ]
+}

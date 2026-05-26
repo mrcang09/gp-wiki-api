@@ -1,0 +1,18 @@
+{
+  "Name": "FNavigationLink",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "Left",
+      "Type": "FVector",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Right",
+      "Type": "FVector",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "FScalarParameterAtlasInstanceData",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "bIsUsedAsAtlasPosition",
+      "Type": "bool",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Curve",
+      "Type": "TSoftObjectPtr < UCurveLinearColor >",
+      "Description": "",
+      "Redirect": ""
+    },
+    {
+      "Name": "Atlas",
+      "Type": "TSoftObjectPtr < UCurveLinearColorAtlas >",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

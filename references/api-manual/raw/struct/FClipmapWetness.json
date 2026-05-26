@@ -1,0 +1,12 @@
+{
+  "Name": "FClipmapWetness",
+  "Description": "",
+  "Variables": [
+    {
+      "Name": "WetnessLayerName",
+      "Type": "FName",
+      "Description": "",
+      "Redirect": ""
+    }
+  ]
+}

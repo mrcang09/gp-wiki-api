@@ -1,0 +1,16 @@
+{
+  "Name": "EGraphDataStyle",
+  "Description": " ",
+  "Variables": [
+    {
+      "Name": "Lines",
+      "Value": "0",
+      "Description": " "
+    },
+    {
+      "Name": "Filled",
+      "Value": "1",
+      "Description": " "
+    }
+  ]
+}
