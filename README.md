@@ -1,36 +1,41 @@
 # gp-wiki-api
 
-`gp-wiki-api` 是一个 Codex skill，用于离线查询和更新腾讯 GP / 绿洲启元 / 和平精英 UGC 相关文档镜像。
+`gp-wiki-api` 是一个 Codex skill，用于离线查询和维护腾讯 GP / 绿洲启元 / 和平精英 UGC 相关文档镜像。
 
-它包含两类本地资料：
+它包含三类本地资料：
 
-- GP Wiki 文档镜像：来自 `https://developer.gp.qq.com/wikieditor`
-- GP API 手册镜像：来自 `https://developer.gp.qq.com/api/#/`
+- GP Wiki 文档镜像，来源于 `https://developer.gp.qq.com/wikieditor`
+- GP API 手册镜像，来源于 `https://developer.gp.qq.com/api/#/`
+- 绿洲启元提审流程速查，整理自 PC 编辑器开发者指南、签约文档、创作规范、策划案模板和已镜像 Wiki 文章
 
-适用场景包括 Lua API 查询、类 / 枚举 / 结构体符号检索、玩法系统、UI、联网、观战、社交、AI 节点、集成系统等问题。
+适用场景包括 Lua API 查询、类 / 枚举 / 结构体符号检索、玩法系统、UI、联网、观战、社交、AI 节点、上传调试、测试上传与发布上传、后台项目绑定、提审、灰度、签约和版本更新等问题。
 
 ## 目录结构
 
 ```text
 gp-wiki-api/
-├─ SKILL.md                         # Codex skill 入口说明
-├─ agents/openai.yaml               # Codex UI 元数据
-├─ scripts/
-│  ├─ sync_gp_docs.py               # 同步 Wiki + API 手册
-│  ├─ sync_gp_wiki.py               # 只同步 GP Wiki
-│  └─ sync_gp_api_manual.py         # 只同步 GP API 手册
-└─ references/
-   ├─ article-index.md              # Wiki 文档目录，便于人工阅读
-   ├─ article-index.tsv             # Wiki 文档目录，便于 rg 检索
-   ├─ tree.json                     # Wiki 原始目录树
-   ├─ sync_usage.md                 # 同步脚本说明
-   ├─ articles/                     # Wiki 文档 markdown 镜像
-   └─ api-manual/
-      ├─ symbol-index.md            # API 符号目录，便于人工阅读
-      ├─ symbol-index.tsv           # API 符号目录，便于 rg 检索
-      ├─ datasets/                  # API 顶层数据集
-      ├─ raw/                       # API 原始 JSON
-      └─ symbols/                   # API 符号 markdown 镜像
+|-- SKILL.md                         # Codex skill 入口说明
+|-- README.md                        # 仓库说明
+|-- agents/openai.yaml               # Codex UI 元数据
+|-- docs/
+|   |-- 中文说明.md                  # 中文使用说明
+|   `-- 绿洲提审流程速查.md          # 上传、提审、灰度、签约流程速查
+|-- scripts/
+|   |-- sync_gp_docs.py              # 同步 Wiki + API 手册
+|   |-- sync_gp_wiki.py              # 只同步 GP Wiki
+|   `-- sync_gp_api_manual.py        # 只同步 GP API 手册
+`-- references/
+    |-- article-index.md             # Wiki 文档目录，便于人工阅读
+    |-- article-index.tsv            # Wiki 文档目录，便于 rg 检索
+    |-- tree.json                    # Wiki 原始目录树
+    |-- sync_usage.md                # 同步脚本说明
+    |-- articles/                    # Wiki 文档 markdown 镜像
+    `-- api-manual/
+        |-- symbol-index.md          # API 符号目录，便于人工阅读
+        |-- symbol-index.tsv         # API 符号目录，便于 rg 检索
+        |-- datasets/                # API 顶层数据集
+        |-- raw/                     # API 原始 JSON
+        `-- symbols/                 # API 符号 markdown 镜像
 ```
 
 ## 安装到 Codex
@@ -50,9 +55,27 @@ git clone https://github.com/mrcang09/gp-wiki-api.git "$env:USERPROFILE\.codex\s
 ```powershell
 rg "APlayerController|UGCPlayerControllerSystem" references/api-manual/symbol-index.tsv references/api-manual/symbols
 rg "背包系统|观战|聊天系统" references/article-index.tsv references/articles
+rg "测试上传|发布上传|提审|签约|灰度|策划案|jobid" docs references/article-index.tsv references/articles
 ```
 
-找到匹配项后，再打开对应的 markdown 文件查看原文和来源链接。
+找到匹配项后，再打开对应的 markdown 文件查看原文、来源链接和上下文。
+
+## 提审流程速查
+
+新增的 `docs/绿洲提审流程速查.md` 主要覆盖：
+
+- 测试上传和发布上传的区别
+- 上传后后台看不到版本的排查
+- UID 白名单真机测试
+- 管理平台项目绑定和 `jobid`
+- 首次提审流程
+- 内容审核、法务审核、玩法测试和商业化测试
+- 灰度、ready、上线排期
+- 个人签约和团队签约
+- 版本更新提审
+- 策划案、版权、AI 内容、随机玩法和外部素材合规要求
+
+核心结论：测试上传只用于内部测试，不能绑定项目或提审；发布上传才用于正式环境、管理平台绑定、创建版本、提审、灰度和上线。
 
 ## 更新本地镜像
 
@@ -80,9 +103,9 @@ python scripts/sync_gp_api_manual.py
 
 - 回答问题时优先引用本地镜像文件和原始来源 URL。
 - 判断文档是否过期时，先运行同步脚本刷新索引。
-- API 手册文件数量较多，搜索时优先使用 `symbol-index.tsv`。
-- Wiki 文档适合查询功能说明、系统接入和编辑器流程。
-- API 手册适合查询具体类、函数、枚举、结构体字段。
+- API 手册文件数量较多，搜索时优先使用 `references/api-manual/symbol-index.tsv`。
+- Wiki 文档适合查询功能说明、系统接入、上传调试和编辑器流程。
+- `docs/绿洲提审流程速查.md` 适合回答提审、上传、签约、灰度、更新和合规类问题。
 
 ## 许可证
 
